@@ -26,6 +26,14 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Fetch data
+        run: |
+          RESPONSE=$(curl -s https://boardgamegeek.com/boardgame/199792/everdell)
+          echo "$RESPONSE" | grep 'GEEK.geekitemPreload = ' > info.txt
+
+      - name: Postprocess
+        run: node ./scripts/postprocess.js info.txt
+
       - name: Build app
         env:
           REACT_APP_BGG_AUTH_TOKEN: 'todo'

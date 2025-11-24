@@ -23,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "type": "module",
   "homepage": "https://genron.github.io/gamewall.github.io",
   "repository": {
     "type": "git",
