@@ -28,11 +28,11 @@ jobs:
 
       - name: Fetch data
         run: |
-          RESPONSE=$(curl -s https://boardgamegeek.com/boardgame/199792/everdell)
+          RESPONSE=$(curl -s https://boardgamegeek.com/boardgame/199792/everdell/credits)
           echo "$RESPONSE" | grep 'GEEK.geekitemPreload = ' > info.txt
 
       - name: Postprocess
-        run: node ./scripts/postprocess.js info.txt
+        run: node ./scripts/postprocess.js
 
       - name: Build app
         env:
