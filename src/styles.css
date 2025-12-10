@@ -281,6 +281,34 @@ ul {
     width: 100dvw;
 }
 
+div.mdc-layout-grid.scrollable-grid {
+    overflow-x: scroll;
+}
+
+div.mdc-layout-grid.scrollable-grid > div.mdc-layout-grid__inner {
+    grid-auto-flow: column;
+}
+
+div.mdc-layout-grid.scrollable-grid {
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+div.mdc-layout-grid.scrollable-grid::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
+div.filter-chip.selected > i {
+    color: var(--mdc-theme-on-primary);
+}
+
+div.filter-chip.selected > i:hover {
+    color: var(--mdc-theme-text-primary-on-dark);
+}
+
 /*#main-nav.mdc-drawer--dismissible {*/
 /*    position: fixed;*/
 /*    top: 64px;*/

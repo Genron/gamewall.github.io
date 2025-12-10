@@ -1,24 +1,11 @@
-import { Tab, TabBar } from '@rmwc/tabs';
 import * as RMWC from '@rmwc/types';
 import React from 'react';
 
-import {
-  List,
-  ListGroupSubheader,
-  ListItem,
-  ListItemGraphic,
-  ListItemMeta
-} from '@rmwc/list';
-
-import { MenuSurface, MenuSurfaceAnchor } from '@rmwc/menu';
-
-import { toCamel, toDashCase } from '@rmwc/base';
-import { Button } from '@rmwc/button';
-import { getAutoColorsForTheme } from '@rmwc/theme';
-import { TopAppBarActionItem } from '@rmwc/top-app-bar';
+import {toDashCase} from '@rmwc/base';
+import {getAutoColorsForTheme} from '@rmwc/theme';
 
 const DEFAULT_THEME = {
-  '--mdc-theme-primary': '#6200ee',
+  '--mdc-theme-primary': 'rgb(63, 58, 96)',
   '--mdc-theme-secondary': '#03dac4',
   '--mdc-theme-background': '#fff',
   '--mdc-theme-surface': '#fff',
@@ -49,7 +36,7 @@ const TEXT_DEFAULTS = {
 
 const THEMES: { [key: string]: { [key: string]: string } } = {
   Baseline: {
-    '--mdc-theme-primary': '#6200ee',
+    '--mdc-theme-primary': 'rgb(63, 58, 96)',
     '--mdc-theme-secondary':
       '#03dac4' /** Any theme option pointing to a valid CSS value. */
   },
@@ -75,198 +62,6 @@ const THEMES: { [key: string]: { [key: string]: string } } = {
     '--mdc-theme-on-secondary': 'rgba(0,0,0,0.87)'
   }
 };
-
-export class ThemePicker extends React.Component<{
-  selectedThemeName: string;
-  onThemeClick: (themeName: string) => void;
-}> {
-  state = {
-    open: false,
-    activeTabIndex: 0
-  };
-
-  componentDidUpdate() {
-    window.requestAnimationFrame(() =>
-      window.dispatchEvent(new Event('resize'))
-    );
-  }
-
-  render() {
-    const { selectedThemeName, onThemeClick } = this.props;
-    const selectedTheme = getTheme(selectedThemeName);
-    return (
-      <MenuSurfaceAnchor>
-        <MenuSurface
-          renderToPortal
-          style={{ maxWidth: '100vw', width: '520px' }}
-          open={this.state.open}
-          onClose={() => {
-            this.setState({ open: false });
-          }}
-        >
-          <ListGroupSubheader>Themes</ListGroupSubheader>
-          <List>
-          {Object.keys(THEMES).map((themeName) => {
-            const theme: { [key: string]: string } = getTheme(themeName);
-            return (
-              <ListItem
-                style={{ cursor: 'pointer' }}
-                key={themeName}
-                tabIndex={0}
-                onClick={(evt: React.MouseEvent<HTMLDivElement>) => {
-                  evt.stopPropagation();
-                  onThemeClick(themeName);
-                }}
-              >
-                <div
-                  style={{
-                    width: '100%',
-                    height: '100%',
-                    position: 'absolute',
-                    top: '0',
-                    left: '0'
-                  }}
-                />
-                <ListItemGraphic
-                  icon={themeName === selectedThemeName ? 'check' : ''}
-                />
-                {themeName}
-                <ListItemMeta>
-                  <ColorBlock color={theme['--mdc-theme-primary']} />
-                  <ColorBlock color={theme['--mdc-theme-secondary']} />
-                  <ColorBlock color={theme['--mdc-theme-background']} />
-                  <ColorBlock color={theme['--mdc-theme-surface']} />
-                </ListItemMeta>
-              </ListItem>
-            );
-          })}
-          </List>
-          <TabBar
-            onClick={() => this.setState({ open: true })}
-            style={{ margin: '1rem auto -1rem auto' }}
-            activeTabIndex={this.state.activeTabIndex}
-            onActivate={(evt) =>
-              this.setState({ activeTabIndex: evt.detail.index })
-            }
-          >
-            <Tab>ThemeProvider</Tab>
-            <Tab>CSS</Tab>
-          </TabBar>
-          <ListItem
-            onClick={() => this.setState({ open: true })}
-            ripple={false}
-            style={{
-              backgroundColor: 'rgba(0,0,0,.05)',
-              padding: '1rem',
-              marginTop: '1rem',
-              display: 'block',
-              height: 'auto',
-              userSelect: 'initial',
-              cursor: 'text'
-            }}
-          >
-            {this.state.activeTabIndex === 0 ? (
-              <div>
-                <div style={{ whiteSpace: 'normal' }}>
-                  <b>Theme your App!</b>
-                  <br />
-                  Place this tag around the root of your App, or anywhere you
-                  want to apply a custom theme.
-                  <br />
-                  <br />
-                </div>
-                <span className="token keyword">import</span> {'{'}{' '}
-                ThemeProvider {'}'} <span className="token keyword">from</span>{' '}
-                <span className="token string">'rmwc/Theme';</span>
-                <br />
-                <br />
-                <span className="token punctuation">&lt;</span>
-                <span className="token tag">ThemeProvider </span>
-                <span className="token attr-name">options</span>={'{{'}
-                {Object.entries(selectedTheme).map(
-                  ([t, val]: [string, any], index, arr) => (
-                    <div
-                      key={t}
-                      style={{
-                        display: 'flex',
-                        justifyContent: 'space-between',
-                        alignItems: 'center'
-                      }}
-                    >
-                      <span>
-                        <span style={{ color: '#07a' }}>
-                          &nbsp;&nbsp;
-                          {toCamel(t.split('--mdc-theme-')[1])}:
-                        </span>{' '}
-                        '{val}'{index < arr.length - 1 ? ',' : ''}
-                      </span>
-
-                      <ColorBlock color={val} size={1} />
-                    </div>
-                  )
-                )}
-                {'}}'}
-                <span className="token punctuation">&gt;</span>
-                <br />
-                &nbsp;&nbsp;
-                <span className="token punctuation">&lt;</span>
-                <span className="token tag">App </span>
-                <span className="token punctuation">/&gt;</span>
-                <br />
-                <span className="token punctuation">&lt;/</span>
-                <span className="token tag">ThemeProvider </span>
-                <span className="token punctuation">&gt;</span>
-              </div>
-            ) : (
-              <div>
-                <div style={{ whiteSpace: 'normal' }}>
-                  <b>Theme your App!</b>
-                  <br />
-                  Copy and paste these rules into your main css file, or a style
-                  tag in your app and customize to your liking.
-                  <br />
-                  <br />
-                </div>
-                <span style={{ color: '#690' }}>:root</span> {'{'}
-                {Object.entries(selectedTheme).map(
-                  ([t, val]: [string, any]) => (
-                    <div
-                      key={t}
-                      style={{
-                        display: 'flex',
-                        justifyContent: 'space-between',
-                        alignItems: 'center'
-                      }}
-                    >
-                      <span>
-                        <span style={{ color: '#07a' }}>
-                          &nbsp;&nbsp;
-                          {t}:
-                        </span>{' '}
-                        {val};
-                      </span>
-
-                      <ColorBlock color={val} size={1} />
-                    </div>
-                  )
-                )}
-                {'}'}
-              </div>
-            )}
-          </ListItem>
-          <div style={{ padding: '1rem' }}>
-            <Button>Done</Button>
-          </div>
-        </MenuSurface>
-        <TopAppBarActionItem
-          onClick={() => this.setState({ open: !this.state.open })}
-          theme="onPrimary"
-          icon="color_lens"
-        />
-      </MenuSurfaceAnchor>
-    );
-  }
-}
 
 export const getTheme = (themeName: string) => {
   const theme = {
@@ -315,9 +110,9 @@ export const getTheme = (themeName: string) => {
 };
 
 const ColorBlock = ({
-  color,
-  size = 1.5
-}: {
+                      color,
+                      size = 1.5
+                    }: {
   color: string;
   size?: number;
 }) => (
