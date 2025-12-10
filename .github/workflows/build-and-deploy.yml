@@ -34,7 +34,7 @@ jobs:
 
       - name: Build app
         env:
-          REACT_APP_BGG_AUTH_TOKEN: 'todo'
+          CI: false
         run: npm run build
 
       - name: Deploy to gh-pages
