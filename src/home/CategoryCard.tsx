@@ -14,7 +14,7 @@ export function CategoryCard({item, w}: { item: Item, w: number }) {
 
 function ReducedCard({item}: { item: Item }) {
   return (
-    <Card>
+    <Card onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
       <CardPrimaryAction>
         <CardMedia
           square
@@ -73,7 +73,7 @@ export function getPlayerRecommendation(item: Item) {
 
 function DetailedCard({item}: { item: Item }) {
   return (
-    <Card>
+    <Card onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
       <CardPrimaryAction>
         <CardMedia
           square

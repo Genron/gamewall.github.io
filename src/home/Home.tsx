@@ -22,6 +22,8 @@ export function Home() {
     const best = [...value.match(/(\d\+|\d+-\d+|\d+)/g) || []];
     const bestPlayers = best.join(', ');
     return ({
+      id: i.id,
+      externalSrc: `https://boardgamegeek.com/boardgame/${i.id}/`,
       rating: ((i.statistics.ratings.ranks.rank as Rank)?.value || (i.statistics.ratings.ranks.rank as Rank[])?.[0].value) as number,
       name: i.name[0].value, // todo: first is probably always primary?
       year: i.yearpublished.value,

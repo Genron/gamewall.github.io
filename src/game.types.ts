@@ -50,6 +50,8 @@ export interface Game {
 }
 
 export interface Item {
+  id: number;
+  externalSrc: string;
   rating: number;
   backgroundImage: string;
   thumbnail: string;
