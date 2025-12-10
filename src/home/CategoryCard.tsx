@@ -37,13 +37,6 @@ function ReducedCard({item}: { item: Item }) {
             <span>{getPlayerRecommendation(item)}</span>
             <span>{item.weight}</span>
           </Typography>
-          <Typography
-            use="body1"
-            tag="div"
-            theme="textSecondaryOnBackground"
-          >
-            {item.caption.substring(0, 21) + '...'}
-          </Typography>
         </div>
       </CardPrimaryAction>
     </Card>
