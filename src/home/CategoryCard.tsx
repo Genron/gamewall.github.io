@@ -19,7 +19,7 @@ function ReducedCard({item}: { item: Item }) {
         <CardMedia
           square
           style={{
-            backgroundImage: `url("${item.backgroundImage}")`,
+            backgroundImage: `url("${item.thumbnail}")`,
           }}
         />
         <div style={{padding: '0 1rem 1rem 1rem'}}>
