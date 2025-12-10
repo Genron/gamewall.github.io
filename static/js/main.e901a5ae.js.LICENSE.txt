@@ -1,0 +1,619 @@
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*! ../action/component */
+
+/*! ../action/constants */
+
+/*! ../chip/component */
+
+/*! ../chip/constants */
+
+/*! ../chip/foundation */
+
+/*! ../trailingaction/component */
+
+/*! ../trailingaction/constants */
+
+/*! ./action/index */
+
+/*! ./adapter */
+
+/*! ./chip-set/index */
+
+/*! ./chip/index */
+
+/*! ./component */
+
+/*! ./component-ripple */
+
+/*! ./constants */
+
+/*! ./deprecated/index */
+
+/*! ./events */
+
+/*! ./focus-trap */
+
+/*! ./foundation */
+
+/*! ./keyboard */
+
+/*! ./ponyfill */
+
+/*! ./primary-foundation */
+
+/*! ./trailing-foundation */
+
+/*! ./trailingaction/index */
+
+/*! ./types */
+
+/*! ./util */
+
+/*! @material/animation/animationframe */
+
+/*! @material/base/component */
+
+/*! @material/base/foundation */
+
+/*! @material/dom/announce */
+
+/*! @material/dom/events */
+
+/*! @material/dom/keyboard */
+
+/*! @material/dom/ponyfill */
+
+/*! @material/ripple/component */
+
+/*! @material/ripple/foundation */
+
+/*! no static exports found */
+
+/*!***********************************!*\
+      !*** ./packages/mdc-dom/index.ts ***!
+      \***********************************/
+
+/*!************************************!*\
+      !*** ./packages/mdc-dom/events.ts ***!
+      \************************************/
+
+/*!*************************************!*\
+      !*** ./packages/mdc-chips/index.ts ***!
+      \*************************************/
+
+/*!*************************************!*\
+      !*** ./packages/mdc-ripple/util.ts ***!
+      \*************************************/
+
+/*!**************************************!*\
+      !*** ./packages/mdc-dom/announce.ts ***!
+      \**************************************/
+
+/*!**************************************!*\
+      !*** ./packages/mdc-dom/keyboard.ts ***!
+      \**************************************/
+
+/*!**************************************!*\
+      !*** ./packages/mdc-dom/ponyfill.ts ***!
+      \**************************************/
+
+/*!****************************************!*\
+      !*** ./packages/mdc-base/component.ts ***!
+      \****************************************/
+
+/*!****************************************!*\
+      !*** ./packages/mdc-dom/focus-trap.ts ***!
+      \****************************************/
+
+/*!*****************************************!*\
+      !*** ./packages/mdc-base/foundation.ts ***!
+      \*****************************************/
+
+/*!******************************************!*\
+      !*** ./packages/mdc-chips/chip/index.ts ***!
+      \******************************************/
+
+/*!******************************************!*\
+      !*** ./packages/mdc-chips/chip/types.ts ***!
+      \******************************************/
+
+/*!******************************************!*\
+      !*** ./packages/mdc-ripple/component.ts ***!
+      \******************************************/
+
+/*!******************************************!*\
+      !*** ./packages/mdc-ripple/constants.ts ***!
+      \******************************************/
+
+/*!*******************************************!*\
+      !*** ./packages/mdc-ripple/foundation.ts ***!
+      \*******************************************/
+
+/*!********************************************!*\
+      !*** ./packages/mdc-chips/action/index.ts ***!
+      \********************************************/
+
+/*!********************************************!*\
+      !*** ./packages/mdc-chips/action/types.ts ***!
+      \********************************************/
+
+/*!********************************************!*\
+      !*** ./packages/mdc-chips/chip/adapter.ts ***!
+      \********************************************/
+
+/*!**********************************************!*\
+      !*** ./packages/mdc-chips/action/adapter.ts ***!
+      \**********************************************/
+
+/*!**********************************************!*\
+      !*** ./packages/mdc-chips/chip-set/index.ts ***!
+      \**********************************************/
+
+/*!**********************************************!*\
+      !*** ./packages/mdc-chips/chip-set/types.ts ***!
+      \**********************************************/
+
+/*!**********************************************!*\
+      !*** ./packages/mdc-chips/chip/component.ts ***!
+      \**********************************************/
+
+/*!**********************************************!*\
+      !*** ./packages/mdc-chips/chip/constants.ts ***!
+      \**********************************************/
+
+/*!***********************************************!*\
+      !*** ./packages/mdc-chips/chip/foundation.ts ***!
+      \***********************************************/
+
+/*!************************************************!*\
+      !*** ./packages/mdc-chips/action/component.ts ***!
+      \************************************************/
+
+/*!************************************************!*\
+      !*** ./packages/mdc-chips/action/constants.ts ***!
+      \************************************************/
+
+/*!************************************************!*\
+      !*** ./packages/mdc-chips/chip-set/adapter.ts ***!
+      \************************************************/
+
+/*!************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/index.ts ***!
+      \************************************************/
+
+/*!*************************************************!*\
+      !*** ./packages/mdc-chips/action/foundation.ts ***!
+      \*************************************************/
+
+/*!**************************************************!*\
+      !*** ./packages/mdc-animation/animationframe.ts ***!
+      \**************************************************/
+
+/*!**************************************************!*\
+      !*** ./packages/mdc-chips/chip-set/component.ts ***!
+      \**************************************************/
+
+/*!**************************************************!*\
+      !*** ./packages/mdc-chips/chip-set/constants.ts ***!
+      \**************************************************/
+
+/*!***************************************************!*\
+      !*** ./packages/mdc-chips/chip-set/foundation.ts ***!
+      \***************************************************/
+
+/*!*****************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip/index.ts ***!
+      \*****************************************************/
+
+/*!*****************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip/types.ts ***!
+      \*****************************************************/
+
+/*!*******************************************************!*\
+      !*** ./packages/mdc-chips/action/component-ripple.ts ***!
+      \*******************************************************/
+
+/*!*******************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip/adapter.ts ***!
+      \*******************************************************/
+
+/*!*********************************************************!*\
+      !*** ./packages/mdc-chips/action/primary-foundation.ts ***!
+      \*********************************************************/
+
+/*!*********************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip-set/index.ts ***!
+      \*********************************************************/
+
+/*!*********************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip/component.ts ***!
+      \*********************************************************/
+
+/*!*********************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip/constants.ts ***!
+      \*********************************************************/
+
+/*!**********************************************************!*\
+      !*** ./packages/mdc-chips/action/trailing-foundation.ts ***!
+      \**********************************************************/
+
+/*!**********************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip/foundation.ts ***!
+      \**********************************************************/
+
+/*!***********************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip-set/adapter.ts ***!
+      \***********************************************************/
+
+/*!*************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip-set/component.ts ***!
+      \*************************************************************/
+
+/*!*************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip-set/constants.ts ***!
+      \*************************************************************/
+
+/*!**************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/chip-set/foundation.ts ***!
+      \**************************************************************/
+
+/*!***************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/trailingaction/index.ts ***!
+      \***************************************************************/
+
+/*!***************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/trailingaction/types.ts ***!
+      \***************************************************************/
+
+/*!*****************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/trailingaction/adapter.ts ***!
+      \*****************************************************************/
+
+/*!*******************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/trailingaction/component.ts ***!
+      \*******************************************************************/
+
+/*!*******************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/trailingaction/constants.ts ***!
+      \*******************************************************************/
+
+/*!********************************************************************!*\
+      !*** ./packages/mdc-chips/deprecated/trailingaction/foundation.ts ***!
+      \********************************************************************/
+
+/**
+       * @license
+       * Copyright 2016 Google Inc.
+       *
+       * Permission is hereby granted, free of charge, to any person obtaining a copy
+       * of this software and associated documentation files (the "Software"), to deal
+       * in the Software without restriction, including without limitation the rights
+       * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+       * copies of the Software, and to permit persons to whom the Software is
+       * furnished to do so, subject to the following conditions:
+       *
+       * The above copyright notice and this permission notice shall be included in
+       * all copies or substantial portions of the Software.
+       *
+       * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+       * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+       * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+       * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+       * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+       * THE SOFTWARE.
+       */
+
+/**
+       * @license
+       * Copyright 2017 Google Inc.
+       *
+       * Permission is hereby granted, free of charge, to any person obtaining a copy
+       * of this software and associated documentation files (the "Software"), to deal
+       * in the Software without restriction, including without limitation the rights
+       * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+       * copies of the Software, and to permit persons to whom the Software is
+       * furnished to do so, subject to the following conditions:
+       *
+       * The above copyright notice and this permission notice shall be included in
+       * all copies or substantial portions of the Software.
+       *
+       * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+       * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+       * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+       * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+       * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+       * THE SOFTWARE.
+       */
+
+/**
+       * @license
+       * Copyright 2018 Google Inc.
+       *
+       * Permission is hereby granted, free of charge, to any person obtaining a copy
+       * of this software and associated documentation files (the "Software"), to deal
+       * in the Software without restriction, including without limitation the rights
+       * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+       * copies of the Software, and to permit persons to whom the Software is
+       * furnished to do so, subject to the following conditions:
+       *
+       * The above copyright notice and this permission notice shall be included in
+       * all copies or substantial portions of the Software.
+       *
+       * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+       * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+       * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+       * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+       * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+       * THE SOFTWARE.
+       */
+
+/**
+       * @license
+       * Copyright 2019 Google Inc.
+       *
+       * Permission is hereby granted, free of charge, to any person obtaining a copy
+       * of this software and associated documentation files (the "Software"), to deal
+       * in the Software without restriction, including without limitation the rights
+       * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+       * copies of the Software, and to permit persons to whom the Software is
+       * furnished to do so, subject to the following conditions:
+       *
+       * The above copyright notice and this permission notice shall be included in
+       * all copies or substantial portions of the Software.
+       *
+       * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+       * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+       * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+       * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+       * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+       * THE SOFTWARE.
+       */
+
+/**
+       * @license
+       * Copyright 2020 Google Inc.
+       *
+       * Permission is hereby granted, free of charge, to any person obtaining a copy
+       * of this software and associated documentation files (the "Software"), to deal
+       * in the Software without restriction, including without limitation the rights
+       * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+       * copies of the Software, and to permit persons to whom the Software is
+       * furnished to do so, subject to the following conditions:
+       *
+       * The above copyright notice and this permission notice shall be included in
+       * all copies or substantial portions of the Software.
+       *
+       * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+       * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+       * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+       * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+       * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+       * THE SOFTWARE.
+       */
+
+/**
+ * @license
+ * Copyright 2016 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/**
+ * @license
+ * Copyright 2017 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/**
+ * @license
+ * Copyright 2018 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/**
+ * @license
+ * Copyright 2019 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/**
+ * @license
+ * Copyright 2020 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/**
+ * @license
+ * Copyright 2021 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://github.com/material-components/material-components-web/blob/master/LICENSE
+ */
+
+/**
+ * @license React
+ * react-dom-client.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-dom.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * react-router v7.9.6
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
