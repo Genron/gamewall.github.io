@@ -189,21 +189,7 @@ export type Collection = Array<{
         "value": number
       },
       "ranks": {
-        "rank": Array<{
-          "type": string,
-          "id": number,
-          "name": string,
-          "friendlyname": string,
-          "value": number | string, // not ranked
-          "bayesaverage": number
-        }> | {
-          "type": string,
-          "id": number,
-          "name": string,
-          "friendlyname": string,
-          "value": number | string, // not ranked
-          "bayesaverage": number
-        }
+        "rank": Array<Rank> | Rank
       },
       "stddev": {
         "value": number
@@ -236,3 +222,11 @@ export type Collection = Array<{
   }
 }>
 
+export type Rank = {
+"type": string,
+  "id": number,
+  "name": string,
+  "friendlyname": string,
+  "value": number | string, // not ranked
+  "bayesaverage": number
+}

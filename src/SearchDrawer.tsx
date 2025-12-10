@@ -12,6 +12,10 @@ export function SearchDrawer(props: SearchDrawerProps) {
     console.log(`search is ${search}`);
   }, [search]);
 
+  // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  // @ts-ignore
+  const onClick = (e) => props.onClose?.(e);
+
   return (
     <Drawer id="search-drawer" {...props}>
       <DrawerContent dir={'ltr'}>
@@ -23,9 +27,7 @@ export function SearchDrawer(props: SearchDrawerProps) {
           placeholder="Nach Spiel suchen..."
           icon={{
             icon: 'west',
-            onClick: (e: any) => {
-              props.onClose?.(e);
-            },
+            onClick,
             tabIndex: 0,
           }}
           style={{

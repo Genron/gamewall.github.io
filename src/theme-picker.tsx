@@ -1,5 +1,4 @@
 import * as RMWC from '@rmwc/types';
-import React from 'react';
 
 import {toDashCase} from '@rmwc/base';
 import {getAutoColorsForTheme} from '@rmwc/theme';
@@ -108,25 +107,3 @@ export const getTheme = (themeName: string) => {
     return acc;
   }, {});
 };
-
-const ColorBlock = ({
-                      color,
-                      size = 1.5
-                    }: {
-  color: string;
-  size?: number;
-}) => (
-  <div
-    style={{
-      display: 'inline-block',
-      backgroundColor: color,
-      border: '1px solid rgba(0,0,0,.25)',
-      verticalAlign: 'middle',
-      marginLeft: '0.5rem',
-      height: `${size}rem`,
-      width: `${size}rem`,
-      borderRadius: '3px',
-      boxSizing: 'border-box'
-    }}
-  />
-);

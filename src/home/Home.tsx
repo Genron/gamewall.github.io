@@ -1,5 +1,5 @@
 import React from 'react';
-import {Collection, Item, Links, Weight} from "../game.types";
+import {Collection, Item, Links, Rank, Weight} from "../game.types";
 import {Filters} from "./Filters";
 import {Category} from "./Category";
 import {
@@ -22,7 +22,7 @@ export function Home() {
     const best = [...value.match(/(\d\+|\d+-\d+|\d+)/g) || []];
     const bestPlayers = best.join(', ');
     return ({
-      rating: ((i.statistics.ratings.ranks.rank as any)?.value || (i.statistics.ratings.ranks.rank as any[])?.[0].value) as number,
+      rating: ((i.statistics.ratings.ranks.rank as Rank)?.value || (i.statistics.ratings.ranks.rank as Rank[])?.[0].value) as number,
       name: i.name[0].value, // todo: first is probably always primary?
       year: i.yearpublished.value,
       backgroundImage: i.image, // thumbnail | image
