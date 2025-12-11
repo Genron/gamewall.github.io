@@ -20,6 +20,10 @@
             "value": "Fantasy",
             "amount": 7
         },
+        "1013": {
+            "value": "Farming",
+            "amount": 1
+        },
         "1016": {
             "value": "Science Fiction",
             "amount": 4
@@ -30,7 +34,7 @@
         },
         "1020": {
             "value": "Exploration",
-            "amount": 5
+            "amount": 7
         },
         "1021": {
             "value": "Economic",
@@ -38,7 +42,7 @@
         },
         "1022": {
             "value": "Adventure",
-            "amount": 1
+            "amount": 3
         },
         "1023": {
             "value": "Bluffing",
@@ -102,11 +106,11 @@
         },
         "1042": {
             "value": "Expansion for Base-game",
-            "amount": 4
+            "amount": 6
         },
         "1046": {
             "value": "Fighting",
-            "amount": 7
+            "amount": 8
         },
         "1055": {
             "value": "American West",
@@ -142,7 +146,7 @@
         },
         "1089": {
             "value": "Animals",
-            "amount": 4
+            "amount": 5
         },
         "1090": {
             "value": "Pirates",
@@ -150,7 +154,7 @@
         },
         "1093": {
             "value": "Novel-based",
-            "amount": 1
+            "amount": 3
         },
         "1094": {
             "value": "Educational",
@@ -180,7 +184,7 @@
     "boardgamemechanic": {
         "2002": {
             "value": "Tile Placement",
-            "amount": 4
+            "amount": 5
         },
         "2003": {
             "value": "Rock-Paper-Scissors",
@@ -212,7 +216,7 @@
         },
         "2015": {
             "value": "Variable Player Powers",
-            "amount": 13
+            "amount": 14
         },
         "2017": {
             "value": "Voting",
@@ -228,11 +232,11 @@
         },
         "2023": {
             "value": "Cooperative Game",
-            "amount": 7
+            "amount": 9
         },
         "2026": {
             "value": "Hexagon Grid",
-            "amount": 1
+            "amount": 2
         },
         "2028": {
             "value": "Role Playing",
@@ -256,7 +260,7 @@
         },
         "2046": {
             "value": "Area Movement",
-            "amount": 2
+            "amount": 3
         },
         "2047": {
             "value": "Memory",
@@ -268,7 +272,7 @@
         },
         "2072": {
             "value": "Dice Rolling",
-            "amount": 5
+            "amount": 6
         },
         "2079": {
             "value": "Variable Phase Order",
@@ -284,7 +288,7 @@
         },
         "2082": {
             "value": "Worker Placement",
-            "amount": 3
+            "amount": 4
         },
         "2661": {
             "value": "Push Your Luck",
@@ -312,7 +316,7 @@
         },
         "2689": {
             "value": "Action Queue",
-            "amount": 4
+            "amount": 5
         },
         "2814": {
             "value": "Traitor Game",
@@ -320,11 +324,11 @@
         },
         "2819": {
             "value": "Solo / Solitaire Game",
-            "amount": 10
+            "amount": 12
         },
         "2822": {
             "value": "Scenario / Mission / Campaign Game",
-            "amount": 4
+            "amount": 5
         },
         "2823": {
             "value": "Score-and-Reset Game",
@@ -368,7 +372,7 @@
         },
         "2851": {
             "value": "Narrative Choice / Paragraph",
-            "amount": 1
+            "amount": 2
         },
         "2856": {
             "value": "Die Icon Resolution",
@@ -468,6 +472,10 @@
         },
         "2928": {
             "value": "Closed Economy Auction",
+            "amount": 1
+        },
+        "2933": {
+            "value": "Worker Placement, Different Worker Types",
             "amount": 1
         },
         "2939": {
@@ -598,7 +606,7 @@
         },
         "5666": {
             "value": "Players: Games with Solitaire Rules",
-            "amount": 7
+            "amount": 8
         },
         "5679": {
             "value": "Creatures: Aliens / Extraterrestrials",
@@ -738,7 +746,7 @@
         },
         "18319": {
             "value": "Theme: Tropical",
-            "amount": 2
+            "amount": 3
         },
         "18511": {
             "value": "Series: Ugly Animals (Drei Magier)",
@@ -846,7 +854,7 @@
         },
         "26563": {
             "value": "Game: Robinson Crusoe - Adventures on the Cursed Island",
-            "amount": 1
+            "amount": 3
         },
         "27646": {
             "value": "Mechanism: Tableau Building",
@@ -934,7 +942,7 @@
         },
         "51732": {
             "value": "Theme: Tropical Islands",
-            "amount": 1
+            "amount": 2
         },
         "51838": {
             "value": "Game: Colt Express",
@@ -970,7 +978,7 @@
         },
         "59705": {
             "value": "Misc: LongPack Games",
-            "amount": 9
+            "amount": 10
         },
         "61206": {
             "value": "Category: Two-Player Fighting Games",
@@ -1050,7 +1058,7 @@
         },
         "65494": {
             "value": "Theme: Survival",
-            "amount": 1
+            "amount": 2
         },
         "65774": {
             "value": "Theme: Anthropomorphic Animals",
@@ -1066,6 +1074,10 @@
         },
         "66187": {
             "value": "Region: Andalusia (Spain)",
+            "amount": 1
+        },
+        "66292": {
+            "value": "Crowdfunding: Gamefound",
             "amount": 1
         },
         "66334": {
@@ -1186,7 +1198,7 @@
         },
         "77288": {
             "value": "Books: Robinson Crusoe",
-            "amount": 1
+            "amount": 3
         },
         "77349": {
             "value": "Digital Implementations: Steam",
@@ -1214,7 +1226,7 @@
         },
         "79690": {
             "value": "Islands: Fictional",
-            "amount": 1
+            "amount": 2
         },
         "80918": {
             "value": "Digital Implementations: Game Park",
@@ -1263,6 +1275,10 @@
         "108938": {
             "value": "Game: Heat - Pedal to the Metal",
             "amount": 3
+        },
+        "109245": {
+            "value": "Containers: Treasure Chests",
+            "amount": 1
         },
         "109406": {
             "value": "Magenta (CMYK)",
@@ -1565,6 +1581,10 @@
         "110583": {
             "value": "Munchkin: Skullkickers",
             "amount": 1
+        },
+        "121921": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island",
+            "amount": 2
         },
         "125386": {
             "value": "Munchkin Penny Arcade",
@@ -2638,6 +2658,10 @@
             "value": "Saboteur: 15 Jahre Jubiläums-Sticker",
             "amount": 1
         },
+        "334931": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Collector's Edition (Gamefound Edition)",
+            "amount": 2
+        },
         "334946": {
             "value": "Everdell: Spirecrest - Trailblazers Pack",
             "amount": 1
@@ -3530,7 +3554,7 @@
         },
         "346207": {
             "value": "Robinson Crusoe: Adventures on the Cursed Island - Monkey Companion",
-            "amount": 1
+            "amount": 2
         },
         "347397": {
             "value": "Everdell: Expo Hall",
@@ -3658,7 +3682,7 @@
         },
         "382560": {
             "value": "Robinson Crusoe: Adventures on the Cursed Island - Sloyca Insert",
-            "amount": 1
+            "amount": 2
         },
         "385699": {
             "value": "Everdell: The GiftForge Open sign",
@@ -4060,6 +4084,10 @@
             "value": "King of Tokyo: Power Up!",
             "amount": 1
         },
+        "132445": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Trait Cards I",
+            "amount": 1
+        },
         "140709": {
             "value": "Alhambra: Family Box",
             "amount": 1
@@ -4080,6 +4108,14 @@
             "value": "King of Tokyo: Halloween",
             "amount": 1
         },
+        "149350": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Additional Beast Cards",
+            "amount": 1
+        },
+        "150194": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Trait Cards II",
+            "amount": 1
+        },
         "155731": {
             "value": "Tokaido: Collector's Edition",
             "amount": 1
@@ -4088,16 +4124,52 @@
             "value": "Port Royal",
             "amount": 1
         },
+        "156413": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Searching the Beach",
+            "amount": 1
+        },
+        "156823": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Sailor Character",
+            "amount": 1
+        },
         "158408": {
             "value": "Coup: Deluxe Edition",
+            "amount": 1
+        },
+        "162604": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Spyglass of Illusory Hope",
+            "amount": 1
+        },
+        "162959": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Tracing Doctor Livingstone\" Scenario",
+            "amount": 1
+        },
+        "168588": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Gamer Character",
             "amount": 1
         },
         "168680": {
             "value": "The Werewolves of Miller's Hollow: The Pact",
             "amount": 1
         },
+        "170907": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Treasure Island\" Junior Scenario",
+            "amount": 1
+        },
+        "175182": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Hunting Dog",
+            "amount": 1
+        },
         "178527": {
             "value": "Coup: Inquisitor Promo Card",
+            "amount": 1
+        },
+        "179658": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Discovery Tokens",
+            "amount": 1
+        },
+        "180550": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Secret Trait Cards",
             "amount": 1
         },
         "181899": {
@@ -4116,6 +4188,10 @@
             "value": "Tokaido: Deluxe Edition",
             "amount": 1
         },
+        "189832": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Crewmen Deck I",
+            "amount": 1
+        },
         "190553": {
             "value": "Munchkin 1+2",
             "amount": 1
@@ -4124,20 +4200,60 @@
             "value": "Port Royal: Unterwegs!",
             "amount": 1
         },
+        "210429": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Poachers\" Scenario",
+            "amount": 1
+        },
         "219265": {
             "value": "Port Royal: The Adventure Begins...",
+            "amount": 1
+        },
+        "220964": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Event Cards",
+            "amount": 1
+        },
+        "239151": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Herb Garden and Pen",
             "amount": 1
         },
         "251830": {
             "value": "Alhambra: Mega Box",
             "amount": 1
         },
+        "256211": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Mystery Cards I",
+            "amount": 1
+        },
+        "258682": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Shelter Upgrades",
+            "amount": 1
+        },
+        "263875": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Hunting Adventures",
+            "amount": 1
+        },
+        "264179": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Time Travel\" Scenario",
+            "amount": 1
+        },
+        "269742": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Adventure in Neverland\" Junior Scenario",
+            "amount": 1
+        },
         "270716": {
             "value": "Robinson Crusoe: Adventures on the Cursed Island - Early Launch Kit",
             "amount": 1
         },
+        "272644": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Volcano Tile Promo",
+            "amount": 1
+        },
         "272910": {
             "value": "Codenames: Malaysia Edition",
+            "amount": 1
+        },
+        "286649": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - Discovery Tokens Set II",
             "amount": 1
         },
         "294508": {
@@ -4164,8 +4280,16 @@
             "value": "Robinson Crusoe: Adventures on the Cursed Island - Collector's Edition (Gamefound Edition)",
             "amount": 1
         },
+        "336650": {
+            "value": "Robinson Crusoe: Adventures on the Cursed Island - The Book of Adventures (Gamefound Edition)",
+            "amount": 1
+        },
         "337824": {
             "value": "UNO Bundle Collector Tin",
+            "amount": 1
+        },
+        "339496": {
+            "value": "Robinson Crusoe: Przygoda na Przeklętej Wyspie - Szklane Pomysły",
             "amount": 1
         },
         "341504": {
@@ -4742,7 +4866,7 @@
         },
         "4735": {
             "value": "Ignacy Trzewiczek",
-            "amount": 1
+            "amount": 3
         },
         "6736": {
             "value": "Sébastien Pauchon",
@@ -4878,7 +5002,7 @@
         },
         "117118": {
             "value": "Joanna Kijanka",
-            "amount": 1
+            "amount": 2
         },
         "118802": {
             "value": "Dan Penn",
@@ -5438,7 +5562,7 @@
         },
         "39": {
             "value": "Pegasus Spiele",
-            "amount": 11
+            "amount": 13
         },
         "42": {
             "value": "Tilsit",
@@ -5630,7 +5754,7 @@
         },
         "2726": {
             "value": "Portal Games",
-            "amount": 2
+            "amount": 4
         },
         "2830": {
             "value": "Heraclio Fournier",
@@ -5850,7 +5974,7 @@
         },
         "8820": {
             "value": "Gém Klub Kft.",
-            "amount": 14
+            "amount": 15
         },
         "8822": {
             "value": "Ideal Board Games",
@@ -5870,7 +5994,7 @@
         },
         "8923": {
             "value": "IELLO",
-            "amount": 7
+            "amount": 8
         },
         "9068": {
             "value": "Broadway Toys LTD",
@@ -6086,7 +6210,7 @@
         },
         "23205": {
             "value": "DiceTree Games",
-            "amount": 2
+            "amount": 4
         },
         "23296": {
             "value": "Passport Game Studios",
@@ -6246,7 +6370,7 @@
         },
         "30677": {
             "value": "Maldito Games",
-            "amount": 7
+            "amount": 9
         },
         "30928": {
             "value": "Igiari",

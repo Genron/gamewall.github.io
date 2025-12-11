@@ -25126,6 +25126,1063 @@
         }
     },
     {
+        "type": "boardgameexpansion",
+        "id": 299441,
+        "thumbnail": "https://cf.geekdo-images.com/E7S5N-4qKNvFthGRHZqwew__small/img/zz5Qrinz8J_1dLGte1GpY143gLo=/fit-in/200x150/filters:strip_icc()/pic6032477.jpg",
+        "image": "https://cf.geekdo-images.com/E7S5N-4qKNvFthGRHZqwew__original/img/5iBu9lq8cMoHxyITV0NZLN9gEFU=/0x0/filters:format(jpeg)/pic6032477.jpg",
+        "name": [
+            {
+                "type": "primary",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - The Book of Adventures"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Abenteuer auf der verfluchten Insel - Das Abenteuerbuch"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Aventuras en la Isla Maldita - El Libro de Aventuras"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "Robinson Crusoé: Aventures sur l'île maudite - Le Carnet d'Aventure"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Kalandok könyve"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Przygoda na Przeklętej Wyspie - Księga Przygód"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "로빈슨 크루소: 저주받은 섬으로부터의 모험 - 모험의 서"
+            }
+        ],
+        "description": "Robinson Crusoe: The Book of Adventures is an almanac that consists of new Robinson Crusoe scenarios ranked by their level of difficulty, complexity, and theme.\n\nThe Book of Adventures offers scenarios suited for every audience &mdash; from playing with children, to creating a fun family experience, to suffering really heavy scenarios as experienced players.\n\nNote: The retail version of The Book of Adventures includes 54 scenarios. Robinson Crusoe: Adventures on the Cursed Island - The Book of Adventures (Gamefound Edition) includes a total of 60 scenarios.\n&mdash;description from the publisher\n\n",
+        "yearpublished": {
+            "value": 2024
+        },
+        "minplayers": {
+            "value": 1
+        },
+        "maxplayers": {
+            "value": 4
+        },
+        "poll": [
+            {
+                "name": "suggested_numplayers",
+                "title": "User Suggested Number of Players",
+                "totalvotes": 0,
+                "results": [
+                    {
+                        "numplayers": 1,
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 0
+                            }
+                        ]
+                    },
+                    {
+                        "numplayers": 2,
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 0
+                            }
+                        ]
+                    },
+                    {
+                        "numplayers": 3,
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 0
+                            }
+                        ]
+                    },
+                    {
+                        "numplayers": 4,
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 0
+                            }
+                        ]
+                    },
+                    {
+                        "numplayers": "4+",
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "suggested_playerage",
+                "title": "User Suggested Player Age",
+                "totalvotes": 0,
+                "results": {
+                    "result": [
+                        {
+                            "value": 2,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 3,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 4,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 5,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 6,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 8,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 10,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 12,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 14,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 16,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 18,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": "21 and up",
+                            "numvotes": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "language_dependence",
+                "title": "Language Dependence",
+                "totalvotes": 1,
+                "results": {
+                    "result": [
+                        {
+                            "level": 21,
+                            "value": "No necessary in-game text",
+                            "numvotes": 0
+                        },
+                        {
+                            "level": 22,
+                            "value": "Some necessary text - easily memorized or small crib sheet",
+                            "numvotes": 0
+                        },
+                        {
+                            "level": 23,
+                            "value": "Moderate in-game text - needs crib sheet or paste ups",
+                            "numvotes": 0
+                        },
+                        {
+                            "level": 24,
+                            "value": "Extensive use of text - massive conversion needed to be playable",
+                            "numvotes": 0
+                        },
+                        {
+                            "level": 25,
+                            "value": "Unplayable in another language",
+                            "numvotes": 1
+                        }
+                    ]
+                }
+            }
+        ],
+        "poll-summary": {
+            "name": "suggested_numplayers",
+            "title": "User Suggested Number of Players",
+            "result": [
+                {
+                    "name": "bestwith",
+                    "value": 0
+                },
+                {
+                    "name": "recommmendedwith",
+                    "value": "(no votes)"
+                }
+            ]
+        },
+        "playingtime": {
+            "value": 120
+        },
+        "minplaytime": {
+            "value": 60
+        },
+        "maxplaytime": {
+            "value": 120
+        },
+        "minage": {
+            "value": 10
+        },
+        "link": [
+            {
+                "type": "boardgamecategory",
+                "id": 1042,
+                "value": "Expansion for Base-game"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1022,
+                "value": "Adventure"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1020,
+                "value": "Exploration"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1046,
+                "value": "Fighting"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1093,
+                "value": "Novel-based"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2689,
+                "value": "Action Queue"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2023,
+                "value": "Cooperative Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2072,
+                "value": "Dice Rolling"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2026,
+                "value": "Hexagon Grid"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2851,
+                "value": "Narrative Choice / Paragraph"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2819,
+                "value": "Solo / Solitaire Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2002,
+                "value": "Tile Placement"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2015,
+                "value": "Variable Player Powers"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2082,
+                "value": "Worker Placement"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 77288,
+                "value": "Books: Robinson Crusoe"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 66292,
+                "value": "Crowdfunding: Gamefound"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 26563,
+                "value": "Game: Robinson Crusoe - Adventures on the Cursed Island"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 5666,
+                "value": "Players: Games with Solitaire Rules"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 121921,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island",
+                "inbound": true
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 334931,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Collector's Edition (Gamefound Edition)",
+                "inbound": true
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 346207,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Monkey Companion"
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 336650,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - The Book of Adventures (Gamefound Edition)"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 117118,
+                "value": "Joanna Kijanka"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 4735,
+                "value": "Ignacy Trzewiczek"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 2726,
+                "value": "Portal Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 23205,
+                "value": "DiceTree Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 8820,
+                "value": "Gém Klub Kft."
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 8923,
+                "value": "IELLO"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 30677,
+                "value": "Maldito Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 39,
+                "value": "Pegasus Spiele"
+            }
+        ],
+        "statistics": {
+            "page": 1,
+            "ratings": {
+                "usersrated": {
+                    "value": 398
+                },
+                "average": {
+                    "value": 7.62618
+                },
+                "bayesaverage": {
+                    "value": 5.80565
+                },
+                "ranks": {
+                    "rank": {
+                        "type": "subtype",
+                        "id": 1,
+                        "name": "boardgame",
+                        "friendlyname": "Board Game Rank",
+                        "value": "Not Ranked",
+                        "bayesaverage": 5.80565
+                    }
+                },
+                "stddev": {
+                    "value": 2.65791
+                },
+                "median": {
+                    "value": 0
+                },
+                "owned": {
+                    "value": 3198
+                },
+                "trading": {
+                    "value": 22
+                },
+                "wanting": {
+                    "value": 78
+                },
+                "wishing": {
+                    "value": 567
+                },
+                "numcomments": {
+                    "value": 191
+                },
+                "numweights": {
+                    "value": 2
+                },
+                "averageweight": {
+                    "value": 3.5
+                }
+            }
+        }
+    },
+    {
+        "type": "boardgameexpansion",
+        "id": 304337,
+        "thumbnail": "https://cf.geekdo-images.com/4JZAemz5uVrDi9zBFtuMWw__small/img/ReINKaV_ilDfBpegPRYF8M9JQEU=/fit-in/200x150/filters:strip_icc()/pic5281174.jpg",
+        "image": "https://cf.geekdo-images.com/4JZAemz5uVrDi9zBFtuMWw__original/img/4lBaCMHBBk42J5a1XybzSKZBmGA=/0x0/filters:format(jpeg)/pic5281174.jpg",
+        "name": [
+            {
+                "type": "primary",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Treasure Chest"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Abenteuer auf der verfluchten Insel - Schatztruhe"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Cofre del Tesoro"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "Robinson Crusoe: Przygoda na Przeklętej Wyspie - Skrzynia Skarbów"
+            },
+            {
+                "type": "alternate",
+                "sortindex": 1,
+                "value": "로빈슨 크루소: 저주받은 섬의 모험 - 더 넓은 세상으로"
+            }
+        ],
+        "description": "Treasure Chest is a special expansion including a complete set of Robinson Crusoe promos that have been released up to 2020, thereby giving players an enormous amount of content and variability to the game.\n\nInside the box players will find extra Characters (Gamer and Sailor), a set of Crewmen, Hunting Dog, Character Trait cards, additional Mystery cards, Event cards, Discovery Tokens, Searching the Beach cards, Volcano tile, and even an epic Spyglass. Hunting will also get more exciting with new Beast cards and Hunting Adventures cards. Robinson's shelter will get an option of upgrading and adding a Garden and Pen. Treasure Chest will also include four additional scenarios: Tracing Dr. Livingstone, Treasure Island, Poachers, and Time Travel.\n\n&mdash;description from the publisher\n\n",
+        "yearpublished": {
+            "value": 2020
+        },
+        "minplayers": {
+            "value": 1
+        },
+        "maxplayers": {
+            "value": 4
+        },
+        "poll": [
+            {
+                "name": "suggested_numplayers",
+                "title": "User Suggested Number of Players",
+                "totalvotes": 9,
+                "results": [
+                    {
+                        "numplayers": 1,
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 5
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 4
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 0
+                            }
+                        ]
+                    },
+                    {
+                        "numplayers": 2,
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 7
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 1
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 0
+                            }
+                        ]
+                    },
+                    {
+                        "numplayers": 3,
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 2
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 2
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 2
+                            }
+                        ]
+                    },
+                    {
+                        "numplayers": 4,
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 2
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 2
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 2
+                            }
+                        ]
+                    },
+                    {
+                        "numplayers": "4+",
+                        "result": [
+                            {
+                                "value": "Best",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Recommended",
+                                "numvotes": 0
+                            },
+                            {
+                                "value": "Not Recommended",
+                                "numvotes": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "suggested_playerage",
+                "title": "User Suggested Player Age",
+                "totalvotes": 2,
+                "results": {
+                    "result": [
+                        {
+                            "value": 2,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 3,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 4,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 5,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 6,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 8,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 10,
+                            "numvotes": 1
+                        },
+                        {
+                            "value": 12,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 14,
+                            "numvotes": 1
+                        },
+                        {
+                            "value": 16,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": 18,
+                            "numvotes": 0
+                        },
+                        {
+                            "value": "21 and up",
+                            "numvotes": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "language_dependence",
+                "title": "Language Dependence",
+                "totalvotes": 1,
+                "results": {
+                    "result": [
+                        {
+                            "level": 1,
+                            "value": "No necessary in-game text",
+                            "numvotes": 0
+                        },
+                        {
+                            "level": 2,
+                            "value": "Some necessary text - easily memorized or small crib sheet",
+                            "numvotes": 0
+                        },
+                        {
+                            "level": 3,
+                            "value": "Moderate in-game text - needs crib sheet or paste ups",
+                            "numvotes": 1
+                        },
+                        {
+                            "level": 4,
+                            "value": "Extensive use of text - massive conversion needed to be playable",
+                            "numvotes": 0
+                        },
+                        {
+                            "level": 5,
+                            "value": "Unplayable in another language",
+                            "numvotes": 0
+                        }
+                    ]
+                }
+            }
+        ],
+        "poll-summary": {
+            "name": "suggested_numplayers",
+            "title": "User Suggested Number of Players",
+            "result": [
+                {
+                    "name": "bestwith",
+                    "value": "Best with 1-2 players"
+                },
+                {
+                    "name": "recommmendedwith",
+                    "value": "Recommended with 1-4 players"
+                }
+            ]
+        },
+        "playingtime": {
+            "value": 120
+        },
+        "minplaytime": {
+            "value": 60
+        },
+        "maxplaytime": {
+            "value": 120
+        },
+        "minage": {
+            "value": 14
+        },
+        "link": [
+            {
+                "type": "boardgamecategory",
+                "id": 1042,
+                "value": "Expansion for Base-game"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1022,
+                "value": "Adventure"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1089,
+                "value": "Animals"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1020,
+                "value": "Exploration"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1013,
+                "value": "Farming"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1093,
+                "value": "Novel-based"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2046,
+                "value": "Area Movement"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2023,
+                "value": "Cooperative Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2822,
+                "value": "Scenario / Mission / Campaign Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2819,
+                "value": "Solo / Solitaire Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2933,
+                "value": "Worker Placement, Different Worker Types"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 77288,
+                "value": "Books: Robinson Crusoe"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 109245,
+                "value": "Containers: Treasure Chests"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 26563,
+                "value": "Game: Robinson Crusoe - Adventures on the Cursed Island"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 79690,
+                "value": "Islands: Fictional"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 59705,
+                "value": "Misc: LongPack Games"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 65494,
+                "value": "Theme: Survival"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 18319,
+                "value": "Theme: Tropical"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 51732,
+                "value": "Theme: Tropical Islands"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 121921,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island",
+                "inbound": true
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 334931,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Collector's Edition (Gamefound Edition)",
+                "inbound": true
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 382560,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Sloyca Insert"
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 269742,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Adventure in Neverland\" Junior Scenario",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 210429,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Poachers\" Scenario",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 264179,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Time Travel\" Scenario",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 162959,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Tracing Doctor Livingstone\" Scenario",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 170907,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - \"Treasure Island\" Junior Scenario",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 149350,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Additional Beast Cards",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 189832,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Crewmen Deck I",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 179658,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Discovery Tokens",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 286649,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Discovery Tokens Set II",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 220964,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Event Cards",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 168588,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Gamer Character",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 239151,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Herb Garden and Pen",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 263875,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Hunting Adventures",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 175182,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Hunting Dog",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 256211,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Mystery Cards I",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 156823,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Sailor Character",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 156413,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Searching the Beach",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 180550,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Secret Trait Cards",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 258682,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Shelter Upgrades",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 162604,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Spyglass of Illusory Hope",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 132445,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Trait Cards I",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 150194,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Trait Cards II",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 272644,
+                "value": "Robinson Crusoe: Adventures on the Cursed Island - Volcano Tile Promo",
+                "inbound": true
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 339496,
+                "value": "Robinson Crusoe: Przygoda na Przeklętej Wyspie - Szklane Pomysły",
+                "inbound": true
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 4735,
+                "value": "Ignacy Trzewiczek"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 2726,
+                "value": "Portal Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 23205,
+                "value": "DiceTree Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 30677,
+                "value": "Maldito Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 39,
+                "value": "Pegasus Spiele"
+            }
+        ],
+        "statistics": {
+            "page": 1,
+            "ratings": {
+                "usersrated": {
+                    "value": 653
+                },
+                "average": {
+                    "value": 8.10933
+                },
+                "bayesaverage": {
+                    "value": 6.0428
+                },
+                "ranks": {
+                    "rank": {
+                        "type": "subtype",
+                        "id": 1,
+                        "name": "boardgame",
+                        "friendlyname": "Board Game Rank",
+                        "value": "Not Ranked",
+                        "bayesaverage": 6.0428
+                    }
+                },
+                "stddev": {
+                    "value": 1.30535
+                },
+                "median": {
+                    "value": 0
+                },
+                "owned": {
+                    "value": 5114
+                },
+                "trading": {
+                    "value": 34
+                },
+                "wanting": {
+                    "value": 55
+                },
+                "wishing": {
+                    "value": 413
+                },
+                "numcomments": {
+                    "value": 215
+                },
+                "numweights": {
+                    "value": 18
+                },
+                "averageweight": {
+                    "value": 3.4444
+                }
+            }
+        }
+    },
+    {
         "type": "boardgame",
         "id": 9220,
         "thumbnail": "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__small/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg",
