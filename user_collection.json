@@ -2,7 +2,7 @@
     "items": {
         "totalitems": 49,
         "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
-        "pubdate": "Thu, 11 Dec 2025 19:26:38 +0000",
+        "pubdate": "Thu, 11 Dec 2025 19:34:39 +0000",
         "item": [
             {
                 "objecttype": "thing",
@@ -275,10 +275,10 @@
                     "wanttobuy": 0,
                     "wishlist": 0,
                     "preordered": 0,
-                    "lastmodified": "2025-12-11 13:23:54"
+                    "lastmodified": "2025-12-11 13:33:33"
                 },
                 "numplays": 0,
-                "comment": "„, „isExpansionTo“: „131357"
+                "comment": "“, “isExpansionTo“: “131357"
             },
             {
                 "objecttype": "thing",
