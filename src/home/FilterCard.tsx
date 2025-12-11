@@ -15,7 +15,7 @@ export function FilterCard({index, item, w}: { index: number; item: Item; w: num
 
 function ReducedCard({index, item}: { index: number, item: Item }) {
   return (
-    <Card onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
+    <Card className={'filter-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')} >
       <CardPrimaryAction style={{flexDirection: 'row', alignItems: 'center'}}>
         <Typography use="body1" tag="h2" style={{padding: '0 1rem 0 1.5rem'}}>
           {index}
@@ -36,7 +36,7 @@ function ReducedCard({index, item}: { index: number, item: Item }) {
             tag="div"
             theme="textSecondaryOnBackground"
           >
-            {item.name} ({item.year})
+            {buildTitle(item.name, item.year, 24)}
           </Typography>
           <Typography
             use="subtitle2"
@@ -60,7 +60,7 @@ function ReducedCard({index, item}: { index: number, item: Item }) {
 
 function DetailedCard({index, item}: { index: number, item: Item }) {
   return (
-    <Card onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
+    <Card className={'filter-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')} >
       <CardPrimaryAction style={{flexDirection: 'row', alignItems: 'center'}}>
         <Typography use="body1" tag="h2" style={{padding: '0 1rem 0 1.5rem'}}>
           {index}

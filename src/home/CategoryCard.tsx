@@ -14,7 +14,7 @@ export function CategoryCard({item, w}: { item: Item, w: number }) {
 
 function ReducedCard({item}: { item: Item }) {
   return (
-    <Card onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
+    <Card className={'category-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')} >
       <CardPrimaryAction>
         <CardMedia
           square
@@ -23,11 +23,11 @@ function ReducedCard({item}: { item: Item }) {
           }}
         />
         <div style={{padding: '0 1rem 1rem 1rem'}}>
-          <Typography use="headline6" tag="h2">
-            {item.name}
+          <Typography use="body1" tag="h2">
+            {buildTitle(item.name, item.year, 23)}
           </Typography>
           <Typography
-            use="subtitle2"
+            use="caption"
             tag="h3"
             theme="textSecondaryOnBackground"
             style={{
@@ -66,7 +66,7 @@ export function getPlayerRecommendation(item: Item) {
 
 function DetailedCard({item}: { item: Item }) {
   return (
-    <Card onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
+    <Card className={'category-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')} >
       <CardPrimaryAction>
         <CardMedia
           square
