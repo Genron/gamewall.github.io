@@ -6,7 +6,7 @@ import React from "react";
 import {buildTitle, getPlayerRecommendation} from "./CategoryCard";
 
 export function FilterCard({index, item, w}: { index: number; item: Item; w: number; }) {
-  return w < 500 ? (
+  return w < 900 ? (
     <ReducedCard index={index} item={item}/>
   ) : (
     <DetailedCard index={index} item={item}/>

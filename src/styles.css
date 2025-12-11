@@ -380,9 +380,7 @@ ul li {
     justify-content: center;
 }
 
-.category-card.mdc-card > div,
 .category-card.mdc-card,
-.filter-card.mdc-card > div,
 .filter-card.mdc-card {
     height: 100%;
 }
