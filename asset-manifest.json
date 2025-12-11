@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/gamewall.github.io/static/css/main.41bbe30b.css",
-    "main.js": "/gamewall.github.io/static/js/main.6221c84c.js",
+    "main.css": "/gamewall.github.io/static/css/main.d03e7e58.css",
+    "main.js": "/gamewall.github.io/static/js/main.c98e04b7.js",
     "static/media/powered-by-bgg-rgb.svg": "/gamewall.github.io/static/media/powered-by-bgg-rgb.a7f839ef1c7ebc11eeb858697b58593c.svg",
     "index.html": "/gamewall.github.io/index.html",
-    "main.41bbe30b.css.map": "/gamewall.github.io/static/css/main.41bbe30b.css.map",
-    "main.6221c84c.js.map": "/gamewall.github.io/static/js/main.6221c84c.js.map"
+    "main.d03e7e58.css.map": "/gamewall.github.io/static/css/main.d03e7e58.css.map",
+    "main.c98e04b7.js.map": "/gamewall.github.io/static/js/main.c98e04b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.41bbe30b.css",
-    "static/js/main.6221c84c.js"
+    "static/css/main.d03e7e58.css",
+    "static/js/main.c98e04b7.js"
   ]
 }
