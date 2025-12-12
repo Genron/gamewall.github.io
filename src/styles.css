@@ -385,6 +385,21 @@ ul li {
     height: 100%;
 }
 
+.max-row-2 {
+    display: -webkit-box;            /* nötig für -webkit-line-clamp */
+    -webkit-box-orient: vertical;    /* vertikale Ausrichtung */
+    overflow: hidden;                /* abschneiden */
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;           /* Anzahl der sichtbaren Zeilen */
+}
+.max-row-3 {
+    display: -webkit-box;            /* nötig für -webkit-line-clamp */
+    -webkit-box-orient: vertical;    /* vertikale Ausrichtung */
+    overflow: hidden;                /* abschneiden */
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;           /* Anzahl der sichtbaren Zeilen */
+}
+
 /* page menus */
 #page-menus .live-preview {
     justify-content: center;

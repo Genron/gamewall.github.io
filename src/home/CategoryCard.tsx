@@ -14,7 +14,7 @@ export function CategoryCard({item, w}: { item: Item, w: number }) {
 
 function ReducedCard({item}: { item: Item }) {
   return (
-    <Card className={'category-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')} >
+    <Card className={'category-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
       <CardPrimaryAction>
         <CardMedia
           square
@@ -23,15 +23,15 @@ function ReducedCard({item}: { item: Item }) {
           }}
         />
         <div style={{padding: '0 1rem 1rem 1rem'}}>
-          <Typography use="body1" tag="h2">
-            {buildTitle(item.name, item.year, 23)}
+          <Typography use="body1" tag="h2" className={'max-row-3'}>
+            {item.name} ({item.year})
           </Typography>
           <Typography
             use="caption"
             tag="h3"
             theme="textSecondaryOnBackground"
             style={{
-              marginTop: '-1rem', display: 'flex', justifyContent: 'space-between'
+              margin: '-0.8rem 0 0', display: 'flex', justifyContent: 'space-between'
             }}
           >
             <span>{getPlayerRecommendation(item)}</span>
@@ -43,20 +43,6 @@ function ReducedCard({item}: { item: Item }) {
   );
 }
 
-export function buildTitle(name: string, year: number, maxLen: number): string {
-  const title = `${name} (${year})`;
-  if (title.length < maxLen) {
-    return title;
-  }
-  if (name.length < maxLen) {
-    return name;
-  }
-  if (name.length < (maxLen + 7)) {
-    return name.substring(0, maxLen);
-  }
-  return title.substring(0, maxLen);
-}
-
 export function getPlayerRecommendation(item: Item) {
   if (item.minPlayers === item.maxPlayers) {
     return item.minPlayers;
@@ -66,7 +52,7 @@ export function getPlayerRecommendation(item: Item) {
 
 function DetailedCard({item}: { item: Item }) {
   return (
-    <Card className={'category-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')} >
+    <Card className={'category-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
       <CardPrimaryAction>
         <CardMedia
           square
@@ -77,8 +63,8 @@ function DetailedCard({item}: { item: Item }) {
         >
         </CardMedia>
         <div style={{padding: '0 1rem 0 1rem'}}>
-          <Typography use="headline6" tag="h2">
-            {buildTitle(item.name, item.year, 37)}
+          <Typography use="headline6" tag="h2" className={'max-row-2'}>
+            {item.name} ({item.year})
           </Typography>
           <Typography
             use="subtitle2"
@@ -94,7 +80,7 @@ function DetailedCard({item}: { item: Item }) {
         </div>
       </CardPrimaryAction>
       <CardActions>
-        <ChipSet style={{ padding: '0' }}>
+        <ChipSet style={{padding: '0'}} className={'max-row-3'}>
           {item.tags.map(tag => (
             <Chip key={tag} label={tag}
                   style={{

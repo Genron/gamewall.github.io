@@ -3,7 +3,7 @@ import {Card, CardMedia} from "@rmwc/card";
 import {CardPrimaryAction} from "rmwc";
 import {Typography} from "@rmwc/typography";
 import React from "react";
-import {buildTitle, getPlayerRecommendation} from "./CategoryCard";
+import {getPlayerRecommendation} from "./CategoryCard";
 
 export function FilterCard({index, item, w}: { index: number; item: Item; w: number; }) {
   return w < 900 ? (
@@ -15,7 +15,7 @@ export function FilterCard({index, item, w}: { index: number; item: Item; w: num
 
 function ReducedCard({index, item}: { index: number, item: Item }) {
   return (
-    <Card className={'filter-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')} >
+    <Card className={'filter-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
       <CardPrimaryAction style={{flexDirection: 'row', alignItems: 'center'}}>
         <Typography use="body1" tag="h2" style={{padding: '0 1rem 0 1.5rem'}}>
           {index}
@@ -35,8 +35,9 @@ function ReducedCard({index, item}: { index: number, item: Item }) {
             use="body1"
             tag="div"
             theme="textSecondaryOnBackground"
+            className={'max-row-2'}
           >
-            {buildTitle(item.name, item.year, 24)}
+            {item.name} ({item.year})
           </Typography>
           <Typography
             use="subtitle2"
@@ -60,7 +61,7 @@ function ReducedCard({index, item}: { index: number, item: Item }) {
 
 function DetailedCard({index, item}: { index: number, item: Item }) {
   return (
-    <Card className={'filter-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')} >
+    <Card className={'filter-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
       <CardPrimaryAction style={{flexDirection: 'row', alignItems: 'center'}}>
         <Typography use="body1" tag="h2" style={{padding: '0 1rem 0 1.5rem'}}>
           {index}
@@ -80,8 +81,9 @@ function DetailedCard({index, item}: { index: number, item: Item }) {
             use="body1"
             tag="div"
             theme="textSecondaryOnBackground"
+            className={'max-row-2'}
           >
-            {buildTitle(item.name, item.year, 39)}
+            {item.name} ({item.year})
           </Typography>
           <Typography
             use="subtitle2"

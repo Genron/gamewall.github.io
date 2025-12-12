@@ -90,8 +90,6 @@ function isAck(obj) {
 // fetch collection
 const collection = await fetchFromBGG(`collection?username=${username}&own=1`);
 
-fs.writeFileSync('./public/user_collection.json', JSON.stringify(collection, null, 4), 'utf8');
-
 const ids = collection.items.item.map(i => i.objectid);
 const chunks = chunking(ids, 20);
 
