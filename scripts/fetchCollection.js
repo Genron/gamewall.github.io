@@ -135,5 +135,4 @@ Object.entries(links).forEach(([category, ls]) => {
 })
 
 fs.writeFileSync('./public/collection.json', JSON.stringify(details, null, 4), 'utf8');
-fs.writeFileSync('./public/links.json', JSON.stringify(links, null, 4), 'utf8');
-fs.writeFileSync('./public/sortedlinks.json', JSON.stringify(distinct, null, 4), 'utf8');
+fs.writeFileSync('./public/links.json', JSON.stringify(distinct, null, 4), 'utf8');

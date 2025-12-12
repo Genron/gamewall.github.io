@@ -9,12 +9,12 @@ import {
   selectSoloAndCoOpGames,
   SortByOptions
 } from "./SortingFactory";
-import {useCollectionContext, useSortedLinksContext} from "../Context";
+import {useCollectionContext, useLinksContext} from "../Context";
 
 // gamewall.github.io/collection.json
 export function Home() {
   const collection: Collection = useCollectionContext();
-  const sortedLinks: Links = useSortedLinksContext();
+  const links: Links = useLinksContext();
 
   const items: Item[] = collection.map((i) => {
     const bestWith = i["poll-summary"].result.find(p => p.name === 'bestwith');
@@ -58,7 +58,7 @@ export function Home() {
           }
           return set;
         }, [])
-        .sort((l1, l2) => sortedLinks[l2] - sortedLinks[l1])
+        .sort((l1, l2) => links[l2] - links[l1])
         .slice(0, 6)
       , links: i.link
     });

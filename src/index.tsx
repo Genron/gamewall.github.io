@@ -8,7 +8,7 @@ import {DrawerAppContent, Portal, PortalProvider, RMWCProvider, ThemeProvider,} 
 import {getTheme} from "./theme-picker";
 import {Home} from "./home/Home";
 import {Header} from "./Header";
-import {CollectionContextProvider, LinksContextProvider, SortedLinksContextProvider} from "./Context";
+import {CollectionContextProvider, LinksContextProvider} from "./Context";
 import {SearchDrawer} from "./SearchDrawer";
 
 const root = ReactDOM.createRoot(
@@ -42,33 +42,31 @@ function App() {
   return (
     <CollectionContextProvider>
       <LinksContextProvider>
-        <SortedLinksContextProvider>
-          <ThemeProvider
-            options={getTheme('Baseline')}
-            className="app__root"
-            tag="div"
-            id={'Home'}
-          >
-            <PortalProvider>
-              <Header onSearch={() => setMenuIsOpen(!menuIsOpen)}/>
-              <div className="demo-content">
-                <SearchDrawer
-                  open={menuIsOpen}
-                  dismissible={!isMobile}
-                  modal={isMobile}
-                  onClose={() => setMenuIsOpen(false)}
-                  dir="rtl"
-                />
-                <DrawerAppContent tag="main" className="app__content">
-                  <Routes>
-                    <Route key={'home'} path="/" element={<Home/>}/>
-                  </Routes>
-                </DrawerAppContent>
-              </div>
-              <Portal/>
-            </PortalProvider>
-          </ThemeProvider>
-        </SortedLinksContextProvider>
+        <ThemeProvider
+          options={getTheme('Baseline')}
+          className="app__root"
+          tag="div"
+          id={'Home'}
+        >
+          <PortalProvider>
+            <Header onSearch={() => setMenuIsOpen(!menuIsOpen)}/>
+            <div className="demo-content">
+              <SearchDrawer
+                open={menuIsOpen}
+                dismissible={!isMobile}
+                modal={isMobile}
+                onClose={() => setMenuIsOpen(false)}
+                dir="rtl"
+              />
+              <DrawerAppContent tag="main" className="app__content">
+                <Routes>
+                  <Route key={'home'} path="/" element={<Home/>}/>
+                </Routes>
+              </DrawerAppContent>
+            </div>
+            <Portal/>
+          </PortalProvider>
+        </ThemeProvider>
       </LinksContextProvider>
     </CollectionContextProvider>
   );
