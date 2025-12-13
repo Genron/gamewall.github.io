@@ -262,27 +262,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 21,
                             "value": "No necessary in-game text",
                             "numvotes": 149
                         },
                         {
-                            "level": 2,
+                            "level": 22,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 3
                         },
                         {
-                            "level": 3,
+                            "level": 23,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 1
                         },
                         {
-                            "level": 4,
+                            "level": 24,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 5,
+                            "level": 25,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -702,7 +702,7 @@
                             "name": "strategygames",
                             "friendlyname": "Strategy Game Rank",
                             "value": 459,
-                            "bayesaverage": 6.90436
+                            "bayesaverage": 6.9044
                         },
                         {
                             "type": "family",
@@ -715,7 +715,7 @@
                     ]
                 },
                 "stddev": {
-                    "value": 1.18605
+                    "value": 1.18607
                 },
                 "median": {
                     "value": 0
@@ -724,7 +724,7 @@
                     "value": 44963
                 },
                 "trading": {
-                    "value": 966
+                    "value": 965
                 },
                 "wanting": {
                     "value": 467
@@ -733,7 +733,7 @@
                     "value": 4178
                 },
                 "numcomments": {
-                    "value": 7381
+                    "value": 7382
                 },
                 "numweights": {
                     "value": 2435
@@ -1227,27 +1227,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 21,
+                            "level": 31,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 22,
+                            "level": 32,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 3
                         },
                         {
-                            "level": 23,
+                            "level": 33,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 9
                         },
                         {
-                            "level": 24,
+                            "level": 34,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 2
                         },
                         {
-                            "level": 25,
+                            "level": 35,
                             "value": "Unplayable in another language",
                             "numvotes": 2
                         }
@@ -1527,13 +1527,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 9934
+                    "value": 9944
                 },
                 "average": {
-                    "value": 8.36066
+                    "value": 8.36056
                 },
                 "bayesaverage": {
-                    "value": 7.67013
+                    "value": 7.67008
                 },
                 "ranks": {
                     "rank": [
@@ -1543,7 +1543,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 75,
-                            "bayesaverage": 7.67013
+                            "bayesaverage": 7.67008
                         },
                         {
                             "type": "family",
@@ -1551,7 +1551,7 @@
                             "name": "strategygames",
                             "friendlyname": "Strategy Game Rank",
                             "value": 57,
-                            "bayesaverage": 7.72639
+                            "bayesaverage": 7.7263
                         },
                         {
                             "type": "family",
@@ -1559,30 +1559,30 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 1,
-                            "bayesaverage": 7.85257
+                            "bayesaverage": 7.85231
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.90693
+                    "value": 1.90717
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 9787
+                    "value": 9795
                 },
                 "trading": {
                     "value": 57
                 },
                 "wanting": {
-                    "value": 526
+                    "value": 525
                 },
                 "wishing": {
-                    "value": 6435
+                    "value": 6444
                 },
                 "numcomments": {
-                    "value": 1823
+                    "value": 1824
                 },
                 "numweights": {
                     "value": 326
@@ -1839,27 +1839,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 61,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 2,
+                            "level": 62,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 6
                         },
                         {
-                            "level": 3,
+                            "level": 63,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 9
                         },
                         {
-                            "level": 4,
+                            "level": 64,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 2
                         },
                         {
-                            "level": 5,
+                            "level": 65,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -2065,13 +2065,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 8571
+                    "value": 8586
                 },
                 "average": {
-                    "value": 8.03548
+                    "value": 8.03584
                 },
                 "bayesaverage": {
-                    "value": 7.45929
+                    "value": 7.46007
                 },
                 "ranks": {
                     "rank": [
@@ -2081,7 +2081,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 149,
-                            "bayesaverage": 7.45929
+                            "bayesaverage": 7.46007
                         },
                         {
                             "type": "family",
@@ -2089,30 +2089,30 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 19,
-                            "bayesaverage": 7.58383
+                            "bayesaverage": 7.58449
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.23116
+                    "value": 1.23163
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 17111
+                    "value": 17171
                 },
                 "trading": {
-                    "value": 46
+                    "value": 45
                 },
                 "wanting": {
                     "value": 625
                 },
                 "wishing": {
-                    "value": 5575
+                    "value": 5571
                 },
                 "numcomments": {
-                    "value": 1118
+                    "value": 1121
                 },
                 "numweights": {
                     "value": 235
@@ -2194,7 +2194,7 @@
             {
                 "name": "suggested_numplayers",
                 "title": "User Suggested Number of Players",
-                "totalvotes": 233,
+                "totalvotes": 235,
                 "results": [
                     {
                         "numplayers": 1,
@@ -2209,7 +2209,7 @@
                             },
                             {
                                 "value": "Not Recommended",
-                                "numvotes": 118
+                                "numvotes": 119
                             }
                         ]
                     },
@@ -2218,11 +2218,11 @@
                         "result": [
                             {
                                 "value": "Best",
-                                "numvotes": 132
+                                "numvotes": 133
                             },
                             {
                                 "value": "Recommended",
-                                "numvotes": 64
+                                "numvotes": 65
                             },
                             {
                                 "value": "Not Recommended",
@@ -2235,11 +2235,11 @@
                         "result": [
                             {
                                 "value": "Best",
-                                "numvotes": 90
+                                "numvotes": 91
                             },
                             {
                                 "value": "Recommended",
-                                "numvotes": 103
+                                "numvotes": 104
                             },
                             {
                                 "value": "Not Recommended",
@@ -2252,11 +2252,11 @@
                         "result": [
                             {
                                 "value": "Best",
-                                "numvotes": 41
+                                "numvotes": 42
                             },
                             {
                                 "value": "Recommended",
-                                "numvotes": 117
+                                "numvotes": 118
                             },
                             {
                                 "value": "Not Recommended",
@@ -2273,11 +2273,11 @@
                             },
                             {
                                 "value": "Recommended",
-                                "numvotes": 56
+                                "numvotes": 57
                             },
                             {
                                 "value": "Not Recommended",
-                                "numvotes": 78
+                                "numvotes": 79
                             }
                         ]
                     },
@@ -2364,27 +2364,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 41,
+                            "level": 11,
                             "value": "No necessary in-game text",
                             "numvotes": 1
                         },
                         {
-                            "level": 42,
+                            "level": 12,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 13
                         },
                         {
-                            "level": 43,
+                            "level": 13,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 1
                         },
                         {
-                            "level": 44,
+                            "level": 14,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 45,
+                            "level": 15,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -2599,13 +2599,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 10396
+                    "value": 10414
                 },
                 "average": {
-                    "value": 7.64633
+                    "value": 7.64669
                 },
                 "bayesaverage": {
-                    "value": 7.21766
+                    "value": 7.21829
                 },
                 "ranks": {
                     "rank": [
@@ -2614,8 +2614,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 287,
-                            "bayesaverage": 7.21766
+                            "value": 285,
+                            "bayesaverage": 7.21829
                         },
                         {
                             "type": "family",
@@ -2623,18 +2623,18 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 48,
-                            "bayesaverage": 7.31694
+                            "bayesaverage": 7.31744
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.1276
+                    "value": 1.12731
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 17221
+                    "value": 17272
                 },
                 "trading": {
                     "value": 70
@@ -2643,16 +2643,16 @@
                     "value": 394
                 },
                 "wishing": {
-                    "value": 3791
+                    "value": 3797
                 },
                 "numcomments": {
-                    "value": 1355
+                    "value": 1353
                 },
                 "numweights": {
-                    "value": 287
+                    "value": 288
                 },
                 "averageweight": {
-                    "value": 1.7387
+                    "value": 1.7396
                 }
             }
         }
@@ -2938,27 +2938,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 11,
                             "value": "No necessary in-game text",
                             "numvotes": 16
                         },
                         {
-                            "level": 2,
+                            "level": 12,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 3,
+                            "level": 13,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 4,
+                            "level": 14,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 5,
+                            "level": 15,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -3108,13 +3108,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 6097
+                    "value": 6100
                 },
                 "average": {
-                    "value": 6.40622
+                    "value": 6.40668
                 },
                 "bayesaverage": {
-                    "value": 6.09432
+                    "value": 6.09444
                 },
                 "ranks": {
                     "rank": [
@@ -3123,30 +3123,30 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 2632,
-                            "bayesaverage": 6.09432
+                            "value": 2631,
+                            "bayesaverage": 6.09444
                         },
                         {
                             "type": "family",
                             "id": 5498,
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
-                            "value": 229,
-                            "bayesaverage": 6.17743
+                            "value": 228,
+                            "bayesaverage": 6.17759
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.52671
+                    "value": 1.52715
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 15218
+                    "value": 15221
                 },
                 "trading": {
-                    "value": 174
+                    "value": 175
                 },
                 "wanting": {
                     "value": 80
@@ -3419,27 +3419,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 26,
+                            "level": 31,
                             "value": "No necessary in-game text",
                             "numvotes": 2
                         },
                         {
-                            "level": 27,
+                            "level": 32,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 5
                         },
                         {
-                            "level": 28,
+                            "level": 33,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 29,
+                            "level": 34,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 30,
+                            "level": 35,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -3563,10 +3563,10 @@
                     "value": 3683
                 },
                 "average": {
-                    "value": 5.92638
+                    "value": 5.92635
                 },
                 "bayesaverage": {
-                    "value": 5.67168
+                    "value": 5.67166
                 },
                 "ranks": {
                     "rank": [
@@ -3575,27 +3575,27 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 6786,
-                            "bayesaverage": 5.67168
+                            "value": 6789,
+                            "bayesaverage": 5.67166
                         },
                         {
                             "type": "family",
                             "id": 5499,
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
-                            "value": 2109,
-                            "bayesaverage": 5.67593
+                            "value": 2110,
+                            "bayesaverage": 5.67591
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.45583
+                    "value": 1.4558
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 10525
+                    "value": 10529
                 },
                 "trading": {
                     "value": 90
@@ -4025,27 +4025,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 26,
+                            "level": 6,
                             "value": "No necessary in-game text",
                             "numvotes": 1
                         },
                         {
-                            "level": 27,
+                            "level": 7,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 28,
+                            "level": 8,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 7
                         },
                         {
-                            "level": 29,
+                            "level": 9,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 26
                         },
                         {
-                            "level": 30,
+                            "level": 10,
                             "value": "Unplayable in another language",
                             "numvotes": 140
                         }
@@ -4675,13 +4675,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 101112
+                    "value": 101124
                 },
                 "average": {
-                    "value": 7.52848
+                    "value": 7.52844
                 },
                 "bayesaverage": {
-                    "value": 7.43297
+                    "value": 7.43291
                 },
                 "ranks": {
                     "rank": [
@@ -4691,7 +4691,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 159,
-                            "bayesaverage": 7.43297
+                            "bayesaverage": 7.43291
                         },
                         {
                             "type": "family",
@@ -4699,18 +4699,18 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 5,
-                            "bayesaverage": 7.44252
+                            "bayesaverage": 7.44242
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.30317
+                    "value": 1.3032
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 173658
+                    "value": 173687
                 },
                 "trading": {
                     "value": 1433
@@ -4719,10 +4719,10 @@
                     "value": 354
                 },
                 "wishing": {
-                    "value": 7704
+                    "value": 7712
                 },
                 "numcomments": {
-                    "value": 13176
+                    "value": 13180
                 },
                 "numweights": {
                     "value": 2520
@@ -4996,27 +4996,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 11,
+                            "level": 36,
                             "value": "No necessary in-game text",
                             "numvotes": 59
                         },
                         {
-                            "level": 12,
+                            "level": 37,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 5
                         },
                         {
-                            "level": 13,
+                            "level": 38,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 14,
+                            "level": 39,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 15,
+                            "level": 40,
                             "value": "Unplayable in another language",
                             "numvotes": 1
                         }
@@ -5456,13 +5456,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 34724
+                    "value": 34728
                 },
                 "average": {
-                    "value": 7.09677
+                    "value": 7.09681
                 },
                 "bayesaverage": {
-                    "value": 6.95298
+                    "value": 6.953
                 },
                 "ranks": {
                     "rank": [
@@ -5472,7 +5472,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 547,
-                            "bayesaverage": 6.95298
+                            "bayesaverage": 6.953
                         },
                         {
                             "type": "family",
@@ -5480,27 +5480,27 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 154,
-                            "bayesaverage": 6.96988
+                            "bayesaverage": 6.9699
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.24695
+                    "value": 1.24693
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 50186
+                    "value": 50191
                 },
                 "trading": {
-                    "value": 801
+                    "value": 799
                 },
                 "wanting": {
                     "value": 419
                 },
                 "wishing": {
-                    "value": 4605
+                    "value": 4603
                 },
                 "numcomments": {
                     "value": 5183
@@ -5684,27 +5684,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 36,
+                            "level": 41,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 37,
+                            "level": 42,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 1
                         },
                         {
-                            "level": 38,
+                            "level": 43,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 3
                         },
                         {
-                            "level": 39,
+                            "level": 44,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 2
                         },
                         {
-                            "level": 40,
+                            "level": 45,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -5894,13 +5894,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 2700
+                    "value": 2706
                 },
                 "average": {
-                    "value": 7.8861
+                    "value": 7.88635
                 },
                 "bayesaverage": {
-                    "value": 6.7432
+                    "value": 6.74358
                 },
                 "ranks": {
                     "rank": [
@@ -5910,7 +5910,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 825,
-                            "bayesaverage": 6.7432
+                            "bayesaverage": 6.74358
                         },
                         {
                             "type": "family",
@@ -5918,7 +5918,7 @@
                             "name": "cgs",
                             "friendlyname": "Customizable Rank",
                             "value": 22,
-                            "bayesaverage": 7.23315
+                            "bayesaverage": 7.23281
                         },
                         {
                             "type": "family",
@@ -5926,30 +5926,30 @@
                             "name": "strategygames",
                             "friendlyname": "Strategy Game Rank",
                             "value": 468,
-                            "bayesaverage": 6.8879
+                            "bayesaverage": 6.88825
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.28569
+                    "value": 1.28542
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 7799
+                    "value": 7822
                 },
                 "trading": {
-                    "value": 46
+                    "value": 48
                 },
                 "wanting": {
-                    "value": 302
+                    "value": 301
                 },
                 "wishing": {
-                    "value": 2935
+                    "value": 2930
                 },
                 "numcomments": {
-                    "value": 537
+                    "value": 539
                 },
                 "numweights": {
                     "value": 53
@@ -6268,27 +6268,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 11,
+                            "level": 36,
                             "value": "No necessary in-game text",
                             "numvotes": 9
                         },
                         {
-                            "level": 12,
+                            "level": 37,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 64
                         },
                         {
-                            "level": 13,
+                            "level": 38,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 3
                         },
                         {
-                            "level": 14,
+                            "level": 39,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 15,
+                            "level": 40,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -6713,13 +6713,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 50966
+                    "value": 50968
                 },
                 "average": {
-                    "value": 6.97602
+                    "value": 6.97609
                 },
                 "bayesaverage": {
-                    "value": 6.83253
+                    "value": 6.8326
                 },
                 "ranks": {
                     "rank": [
@@ -6729,7 +6729,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 701,
-                            "bayesaverage": 6.83253
+                            "bayesaverage": 6.8326
                         },
                         {
                             "type": "family",
@@ -6737,27 +6737,27 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 66,
-                            "bayesaverage": 6.7676
+                            "bayesaverage": 6.76756
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.42998
+                    "value": 1.43
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 90386
+                    "value": 90401
                 },
                 "trading": {
-                    "value": 1498
+                    "value": 1499
                 },
                 "wanting": {
-                    "value": 260
+                    "value": 261
                 },
                 "wishing": {
-                    "value": 4653
+                    "value": 4658
                 },
                 "numcomments": {
                     "value": 8569
@@ -7087,27 +7087,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 21,
+                            "level": 1,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 22,
+                            "level": 2,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 11
                         },
                         {
-                            "level": 23,
+                            "level": 3,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 24,
+                            "level": 4,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 25,
+                            "level": 5,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -7364,10 +7364,10 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 5971
+                    "value": 5972
                 },
                 "average": {
-                    "value": 7.25111
+                    "value": 7.25141
                 },
                 "bayesaverage": {
                     "value": 6.71425
@@ -7393,13 +7393,13 @@
                     ]
                 },
                 "stddev": {
-                    "value": 1.29352
+                    "value": 1.29361
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 20966
+                    "value": 20972
                 },
                 "trading": {
                     "value": 298
@@ -7411,7 +7411,7 @@
                     "value": 684
                 },
                 "numcomments": {
-                    "value": 1431
+                    "value": 1432
                 },
                 "numweights": {
                     "value": 159
@@ -7668,27 +7668,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 51,
                             "value": "No necessary in-game text",
                             "numvotes": 1
                         },
                         {
-                            "level": 2,
+                            "level": 52,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 7
                         },
                         {
-                            "level": 3,
+                            "level": 53,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 1
                         },
                         {
-                            "level": 4,
+                            "level": 54,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 5,
+                            "level": 55,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -7838,13 +7838,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 3582
+                    "value": 3587
                 },
                 "average": {
-                    "value": 7.26461
+                    "value": 7.26466
                 },
                 "bayesaverage": {
-                    "value": 6.53769
+                    "value": 6.53838
                 },
                 "ranks": {
                     "rank": [
@@ -7853,8 +7853,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 1208,
-                            "bayesaverage": 6.53769
+                            "value": 1206,
+                            "bayesaverage": 6.53838
                         },
                         {
                             "type": "family",
@@ -7862,26 +7862,26 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 60,
-                            "bayesaverage": 6.79446
+                            "bayesaverage": 6.79496
                         },
                         {
                             "type": "family",
                             "id": 5499,
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
-                            "value": 326,
-                            "bayesaverage": 6.66975
+                            "value": 325,
+                            "bayesaverage": 6.67041
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.2136
+                    "value": 1.21331
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 6890
+                    "value": 6901
                 },
                 "trading": {
                     "value": 55
@@ -7890,10 +7890,10 @@
                     "value": 230
                 },
                 "wishing": {
-                    "value": 1939
+                    "value": 1937
                 },
                 "numcomments": {
-                    "value": 552
+                    "value": 554
                 },
                 "numweights": {
                     "value": 88
@@ -8215,27 +8215,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 21,
+                            "level": 81,
                             "value": "No necessary in-game text",
                             "numvotes": 30
                         },
                         {
-                            "level": 22,
+                            "level": 82,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 7
                         },
                         {
-                            "level": 23,
+                            "level": 83,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 8
                         },
                         {
-                            "level": 24,
+                            "level": 84,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 25,
+                            "level": 85,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -8525,10 +8525,10 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 47157
+                    "value": 47161
                 },
                 "average": {
-                    "value": 7.76418
+                    "value": 7.76415
                 },
                 "bayesaverage": {
                     "value": 7.62525
@@ -8554,25 +8554,25 @@
                     ]
                 },
                 "stddev": {
-                    "value": 1.31788
+                    "value": 1.31785
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 90390
+                    "value": 90407
                 },
                 "trading": {
-                    "value": 1331
+                    "value": 1332
                 },
                 "wanting": {
                     "value": 313
                 },
                 "wishing": {
-                    "value": 6048
+                    "value": 6047
                 },
                 "numcomments": {
-                    "value": 6220
+                    "value": 6222
                 },
                 "numweights": {
                     "value": 963
@@ -9072,13 +9072,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 5477
+                    "value": 5486
                 },
                 "average": {
-                    "value": 7.68446
+                    "value": 7.68479
                 },
                 "bayesaverage": {
-                    "value": 7.00254
+                    "value": 7.00335
                 },
                 "ranks": {
                     "rank": [
@@ -9087,8 +9087,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 483,
-                            "bayesaverage": 7.00254
+                            "value": 482,
+                            "bayesaverage": 7.00335
                         },
                         {
                             "type": "family",
@@ -9096,27 +9096,27 @@
                             "name": "strategygames",
                             "friendlyname": "Strategy Game Rank",
                             "value": 301,
-                            "bayesaverage": 7.11613
+                            "bayesaverage": 7.11694
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.34497
+                    "value": 1.34405
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 9769
+                    "value": 9776
                 },
                 "trading": {
-                    "value": 90
+                    "value": 92
                 },
                 "wanting": {
                     "value": 366
                 },
                 "wishing": {
-                    "value": 3656
+                    "value": 3655
                 },
                 "numcomments": {
                     "value": 1041
@@ -9373,27 +9373,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 11,
+                            "level": 6,
                             "value": "No necessary in-game text",
                             "numvotes": 36
                         },
                         {
-                            "level": 12,
+                            "level": 7,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 13,
+                            "level": 8,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 14,
+                            "level": 9,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 15,
+                            "level": 10,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -9553,13 +9553,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 20137
+                    "value": 20143
                 },
                 "average": {
-                    "value": 6.87507
+                    "value": 6.87492
                 },
                 "bayesaverage": {
-                    "value": 6.69425
+                    "value": 6.69416
                 },
                 "ranks": {
                     "rank": [
@@ -9568,8 +9568,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 907,
-                            "bayesaverage": 6.69425
+                            "value": 908,
+                            "bayesaverage": 6.69416
                         },
                         {
                             "type": "family",
@@ -9577,30 +9577,30 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 286,
-                            "bayesaverage": 6.72138
+                            "bayesaverage": 6.72126
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.29568
+                    "value": 1.29575
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 35554
+                    "value": 35566
                 },
                 "trading": {
-                    "value": 444
+                    "value": 443
                 },
                 "wanting": {
                     "value": 295
                 },
                 "wishing": {
-                    "value": 3053
+                    "value": 3051
                 },
                 "numcomments": {
-                    "value": 3394
+                    "value": 3395
                 },
                 "numweights": {
                     "value": 468
@@ -9933,27 +9933,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 11,
                             "value": "No necessary in-game text",
                             "numvotes": 61
                         },
                         {
-                            "level": 2,
+                            "level": 12,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 3,
+                            "level": 13,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 4,
+                            "level": 14,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 5,
+                            "level": 15,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -10258,13 +10258,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 23545
+                    "value": 23547
                 },
                 "average": {
-                    "value": 6.84618
+                    "value": 6.84614
                 },
                 "bayesaverage": {
-                    "value": 6.70733
+                    "value": 6.70722
                 },
                 "ranks": {
                     "rank": [
@@ -10273,8 +10273,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 883,
-                            "bayesaverage": 6.70733
+                            "value": 884,
+                            "bayesaverage": 6.70722
                         },
                         {
                             "type": "family",
@@ -10282,7 +10282,7 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 67,
-                            "bayesaverage": 6.76682
+                            "bayesaverage": 6.76661
                         },
                         {
                             "type": "family",
@@ -10290,18 +10290,18 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 279,
-                            "bayesaverage": 6.73781
+                            "bayesaverage": 6.73769
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.22178
+                    "value": 1.2218
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 31822
+                    "value": 31824
                 },
                 "trading": {
                     "value": 458
@@ -10573,27 +10573,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 36,
+                            "level": 26,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 37,
+                            "level": 27,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 38,
+                            "level": 28,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 10
                         },
                         {
-                            "level": 39,
+                            "level": 29,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 40
                         },
                         {
-                            "level": 40,
+                            "level": 30,
                             "value": "Unplayable in another language",
                             "numvotes": 2
                         }
@@ -11333,13 +11333,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 65333
+                    "value": 65348
                 },
                 "average": {
-                    "value": 7.99129
+                    "value": 7.99128
                 },
                 "bayesaverage": {
-                    "value": 7.81643
+                    "value": 7.81644
                 },
                 "ranks": {
                     "rank": [
@@ -11349,7 +11349,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 41,
-                            "bayesaverage": 7.81643
+                            "bayesaverage": 7.81644
                         },
                         {
                             "type": "family",
@@ -11365,21 +11365,21 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 8,
-                            "bayesaverage": 7.82238
+                            "bayesaverage": 7.8224
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.3045
+                    "value": 1.30454
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 99853
+                    "value": 99872
                 },
                 "trading": {
-                    "value": 660
+                    "value": 663
                 },
                 "wanting": {
                     "value": 1383
@@ -11388,13 +11388,13 @@
                     "value": 22489
                 },
                 "numcomments": {
-                    "value": 8207
+                    "value": 8206
                 },
                 "numweights": {
-                    "value": 1943
+                    "value": 1944
                 },
                 "averageweight": {
-                    "value": 2.826
+                    "value": 2.8261
                 }
             }
         }
@@ -11615,27 +11615,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 41,
+                            "level": 1,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 42,
+                            "level": 2,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 2
                         },
                         {
-                            "level": 43,
+                            "level": 3,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 1
                         },
                         {
-                            "level": 44,
+                            "level": 4,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 45,
+                            "level": 5,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -11781,7 +11781,7 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 4100,
+                            "value": 4101,
                             "bayesaverage": 5.86057
                         },
                         {
@@ -12125,27 +12125,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 11,
+                            "level": 16,
                             "value": "No necessary in-game text",
                             "numvotes": 15
                         },
                         {
-                            "level": 12,
+                            "level": 17,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 1
                         },
                         {
-                            "level": 13,
+                            "level": 18,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 14,
+                            "level": 19,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 15,
+                            "level": 20,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -12275,13 +12275,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 10146
+                    "value": 10147
                 },
                 "average": {
-                    "value": 7.11343
+                    "value": 7.11345
                 },
                 "bayesaverage": {
-                    "value": 6.80023
+                    "value": 6.80027
                 },
                 "ranks": {
                     "rank": [
@@ -12291,7 +12291,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 741,
-                            "bayesaverage": 6.80023
+                            "bayesaverage": 6.80027
                         },
                         {
                             "type": "family",
@@ -12299,7 +12299,7 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 41,
-                            "bayesaverage": 6.95484
+                            "bayesaverage": 6.95487
                         }
                     ]
                 },
@@ -12310,16 +12310,16 @@
                     "value": 0
                 },
                 "owned": {
-                    "value": 19525
+                    "value": 19526
                 },
                 "trading": {
-                    "value": 219
+                    "value": 217
                 },
                 "wanting": {
                     "value": 300
                 },
                 "wishing": {
-                    "value": 3341
+                    "value": 3343
                 },
                 "numcomments": {
                     "value": 1826
@@ -12522,27 +12522,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 6,
+                            "level": 11,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 7,
+                            "level": 12,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 1
                         },
                         {
-                            "level": 8,
+                            "level": 13,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 1
                         },
                         {
-                            "level": 9,
+                            "level": 14,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 10,
+                            "level": 15,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -12643,13 +12643,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 88
+                    "value": 89
                 },
                 "average": {
-                    "value": 6.02091
+                    "value": 5.9982
                 },
                 "bayesaverage": {
-                    "value": 5.51494
+                    "value": 5.51427
                 },
                 "ranks": {
                     "rank": {
@@ -12657,18 +12657,18 @@
                         "id": 1,
                         "name": "boardgame",
                         "friendlyname": "Board Game Rank",
-                        "value": 20465,
-                        "bayesaverage": 5.51494
+                        "value": 20683,
+                        "bayesaverage": 5.51427
                     }
                 },
                 "stddev": {
-                    "value": 1.50342
+                    "value": 1.51005
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 409
+                    "value": 410
                 },
                 "trading": {
                     "value": 1
@@ -12705,7 +12705,7 @@
             {
                 "type": "alternate",
                 "sortindex": 1,
-                "value": "Heat: Chuva Pesada"
+                "value": "Heat: Chuva Forte"
             },
             {
                 "type": "alternate",
@@ -12976,27 +12976,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 31,
+                            "level": 1,
                             "value": "No necessary in-game text",
                             "numvotes": 6
                         },
                         {
-                            "level": 32,
+                            "level": 2,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 33,
+                            "level": 3,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 34,
+                            "level": 4,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 35,
+                            "level": 5,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -13192,13 +13192,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 2361
+                    "value": 2363
                 },
                 "average": {
-                    "value": 8.09583
+                    "value": 8.09512
                 },
                 "bayesaverage": {
-                    "value": 6.77328
+                    "value": 6.77345
                 },
                 "ranks": {
                     "rank": [
@@ -13208,7 +13208,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": "Not Ranked",
-                            "bayesaverage": 6.77328
+                            "bayesaverage": 6.77345
                         },
                         {
                             "type": "family",
@@ -13216,24 +13216,24 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": "Not Ranked",
-                            "bayesaverage": 6.9857
+                            "bayesaverage": 6.98584
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.30919
+                    "value": 1.30888
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 13818
+                    "value": 13826
                 },
                 "trading": {
                     "value": 46
                 },
                 "wanting": {
-                    "value": 181
+                    "value": 180
                 },
                 "wishing": {
                     "value": 1424
@@ -13773,13 +13773,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 36913
+                    "value": 36931
                 },
                 "average": {
-                    "value": 8.00502
+                    "value": 8.00494
                 },
                 "bayesaverage": {
-                    "value": 7.79283
+                    "value": 7.79287
                 },
                 "ranks": {
                     "rank": [
@@ -13789,7 +13789,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 46,
-                            "bayesaverage": 7.79283
+                            "bayesaverage": 7.79287
                         },
                         {
                             "type": "family",
@@ -13797,30 +13797,30 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 9,
-                            "bayesaverage": 7.81412
+                            "bayesaverage": 7.81411
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.32906
+                    "value": 1.32902
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 54387
+                    "value": 54425
                 },
                 "trading": {
-                    "value": 254
+                    "value": 255
                 },
                 "wanting": {
                     "value": 1318
                 },
                 "wishing": {
-                    "value": 14071
+                    "value": 14074
                 },
                 "numcomments": {
-                    "value": 4505
+                    "value": 4507
                 },
                 "numweights": {
                     "value": 1030
@@ -14096,27 +14096,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 61,
+                            "level": 1,
                             "value": "No necessary in-game text",
                             "numvotes": 2
                         },
                         {
-                            "level": 62,
+                            "level": 2,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 63,
+                            "level": 3,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 64,
+                            "level": 4,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 65,
+                            "level": 5,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -14262,13 +14262,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 884
+                    "value": 887
                 },
                 "average": {
-                    "value": 8.20831
+                    "value": 8.20761
                 },
                 "bayesaverage": {
-                    "value": 6.22318
+                    "value": 6.2247
                 },
                 "ranks": {
                     "rank": {
@@ -14277,26 +14277,26 @@
                         "name": "boardgame",
                         "friendlyname": "Board Game Rank",
                         "value": "Not Ranked",
-                        "bayesaverage": 6.22318
+                        "bayesaverage": 6.2247
                     }
                 },
                 "stddev": {
-                    "value": 1.2436
+                    "value": 1.24427
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 7401
+                    "value": 7416
                 },
                 "trading": {
                     "value": 16
                 },
                 "wanting": {
-                    "value": 173
+                    "value": 172
                 },
                 "wishing": {
-                    "value": 1154
+                    "value": 1156
                 },
                 "numcomments": {
                     "value": 210
@@ -14816,27 +14816,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 6,
+                            "level": 41,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 7,
+                            "level": 42,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 8,
+                            "level": 43,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 3
                         },
                         {
-                            "level": 9,
+                            "level": 44,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 2
                         },
                         {
-                            "level": 10,
+                            "level": 45,
                             "value": "Unplayable in another language",
                             "numvotes": 1
                         }
@@ -14991,13 +14991,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 3289
+                    "value": 3290
                 },
                 "average": {
-                    "value": 6.61868
+                    "value": 6.61887
                 },
                 "bayesaverage": {
-                    "value": 6.12412
+                    "value": 6.12398
                 },
                 "ranks": {
                     "rank": [
@@ -15006,8 +15006,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 2504,
-                            "bayesaverage": 6.12412
+                            "value": 2505,
+                            "bayesaverage": 6.12398
                         },
                         {
                             "type": "family",
@@ -15015,7 +15015,7 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 160,
-                            "bayesaverage": 6.34829
+                            "bayesaverage": 6.34806
                         }
                     ]
                 },
@@ -15026,16 +15026,16 @@
                     "value": 0
                 },
                 "owned": {
-                    "value": 8569
+                    "value": 8579
                 },
                 "trading": {
-                    "value": 103
+                    "value": 104
                 },
                 "wanting": {
                     "value": 36
                 },
                 "wishing": {
-                    "value": 888
+                    "value": 887
                 },
                 "numcomments": {
                     "value": 536
@@ -15277,27 +15277,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 16,
+                            "level": 26,
                             "value": "No necessary in-game text",
                             "numvotes": 55
                         },
                         {
-                            "level": 17,
+                            "level": 27,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 2
                         },
                         {
-                            "level": 18,
+                            "level": 28,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 19,
+                            "level": 29,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 20,
+                            "level": 30,
                             "value": "Unplayable in another language",
                             "numvotes": 1
                         }
@@ -15512,13 +15512,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 21897
+                    "value": 21896
                 },
                 "average": {
-                    "value": 7.06013
+                    "value": 7.06005
                 },
                 "bayesaverage": {
-                    "value": 6.87723
+                    "value": 6.87714
                 },
                 "ranks": {
                     "rank": [
@@ -15528,7 +15528,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 638,
-                            "bayesaverage": 6.87723
+                            "bayesaverage": 6.87714
                         },
                         {
                             "type": "family",
@@ -15536,7 +15536,7 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 181,
-                            "bayesaverage": 6.9144
+                            "bayesaverage": 6.91432
                         }
                     ]
                 },
@@ -15547,13 +15547,13 @@
                     "value": 0
                 },
                 "owned": {
-                    "value": 32248
+                    "value": 32249
                 },
                 "trading": {
-                    "value": 553
+                    "value": 555
                 },
                 "wanting": {
-                    "value": 669
+                    "value": 671
                 },
                 "wishing": {
                     "value": 4945
@@ -15789,27 +15789,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 6,
+                            "level": 41,
                             "value": "No necessary in-game text",
                             "numvotes": 19
                         },
                         {
-                            "level": 7,
+                            "level": 42,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 8,
+                            "level": 43,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 9,
+                            "level": 44,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 10,
+                            "level": 45,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -16089,13 +16089,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 5534
+                    "value": 5535
                 },
                 "average": {
-                    "value": 7.9198
+                    "value": 7.91964
                 },
                 "bayesaverage": {
-                    "value": 7.11165
+                    "value": 7.11163
                 },
                 "ranks": {
                     "rank": [
@@ -16105,7 +16105,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 372,
-                            "bayesaverage": 7.11165
+                            "bayesaverage": 7.11163
                         },
                         {
                             "type": "family",
@@ -16113,35 +16113,35 @@
                             "name": "thematic",
                             "friendlyname": "Thematic Rank",
                             "value": 67,
-                            "bayesaverage": 7.29989
+                            "bayesaverage": 7.29963
                         },
                         {
                             "type": "family",
                             "id": 5499,
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
-                            "value": 71,
-                            "bayesaverage": 7.23136
+                            "value": 72,
+                            "bayesaverage": 7.23132
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.37706
+                    "value": 1.37692
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 11662
+                    "value": 11663
                 },
                 "trading": {
-                    "value": 72
+                    "value": 73
                 },
                 "wanting": {
                     "value": 375
                 },
                 "wishing": {
-                    "value": 3768
+                    "value": 3769
                 },
                 "numcomments": {
                     "value": 1037
@@ -16733,13 +16733,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 1556
+                    "value": 1557
                 },
                 "average": {
-                    "value": 7.71364
+                    "value": 7.71254
                 },
                 "bayesaverage": {
-                    "value": 6.33812
+                    "value": 6.33803
                 },
                 "ranks": {
                     "rank": {
@@ -16748,17 +16748,17 @@
                         "name": "boardgame",
                         "friendlyname": "Board Game Rank",
                         "value": "Not Ranked",
-                        "bayesaverage": 6.33812
+                        "bayesaverage": 6.33803
                     }
                 },
                 "stddev": {
-                    "value": 1.14409
+                    "value": 1.14399
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 4745
+                    "value": 4746
                 },
                 "trading": {
                     "value": 37
@@ -17049,27 +17049,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 26,
+                            "level": 1,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 27,
+                            "level": 2,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 1
                         },
                         {
-                            "level": 28,
+                            "level": 3,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 4
                         },
                         {
-                            "level": 29,
+                            "level": 4,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 2
                         },
                         {
-                            "level": 30,
+                            "level": 5,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -17300,13 +17300,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 8083
+                    "value": 8088
                 },
                 "average": {
-                    "value": 7.44536
+                    "value": 7.4444
                 },
                 "bayesaverage": {
-                    "value": 6.98347
+                    "value": 6.98293
                 },
                 "ranks": {
                     "rank": [
@@ -17315,8 +17315,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 506,
-                            "bayesaverage": 6.98347
+                            "value": 507,
+                            "bayesaverage": 6.98293
                         },
                         {
                             "type": "family",
@@ -17324,38 +17324,38 @@
                             "name": "strategygames",
                             "friendlyname": "Strategy Game Rank",
                             "value": 342,
-                            "bayesaverage": 7.06483
+                            "bayesaverage": 7.06417
                         },
                         {
                             "type": "family",
                             "id": 5499,
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
-                            "value": 108,
-                            "bayesaverage": 7.08918
+                            "value": 109,
+                            "bayesaverage": 7.08852
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.25479
+                    "value": 1.25559
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 14502
+                    "value": 14511
                 },
                 "trading": {
                     "value": 181
                 },
                 "wanting": {
-                    "value": 394
+                    "value": 391
                 },
                 "wishing": {
-                    "value": 3980
+                    "value": 3979
                 },
                 "numcomments": {
-                    "value": 1241
+                    "value": 1242
                 },
                 "numweights": {
                     "value": 199
@@ -17781,13 +17781,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 639
+                    "value": 644
                 },
                 "average": {
-                    "value": 7.86742
+                    "value": 7.86767
                 },
                 "bayesaverage": {
-                    "value": 5.95977
+                    "value": 5.96328
                 },
                 "ranks": {
                     "rank": [
@@ -17796,35 +17796,35 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 3363,
-                            "bayesaverage": 5.95977
+                            "value": 3342,
+                            "bayesaverage": 5.96328
                         },
                         {
                             "type": "family",
                             "id": 5498,
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
-                            "value": 156,
-                            "bayesaverage": 6.36143
+                            "value": 154,
+                            "bayesaverage": 6.3687
                         },
                         {
                             "type": "family",
                             "id": 5499,
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
-                            "value": 1060,
-                            "bayesaverage": 6.07435
+                            "value": 1049,
+                            "bayesaverage": 6.07886
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.51221
+                    "value": 1.50746
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 1210
+                    "value": 1218
                 },
                 "trading": {
                     "value": 3
@@ -17833,7 +17833,7 @@
                     "value": 92
                 },
                 "wishing": {
-                    "value": 674
+                    "value": 680
                 },
                 "numcomments": {
                     "value": 165
@@ -18145,27 +18145,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 11,
+                            "level": 16,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 12,
+                            "level": 17,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 13,
+                            "level": 18,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 7
                         },
                         {
-                            "level": 14,
+                            "level": 19,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 103
                         },
                         {
-                            "level": 15,
+                            "level": 20,
                             "value": "Unplayable in another language",
                             "numvotes": 26
                         }
@@ -19800,13 +19800,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 52501
+                    "value": 52506
                 },
                 "average": {
-                    "value": 5.87417
+                    "value": 5.87402
                 },
                 "bayesaverage": {
-                    "value": 5.69203
+                    "value": 5.69183
                 },
                 "ranks": {
                     "rank": [
@@ -19815,16 +19815,16 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 6320,
-                            "bayesaverage": 5.69203
+                            "value": 6323,
+                            "bayesaverage": 5.69183
                         },
                         {
                             "type": "family",
                             "id": 5496,
                             "name": "thematic",
                             "friendlyname": "Thematic Rank",
-                            "value": 1704,
-                            "bayesaverage": 5.48034
+                            "value": 1705,
+                            "bayesaverage": 5.48006
                         },
                         {
                             "type": "family",
@@ -19832,27 +19832,27 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 851,
-                            "bayesaverage": 5.43257
+                            "bayesaverage": 5.43227
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.84179
+                    "value": 1.84173
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 100523
+                    "value": 100533
                 },
                 "trading": {
-                    "value": 2648
+                    "value": 2649
                 },
                 "wanting": {
                     "value": 149
                 },
                 "wishing": {
-                    "value": 2275
+                    "value": 2276
                 },
                 "numcomments": {
                     "value": 9623
@@ -20261,27 +20261,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 16,
                             "value": "No necessary in-game text",
                             "numvotes": 80
                         },
                         {
-                            "level": 2,
+                            "level": 17,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 3,
+                            "level": 18,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 4,
+                            "level": 19,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 5,
+                            "level": 20,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -20576,13 +20576,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 29838
+                    "value": 29845
                 },
                 "average": {
-                    "value": 7.08095
+                    "value": 7.08101
                 },
                 "bayesaverage": {
-                    "value": 6.95416
+                    "value": 6.95425
                 },
                 "ranks": {
                     "rank": [
@@ -20592,7 +20592,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 546,
-                            "bayesaverage": 6.95416
+                            "bayesaverage": 6.95425
                         },
                         {
                             "type": "family",
@@ -20600,27 +20600,27 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 145,
-                            "bayesaverage": 6.9847
+                            "bayesaverage": 6.98481
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.20414
+                    "value": 1.2041
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 44923
+                    "value": 44942
                 },
                 "trading": {
                     "value": 426
                 },
                 "wanting": {
-                    "value": 387
+                    "value": 386
                 },
                 "wishing": {
-                    "value": 3697
+                    "value": 3698
                 },
                 "numcomments": {
                     "value": 6392
@@ -20789,27 +20789,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 6,
+                            "level": 26,
                             "value": "No necessary in-game text",
                             "numvotes": 25
                         },
                         {
-                            "level": 7,
+                            "level": 27,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 8,
+                            "level": 28,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 9,
+                            "level": 29,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 10,
+                            "level": 30,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -21069,13 +21069,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 24376
+                    "value": 24379
                 },
                 "average": {
-                    "value": 7.341
+                    "value": 7.34103
                 },
                 "bayesaverage": {
-                    "value": 7.14196
+                    "value": 7.14202
                 },
                 "ranks": {
                     "rank": [
@@ -21085,26 +21085,26 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 348,
-                            "bayesaverage": 7.14196
+                            "bayesaverage": 7.14202
                         },
                         {
                             "type": "family",
                             "id": 4666,
                             "name": "abstracts",
                             "friendlyname": "Abstract Game Rank",
-                            "value": 20,
-                            "bayesaverage": 7.12634
+                            "value": 19,
+                            "bayesaverage": 7.12626
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.24565
+                    "value": 1.24571
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 38172
+                    "value": 38174
                 },
                 "trading": {
                     "value": 455
@@ -21116,7 +21116,7 @@
                     "value": 6941
                 },
                 "numcomments": {
-                    "value": 4066
+                    "value": 4067
                 },
                 "numweights": {
                     "value": 425
@@ -21598,27 +21598,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 6,
+                            "level": 11,
                             "value": "No necessary in-game text",
                             "numvotes": 42
                         },
                         {
-                            "level": 7,
+                            "level": 12,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 1
                         },
                         {
-                            "level": 8,
+                            "level": 13,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 9,
+                            "level": 14,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 10,
+                            "level": 15,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -21963,13 +21963,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 11852
+                    "value": 11856
                 },
                 "average": {
-                    "value": 6.70787
+                    "value": 6.70843
                 },
                 "bayesaverage": {
-                    "value": 6.45602
+                    "value": 6.45629
                 },
                 "ranks": {
                     "rank": [
@@ -21979,26 +21979,26 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 1404,
-                            "bayesaverage": 6.45602
+                            "bayesaverage": 6.45629
                         },
                         {
                             "type": "family",
                             "id": 5497,
                             "name": "strategygames",
                             "friendlyname": "Strategy Game Rank",
-                            "value": 913,
-                            "bayesaverage": 6.46311
+                            "value": 912,
+                            "bayesaverage": 6.46342
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.89036
+                    "value": 1.89032
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 11480
+                    "value": 11485
                 },
                 "trading": {
                     "value": 51
@@ -22010,13 +22010,13 @@
                     "value": 128
                 },
                 "numcomments": {
-                    "value": 2429
+                    "value": 2430
                 },
                 "numweights": {
-                    "value": 750
+                    "value": 751
                 },
                 "averageweight": {
-                    "value": 2.4347
+                    "value": 2.4341
                 }
             }
         }
@@ -22237,27 +22237,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 16,
+                            "level": 26,
                             "value": "No necessary in-game text",
                             "numvotes": 1
                         },
                         {
-                            "level": 17,
+                            "level": 27,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 4
                         },
                         {
-                            "level": 18,
+                            "level": 28,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 2
                         },
                         {
-                            "level": 19,
+                            "level": 29,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 20,
+                            "level": 30,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -22507,13 +22507,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 3797
+                    "value": 3798
                 },
                 "average": {
-                    "value": 7.53702
+                    "value": 7.53675
                 },
                 "bayesaverage": {
-                    "value": 6.73563
+                    "value": 6.73537
                 },
                 "ranks": {
                     "rank": [
@@ -22523,7 +22523,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": "Not Ranked",
-                            "bayesaverage": 6.73563
+                            "bayesaverage": 6.73537
                         },
                         {
                             "type": "family",
@@ -22531,18 +22531,18 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": "Not Ranked",
-                            "bayesaverage": 6.903
+                            "bayesaverage": 6.9027
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.10264
+                    "value": 1.10268
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 10234
+                    "value": 10239
                 },
                 "trading": {
                     "value": 135
@@ -22759,27 +22759,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 11,
+                            "level": 16,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 12,
+                            "level": 17,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 13,
+                            "level": 18,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 5
                         },
                         {
-                            "level": 14,
+                            "level": 19,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 15,
+                            "level": 20,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -22924,10 +22924,10 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 909
+                    "value": 910
                 },
                 "average": {
-                    "value": 6.68587
+                    "value": 6.68567
                 },
                 "bayesaverage": {
                     "value": 5.80859
@@ -22938,18 +22938,18 @@
                         "id": 1,
                         "name": "boardgame",
                         "friendlyname": "Board Game Rank",
-                        "value": 4583,
+                        "value": 4584,
                         "bayesaverage": 5.80859
                     }
                 },
                 "stddev": {
-                    "value": 1.50919
+                    "value": 1.50838
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 1420
+                    "value": 1422
                 },
                 "trading": {
                     "value": 24
@@ -23415,10 +23415,10 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 2810
+                    "value": 2812
                 },
                 "average": {
-                    "value": 7.39254
+                    "value": 7.39315
                 },
                 "bayesaverage": {
                     "value": 6.5041
@@ -23430,7 +23430,7 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 1288,
+                            "value": 1287,
                             "bayesaverage": 6.5041
                         },
                         {
@@ -23439,27 +23439,27 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 333,
-                            "bayesaverage": 6.66162
+                            "bayesaverage": 6.66158
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.35674
+                    "value": 1.35745
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 5524
+                    "value": 5531
                 },
                 "trading": {
-                    "value": 44
+                    "value": 43
                 },
                 "wanting": {
-                    "value": 125
+                    "value": 126
                 },
                 "wishing": {
-                    "value": 1247
+                    "value": 1250
                 },
                 "numcomments": {
                     "value": 468
@@ -23509,14 +23509,14 @@
             {
                 "name": "suggested_numplayers",
                 "title": "User Suggested Number of Players",
-                "totalvotes": 182,
+                "totalvotes": 183,
                 "results": [
                     {
                         "numplayers": 1,
                         "result": [
                             {
                                 "value": "Best",
-                                "numvotes": 46
+                                "numvotes": 47
                             },
                             {
                                 "value": "Recommended",
@@ -23533,7 +23533,7 @@
                         "result": [
                             {
                                 "value": "Best",
-                                "numvotes": 72
+                                "numvotes": 73
                             },
                             {
                                 "value": "Recommended",
@@ -23554,7 +23554,7 @@
                             },
                             {
                                 "value": "Recommended",
-                                "numvotes": 69
+                                "numvotes": 70
                             },
                             {
                                 "value": "Not Recommended",
@@ -23575,7 +23575,7 @@
                             },
                             {
                                 "value": "Not Recommended",
-                                "numvotes": 26
+                                "numvotes": 27
                             }
                         ]
                     },
@@ -23592,7 +23592,7 @@
                             },
                             {
                                 "value": "Not Recommended",
-                                "numvotes": 86
+                                "numvotes": 87
                             }
                         ]
                     }
@@ -23662,27 +23662,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 16,
+                            "level": 26,
                             "value": "No necessary in-game text",
                             "numvotes": 15
                         },
                         {
-                            "level": 17,
+                            "level": 27,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 2
                         },
                         {
-                            "level": 18,
+                            "level": 28,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 19,
+                            "level": 29,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 20,
+                            "level": 30,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -23867,13 +23867,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 7956
+                    "value": 7963
                 },
                 "average": {
-                    "value": 7.39761
+                    "value": 7.39786
                 },
                 "bayesaverage": {
-                    "value": 6.92633
+                    "value": 6.92667
                 },
                 "ranks": {
                     "rank": [
@@ -23883,7 +23883,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 579,
-                            "bayesaverage": 6.92633
+                            "bayesaverage": 6.92667
                         },
                         {
                             "type": "family",
@@ -23891,7 +23891,7 @@
                             "name": "strategygames",
                             "friendlyname": "Strategy Game Rank",
                             "value": 393,
-                            "bayesaverage": 6.9829
+                            "bayesaverage": 6.98324
                         },
                         {
                             "type": "family",
@@ -23899,36 +23899,36 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 135,
-                            "bayesaverage": 7.01457
+                            "bayesaverage": 7.01488
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.2621
+                    "value": 1.26172
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 13985
+                    "value": 13991
                 },
                 "trading": {
-                    "value": 87
+                    "value": 89
                 },
                 "wanting": {
                     "value": 251
                 },
                 "wishing": {
-                    "value": 2646
+                    "value": 2647
                 },
                 "numcomments": {
-                    "value": 1409
+                    "value": 1408
                 },
                 "numweights": {
-                    "value": 195
+                    "value": 196
                 },
                 "averageweight": {
-                    "value": 1.9744
+                    "value": 1.9745
                 }
             }
         }
@@ -24227,27 +24227,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 56,
+                            "level": 6,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 57,
+                            "level": 7,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 3
                         },
                         {
-                            "level": 58,
+                            "level": 8,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 7
                         },
                         {
-                            "level": 59,
+                            "level": 9,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 135
                         },
                         {
-                            "level": 60,
+                            "level": 10,
                             "value": "Unplayable in another language",
                             "numvotes": 22
                         }
@@ -25072,13 +25072,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 46094
+                    "value": 46103
                 },
                 "average": {
-                    "value": 7.7289
+                    "value": 7.72887
                 },
                 "bayesaverage": {
-                    "value": 7.55228
+                    "value": 7.55231
                 },
                 "ranks": {
                     "rank": [
@@ -25088,7 +25088,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 112,
-                            "bayesaverage": 7.55228
+                            "bayesaverage": 7.55231
                         },
                         {
                             "type": "family",
@@ -25096,36 +25096,36 @@
                             "name": "thematic",
                             "friendlyname": "Thematic Rank",
                             "value": 36,
-                            "bayesaverage": 7.54839
+                            "bayesaverage": 7.54837
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.46277
+                    "value": 1.46274
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 74680
+                    "value": 74686
                 },
                 "trading": {
-                    "value": 1581
+                    "value": 1583
                 },
                 "wanting": {
-                    "value": 1216
+                    "value": 1215
                 },
                 "wishing": {
-                    "value": 13418
+                    "value": 13417
                 },
                 "numcomments": {
-                    "value": 7717
+                    "value": 7716
                 },
                 "numweights": {
-                    "value": 2374
+                    "value": 2375
                 },
                 "averageweight": {
-                    "value": 3.8252
+                    "value": 3.8253
                 }
             }
         }
@@ -25339,27 +25339,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 21,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 2,
+                            "level": 22,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 0
                         },
                         {
-                            "level": 3,
+                            "level": 23,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 4,
+                            "level": 24,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 5,
+                            "level": 25,
                             "value": "Unplayable in another language",
                             "numvotes": 1
                         }
@@ -25551,13 +25551,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 397
+                    "value": 398
                 },
                 "average": {
-                    "value": 7.62398
+                    "value": 7.62241
                 },
                 "bayesaverage": {
-                    "value": 5.80459
+                    "value": 5.80506
                 },
                 "ranks": {
                     "rank": {
@@ -25566,17 +25566,17 @@
                         "name": "boardgame",
                         "friendlyname": "Board Game Rank",
                         "value": "Not Ranked",
-                        "bayesaverage": 5.80459
+                        "bayesaverage": 5.80506
                     }
                 },
                 "stddev": {
-                    "value": 2.66089
+                    "value": 2.65773
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 3200
+                    "value": 3201
                 },
                 "trading": {
                     "value": 22
@@ -26538,27 +26538,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 61,
                             "value": "No necessary in-game text",
                             "numvotes": 108
                         },
                         {
-                            "level": 2,
+                            "level": 62,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 4
                         },
                         {
-                            "level": 3,
+                            "level": 63,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 4,
+                            "level": 64,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 1
                         },
                         {
-                            "level": 5,
+                            "level": 65,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -27033,13 +27033,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 35565
+                    "value": 35567
                 },
                 "average": {
-                    "value": 6.54069
+                    "value": 6.54066
                 },
                 "bayesaverage": {
-                    "value": 6.41379
+                    "value": 6.4138
                 },
                 "ranks": {
                     "rank": [
@@ -27048,47 +27048,47 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 1519,
-                            "bayesaverage": 6.41379
+                            "value": 1521,
+                            "bayesaverage": 6.4138
                         },
                         {
                             "type": "family",
                             "id": 5498,
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
-                            "value": 155,
-                            "bayesaverage": 6.36408
+                            "value": 156,
+                            "bayesaverage": 6.36407
                         },
                         {
                             "type": "family",
                             "id": 5499,
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
-                            "value": 570,
-                            "bayesaverage": 6.40755
+                            "value": 571,
+                            "bayesaverage": 6.40751
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.3129
+                    "value": 1.31292
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 64692
+                    "value": 64697
                 },
                 "trading": {
-                    "value": 984
+                    "value": 985
                 },
                 "wanting": {
                     "value": 215
                 },
                 "wishing": {
-                    "value": 2439
+                    "value": 2438
                 },
                 "numcomments": {
-                    "value": 5946
+                    "value": 5948
                 },
                 "numweights": {
                     "value": 1651
@@ -27469,27 +27469,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 6,
+                            "level": 66,
                             "value": "No necessary in-game text",
                             "numvotes": 32
                         },
                         {
-                            "level": 7,
+                            "level": 67,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 1
                         },
                         {
-                            "level": 8,
+                            "level": 68,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 9,
+                            "level": 69,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 10,
+                            "level": 70,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -27825,13 +27825,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 5792
+                    "value": 5793
                 },
                 "average": {
-                    "value": 6.93678
+                    "value": 6.9361
                 },
                 "bayesaverage": {
-                    "value": 6.45874
+                    "value": 6.45827
                 },
                 "ranks": {
                     "rank": [
@@ -27841,7 +27841,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": "Not Ranked",
-                            "bayesaverage": 6.45874
+                            "bayesaverage": 6.45827
                         },
                         {
                             "type": "family",
@@ -27849,18 +27849,18 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": "Not Ranked",
-                            "bayesaverage": 6.61803
+                            "bayesaverage": 6.61723
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.35375
+                    "value": 1.35462
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 17825
+                    "value": 17827
                 },
                 "trading": {
                     "value": 242
@@ -28072,27 +28072,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 41,
+                            "level": 46,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 42,
+                            "level": 47,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 1
                         },
                         {
-                            "level": 43,
+                            "level": 48,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 1
                         },
                         {
-                            "level": 44,
+                            "level": 49,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 5
                         },
                         {
-                            "level": 45,
+                            "level": 50,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -28347,16 +28347,16 @@
                     "value": 0
                 },
                 "owned": {
-                    "value": 8752
+                    "value": 8753
                 },
                 "trading": {
                     "value": 225
                 },
                 "wanting": {
-                    "value": 217
+                    "value": 216
                 },
                 "wishing": {
-                    "value": 1868
+                    "value": 1870
                 },
                 "numcomments": {
                     "value": 837
@@ -28599,27 +28599,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 1,
+                            "level": 26,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 2,
+                            "level": 27,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 2
                         },
                         {
-                            "level": 3,
+                            "level": 28,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 6
                         },
                         {
-                            "level": 4,
+                            "level": 29,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 5,
+                            "level": 30,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -28809,13 +28809,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 6844
+                    "value": 6848
                 },
                 "average": {
-                    "value": 7.12839
+                    "value": 7.12827
                 },
                 "bayesaverage": {
-                    "value": 6.67957
+                    "value": 6.67987
                 },
                 "ranks": {
                     "rank": [
@@ -28824,8 +28824,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 929,
-                            "bayesaverage": 6.67957
+                            "value": 928,
+                            "bayesaverage": 6.67987
                         },
                         {
                             "type": "family",
@@ -28833,30 +28833,30 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 264,
-                            "bayesaverage": 6.76391
+                            "bayesaverage": 6.76421
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.30411
+                    "value": 1.30422
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 12243
+                    "value": 12250
                 },
                 "trading": {
                     "value": 104
                 },
                 "wanting": {
-                    "value": 219
+                    "value": 218
                 },
                 "wishing": {
-                    "value": 2179
+                    "value": 2178
                 },
                 "numcomments": {
-                    "value": 1049
+                    "value": 1048
                 },
                 "numweights": {
                     "value": 136
@@ -29153,27 +29153,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 6,
+                            "level": 21,
                             "value": "No necessary in-game text",
                             "numvotes": 8
                         },
                         {
-                            "level": 7,
+                            "level": 22,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 1
                         },
                         {
-                            "level": 8,
+                            "level": 23,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 9,
+                            "level": 24,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 10,
+                            "level": 25,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -29305,13 +29305,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 3474
+                    "value": 3477
                 },
                 "average": {
-                    "value": 7.24072
+                    "value": 7.24188
                 },
                 "bayesaverage": {
-                    "value": 6.52822
+                    "value": 6.52889
                 },
                 "ranks": {
                     "rank": [
@@ -29321,7 +29321,7 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 1225,
-                            "bayesaverage": 6.52822
+                            "bayesaverage": 6.52889
                         },
                         {
                             "type": "family",
@@ -29329,18 +29329,18 @@
                             "name": "partygames",
                             "friendlyname": "Party Game Rank",
                             "value": 57,
-                            "bayesaverage": 6.83397
+                            "bayesaverage": 6.83489
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.3504
+                    "value": 1.35097
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 6789
+                    "value": 6794
                 },
                 "trading": {
                     "value": 53
@@ -29349,7 +29349,7 @@
                     "value": 65
                 },
                 "wishing": {
-                    "value": 642
+                    "value": 643
                 },
                 "numcomments": {
                     "value": 444
@@ -29574,27 +29574,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 36,
+                            "level": 26,
                             "value": "No necessary in-game text",
                             "numvotes": 32
                         },
                         {
-                            "level": 37,
+                            "level": 27,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 3
                         },
                         {
-                            "level": 38,
+                            "level": 28,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 39,
+                            "level": 29,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 40,
+                            "level": 30,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -29939,13 +29939,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 28140
+                    "value": 28143
                 },
                 "average": {
-                    "value": 6.91431
+                    "value": 6.91433
                 },
                 "bayesaverage": {
-                    "value": 6.74446
+                    "value": 6.74448
                 },
                 "ranks": {
                     "rank": [
@@ -29955,29 +29955,29 @@
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
                             "value": 822,
-                            "bayesaverage": 6.74446
+                            "bayesaverage": 6.74448
                         },
                         {
                             "type": "family",
                             "id": 5499,
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
-                            "value": 271,
-                            "bayesaverage": 6.7568
+                            "value": 270,
+                            "bayesaverage": 6.75683
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.37658
+                    "value": 1.37656
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 43287
+                    "value": 43286
                 },
                 "trading": {
-                    "value": 780
+                    "value": 778
                 },
                 "wanting": {
                     "value": 506
@@ -30568,27 +30568,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 66,
+                            "level": 41,
                             "value": "No necessary in-game text",
                             "numvotes": 74
                         },
                         {
-                            "level": 67,
+                            "level": 42,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 6
                         },
                         {
-                            "level": 68,
+                            "level": 43,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 69,
+                            "level": 44,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 70,
+                            "level": 45,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -31258,13 +31258,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 32641
+                    "value": 32644
                 },
                 "average": {
-                    "value": 5.47564
+                    "value": 5.47555
                 },
                 "bayesaverage": {
-                    "value": 5.34816
+                    "value": 5.34808
                 },
                 "ranks": {
                     "rank": [
@@ -31273,8 +31273,8 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 29559,
-                            "bayesaverage": 5.34816
+                            "value": 29565,
+                            "bayesaverage": 5.34808
                         },
                         {
                             "type": "family",
@@ -31282,18 +31282,18 @@
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
                             "value": 3507,
-                            "bayesaverage": 5.29342
+                            "bayesaverage": 5.29333
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.68338
+                    "value": 1.68335
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 69852
+                    "value": 69867
                 },
                 "trading": {
                     "value": 384
@@ -31542,27 +31542,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 21,
+                            "level": 11,
                             "value": "No necessary in-game text",
                             "numvotes": 0
                         },
                         {
-                            "level": 22,
+                            "level": 12,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 13
                         },
                         {
-                            "level": 23,
+                            "level": 13,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 3
                         },
                         {
-                            "level": 24,
+                            "level": 14,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 25,
+                            "level": 15,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -31802,13 +31802,13 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 8123
+                    "value": 8125
                 },
                 "average": {
-                    "value": 7.1135
+                    "value": 7.11347
                 },
                 "bayesaverage": {
-                    "value": 6.7083
+                    "value": 6.70833
                 },
                 "ranks": {
                     "rank": [
@@ -31817,27 +31817,27 @@
                             "id": 1,
                             "name": "boardgame",
                             "friendlyname": "Board Game Rank",
-                            "value": 881,
-                            "bayesaverage": 6.7083
+                            "value": 882,
+                            "bayesaverage": 6.70833
                         },
                         {
                             "type": "family",
                             "id": 5499,
                             "name": "familygames",
                             "friendlyname": "Family Game Rank",
-                            "value": 246,
+                            "value": 245,
                             "bayesaverage": 6.7813
                         }
                     ]
                 },
                 "stddev": {
-                    "value": 1.25808
+                    "value": 1.25792
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 15670
+                    "value": 15671
                 },
                 "trading": {
                     "value": 349
@@ -31849,7 +31849,7 @@
                     "value": 1957
                 },
                 "numcomments": {
-                    "value": 1610
+                    "value": 1608
                 },
                 "numweights": {
                     "value": 181
@@ -32093,27 +32093,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 21,
+                            "level": 36,
                             "value": "No necessary in-game text",
                             "numvotes": 16
                         },
                         {
-                            "level": 22,
+                            "level": 37,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 3
                         },
                         {
-                            "level": 23,
+                            "level": 38,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 24,
+                            "level": 39,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 25,
+                            "level": 40,
                             "value": "Unplayable in another language",
                             "numvotes": 0
                         }
@@ -32961,27 +32961,27 @@
                 "results": {
                     "result": [
                         {
-                            "level": 11,
+                            "level": 21,
                             "value": "No necessary in-game text",
                             "numvotes": 33
                         },
                         {
-                            "level": 12,
+                            "level": 22,
                             "value": "Some necessary text - easily memorized or small crib sheet",
                             "numvotes": 2
                         },
                         {
-                            "level": 13,
+                            "level": 23,
                             "value": "Moderate in-game text - needs crib sheet or paste ups",
                             "numvotes": 0
                         },
                         {
-                            "level": 14,
+                            "level": 24,
                             "value": "Extensive use of text - massive conversion needed to be playable",
                             "numvotes": 0
                         },
                         {
-                            "level": 15,
+                            "level": 25,
                             "value": "Unplayable in another language",
                             "numvotes": 1
                         }
@@ -33231,10 +33231,10 @@
             "page": 1,
             "ratings": {
                 "usersrated": {
-                    "value": 12583
+                    "value": 12587
                 },
                 "average": {
-                    "value": 6.67883
+                    "value": 6.67869
                 },
                 "bayesaverage": {
                     "value": 6.42207
@@ -33260,13 +33260,13 @@
                     ]
                 },
                 "stddev": {
-                    "value": 1.69039
+                    "value": 1.69077
                 },
                 "median": {
                     "value": 0
                 },
                 "owned": {
-                    "value": 23530
+                    "value": 23533
                 },
                 "trading": {
                     "value": 391
