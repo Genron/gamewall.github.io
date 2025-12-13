@@ -385,6 +385,13 @@ ul li {
     height: 100%;
 }
 
+.max-row-1 {
+    display: -webkit-box;            /* nötig für -webkit-line-clamp */
+    -webkit-box-orient: vertical;    /* vertikale Ausrichtung */
+    overflow: hidden;                /* abschneiden */
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 1;           /* Anzahl der sichtbaren Zeilen */
+}
 .max-row-2 {
     display: -webkit-box;            /* nötig für -webkit-line-clamp */
     -webkit-box-orient: vertical;    /* vertikale Ausrichtung */

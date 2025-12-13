@@ -43,6 +43,7 @@ function ReducedCard({index, item}: { index: number, item: Item }) {
             use="subtitle2"
             tag="div"
             theme="textSecondaryOnBackground"
+            className={'max-row-1'}
           >
             Spieler {getPlayerRecommendation(item)}
           </Typography>
