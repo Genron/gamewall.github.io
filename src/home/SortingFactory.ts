@@ -12,6 +12,7 @@ export enum SortBy {
   ThreePlayer = '3 Spieler',
   FourPlayer = '4 Spieler',
   FivePlayer = '5 Spieler',
+  SixPlusPlayer = '6+ Spieler',
 }
 
 export const SortByOptions: SortBy[][] = [
@@ -19,15 +20,16 @@ export const SortByOptions: SortBy[][] = [
     SortBy.MaxPlayers,],
   [SortBy.WeightMin,
     SortBy.WeightMax,],
-  [SortBy.CoOp,],
-  [
-    SortBy.Solo,
-    SortBy.TwoPlayer,
-    SortBy.ThreePlayer,
-    SortBy.FourPlayer,
-    SortBy.FivePlayer,
-  ],
   [SortBy.GlobalRating,],
+];
+
+export const PlayerFilterOptions: SortBy[][] = [
+  [SortBy.Solo],
+  [SortBy.TwoPlayer],
+  [SortBy.ThreePlayer],
+  [SortBy.FourPlayer],
+  [SortBy.FivePlayer],
+  [SortBy.SixPlusPlayer],
 ];
 
 const copy = (items: Item[]): Item[] => items.concat([]);
@@ -109,27 +111,38 @@ export const SortingFactory = {
       case SortBy.CoOp:
         return (items: Item[]) => {
           return copy(items)
-            .filter(IsCoOp);
+            .filter(IsCoOp)
+            .sort(ByRating);
         };
       case SortBy.TwoPlayer:
         return (items: Item[]) => {
           return copy(items)
-            .filter(IsPlayerCount(2));
+            .filter(IsPlayerCount(2))
+            .sort(ByRating);
         };
       case SortBy.ThreePlayer:
         return (items: Item[]) => {
           return copy(items)
-            .filter(IsPlayerCount(3));
+            .filter(IsPlayerCount(3))
+            .sort(ByRating);
         };
       case SortBy.FourPlayer:
         return (items: Item[]) => {
           return copy(items)
-            .filter(IsPlayerCount(4));
+            .filter(IsPlayerCount(4))
+            .sort(ByRating);
         };
       case SortBy.FivePlayer:
         return (items: Item[]) => {
           return copy(items)
-            .filter(IsPlayerCount(5));
+            .filter(IsPlayerCount(5))
+            .sort(ByRating);
+        };
+      case SortBy.SixPlusPlayer:
+        return (items: Item[]) => {
+          return copy(items)
+            .filter(ByMaxPlayersGt(6))
+            .sort(ByRating);
         };
       default:
         throw new Error(`Unsupported type ${o}`);
@@ -167,7 +180,8 @@ export function selectPartyGames(items: Item[]): Item[] {
     .filter(and(
       ByMaxPlayersGt(6),
       ByWeightLt(2)
-    ));
+    ))
+    .sort(ByRating);
 }
 
 function or(...Filters: Array<(i1: Item) => boolean>): (i1: Item) => boolean {
@@ -189,5 +203,6 @@ export function selectSoloAndCoOpGames(items: Item[]): Item[] {
 
 export function selectSocialDeductionGames(items: Item[]): Item[] {
   return SortingFactory.get(SortBy.MaxPlayers)(items)
-    .filter(isSocialDeduction);
+    .filter(isSocialDeduction)
+    .sort(ByRating);
 }

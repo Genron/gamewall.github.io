@@ -80,7 +80,7 @@ function DetailedCard({item}: { item: Item }) {
         </div>
       </CardPrimaryAction>
       <CardActions>
-        <ChipSet style={{padding: '0'}} className={'max-row-3'}>
+        <ChipSet style={{padding: '0'}} className={'max-row-3'} choice>
           {item.tags.map(tag => (
             <Chip key={tag} label={tag}
                   style={{

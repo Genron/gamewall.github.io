@@ -3,6 +3,7 @@ import {Collection, Item, Links, Rank, Weight} from "../game.types";
 import {Filters} from "./Filters";
 import {Category} from "./Category";
 import {
+  PlayerFilterOptions,
   selectAllGames,
   selectPartyGames,
   selectSocialDeductionGames,
@@ -77,12 +78,16 @@ export function Home() {
         items={items}
       />
       <Category
-        title={'Partyspiele'}
-        items={selectPartyGames(items)}
-      />
-      <Category
         title={'Solo & Co-Op'}
         items={selectSoloAndCoOpGames(items)}
+      />
+      <Filters
+        options={PlayerFilterOptions}
+        items={items}
+      />
+      <Category
+        title={'Partyspiele'}
+        items={selectPartyGames(items)}
       />
       <Category
         title={'Deduktion'}
