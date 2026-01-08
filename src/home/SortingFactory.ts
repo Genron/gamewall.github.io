@@ -16,10 +16,10 @@ export enum SortBy {
 }
 
 export const SortByOptions: SortBy[][] = [
+  [SortBy.WeightMax,
+    SortBy.WeightMin,],
   [SortBy.MinPlayers,
     SortBy.MaxPlayers,],
-  [SortBy.WeightMin,
-    SortBy.WeightMax,],
   [SortBy.GlobalRating,],
 ];
 
@@ -141,7 +141,7 @@ export const SortingFactory = {
       case SortBy.SixPlusPlayer:
         return (items: Item[]) => {
           return copy(items)
-            .filter(ByMaxPlayersGt(6))
+            .filter(ByMaxPlayersGt(5))
             .sort(ByRating);
         };
       default:
