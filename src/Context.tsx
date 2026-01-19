@@ -7,7 +7,7 @@ export function CollectionContextProvider({children}: PropsWithChildren) {
 
   const [collection, setCollection] = useState<Collection>();
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/collection.json`).then(res => res.json()).then(setCollection)
+    fetch(`${process.env.PUBLIC_URL}/collection.json?ts=${Date.now()}`).then(res => res.json()).then(setCollection)
   }, []);
 
   if (!collection) {
@@ -35,7 +35,7 @@ export function LinksContextProvider({children}: PropsWithChildren) {
   const [links, setLinks] = useState<Links>();
 
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/links.json`).then(res => res.json()).then(setLinks)
+    fetch(`${process.env.PUBLIC_URL}/links.json?ts=${Date.now()}`).then(res => res.json()).then(setLinks)
   }, []);
 
   if (!links) {
