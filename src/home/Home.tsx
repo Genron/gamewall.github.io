@@ -70,7 +70,7 @@ export function Home() {
   return (
     <>
       <Category
-        title={'Meine Spiele'}
+        title={`Alle Spiele (${items.length})`}
         items={selectAllGames(items)}
       />
       <Filters
