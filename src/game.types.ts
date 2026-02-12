@@ -117,16 +117,18 @@ export type Link = {
   "inbound"?: boolean
 };
 
+export type CollectionName = {
+  "type": string,
+  "sortindex": number,
+  "value": string
+};
+
 export type Collection = Array<{
   "type": string,
   "id": number,
   "thumbnail": string,
   "image": string,
-  "name": Array<{
-    "type": string,
-    "sortindex": number,
-    "value": string
-  }>,
+  "name": Array<CollectionName> | CollectionName,
   "description": string,
   "yearpublished": {
     "value": number

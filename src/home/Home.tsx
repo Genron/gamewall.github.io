@@ -1,5 +1,5 @@
 import React from 'react';
-import {Collection, Item, Links, Rank, Weight} from "../game.types";
+import {Collection, CollectionName, Item, Links, Rank, Weight} from "../game.types";
 import {Filters} from "./Filters";
 import {Category} from "./Category";
 import {
@@ -28,7 +28,7 @@ export function Home() {
         id: i.id,
         externalSrc: `https://boardgamegeek.com/boardgame/${i.id}/`,
         rating: ((i.statistics.ratings.ranks.rank as Rank)?.value || (i.statistics.ratings.ranks.rank as Rank[])?.[0].value) as number,
-        name: i.name[0].value, // todo: first is probably always primary?
+        name: (i.name as CollectionName[])[0]?.value || (i.name as CollectionName).value, // todo: first is probably always primary?
         year: i.yearpublished.value,
         backgroundImage: i.image, // thumbnail | image
         thumbnail: i.thumbnail, // thumbnail | image
