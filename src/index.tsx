@@ -10,6 +10,7 @@ import {Home} from "./home/Home";
 import {Header} from "./Header";
 import {CollectionContextProvider, LinksContextProvider} from "./Context";
 import {SearchDrawer} from "./SearchDrawer";
+import ErrorBoundary from "./ErrorBoundary";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -40,34 +41,36 @@ function App() {
   console.log({isMobile, menuIsOpen})
 
   return (
-    <CollectionContextProvider>
-      <LinksContextProvider>
-        <ThemeProvider
-          options={getTheme('Baseline')}
-          className="app__root"
-          tag="div"
-          id={'Home'}
-        >
-          <PortalProvider>
-            <Header onSearch={() => setMenuIsOpen(!menuIsOpen)}/>
-            <div className="demo-content">
-              <SearchDrawer
-                open={menuIsOpen}
-                dismissible={!isMobile}
-                modal={isMobile}
-                onClose={() => setMenuIsOpen(false)}
-                dir="rtl"
-              />
-              <DrawerAppContent tag="main" className="app__content">
-                <Routes>
-                  <Route key={'home'} path="/" element={<Home/>}/>
-                </Routes>
-              </DrawerAppContent>
-            </div>
-            <Portal/>
-          </PortalProvider>
-        </ThemeProvider>
-      </LinksContextProvider>
-    </CollectionContextProvider>
+      <CollectionContextProvider>
+        <LinksContextProvider>
+          <ThemeProvider
+            options={getTheme('Baseline')}
+            className="app__root"
+            tag="div"
+            id={'Home'}
+          >
+            <ErrorBoundary>
+            <PortalProvider>
+              <Header onSearch={() => setMenuIsOpen(!menuIsOpen)}/>
+              <div className="demo-content">
+                <SearchDrawer
+                  open={menuIsOpen}
+                  dismissible={!isMobile}
+                  modal={isMobile}
+                  onClose={() => setMenuIsOpen(false)}
+                  dir="rtl"
+                />
+                <DrawerAppContent tag="main" className="app__content">
+                  <Routes>
+                    <Route key={'home'} path="/" element={<Home/>}/>
+                  </Routes>
+                </DrawerAppContent>
+              </div>
+              <Portal/>
+            </PortalProvider>
+            </ErrorBoundary>
+          </ThemeProvider>
+        </LinksContextProvider>
+      </CollectionContextProvider>
   );
 }
