@@ -34,20 +34,19 @@ class ErrorBoundary extends React.Component<Props, State> {
 
   render(): ReactNode {
     if (this.state.hasError) {
-      const isDev = process.env.NODE_ENV === "development";
-
       return (
         <div style={{padding: 20}}>
           <h1>Something went wrong</h1>
+          <h3>Please try again later</h3>
 
-          {isDev && this.state.error && (
+          {this.state.error && (
             <details style={{whiteSpace: "pre-wrap"}}>
               <summary>Stack trace</summary>
               {this.state.error.stack}
             </details>
           )}
 
-          {isDev && this.state.errorInfo && (
+          {this.state.errorInfo && (
             <details style={{whiteSpace: "pre-wrap", marginTop: 10}}>
               <summary>Component stack</summary>
               {this.state.errorInfo.componentStack}
