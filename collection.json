@@ -2309,6 +2309,11 @@
                 "value": "Game: Werewolf / Mafia"
             },
             {
+                "type": "boardgamefamily",
+                "id": 78680,
+                "value": "Misc: Made by Panda"
+            },
+            {
                 "type": "boardgameexpansion",
                 "id": 385755,
                 "value": "Blood on the Clocktower: Clocktower Con 2023 Experimental Characters"
