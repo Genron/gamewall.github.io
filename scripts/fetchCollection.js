@@ -23,10 +23,8 @@ function mapToNumbers(obj) {
         return obj.map(mapToNumbers);
     }
     return Object.entries(obj).reduce((e, [key, value]) => {
-        return {
-            ...e,
-            [key]: mapToNumbers(value),
-        };
+        e[key] = mapToNumbers(value);
+        return e;
     }, {});
 }
 
@@ -67,18 +65,10 @@ async function fetchFromBGG(url) {
     });
 }
 
-function chunking(ids, maxSize) {
+function chunking(ids, size) {
     const result = [];
-    for (let i = 0; i < ids.length; i++) {
-        if (result[result.length - 1] === undefined) {
-            result.push([ids[i]]);
-        } else {
-            if (result[result.length - 1].length === maxSize) {
-                result.push([ids[i]]);
-            } else {
-                result[result.length - 1].push(ids[i]);
-            }
-        }
+    for (let i = 0; i < ids.length; i += size) {
+        result.push(ids.slice(i, i + size));
     }
     return result;
 }
@@ -101,19 +91,25 @@ for (let i = 0; i < chunks.length; i++) {
 }
 
 const links = {};
-details.forEach(d => d.link.forEach(l => {
-    if (!links[l.type]) {
-        links[l.type] = {};
+details.forEach(d => {
+    if (!d.link) {
+        return;
     }
-    if (!links[l.type][l.id]) {
-        links[l.type][l.id] = {
-            value: l.value,
-            amount: 1,
+    const linksArray = Array.isArray(d.link) ? d.link : [d.link];
+    linksArray.forEach(l => {
+        if (!links[l.type]) {
+            links[l.type] = {};
         }
-    } else {
-        links[l.type][l.id].amount++
-    }
-}))
+        if (!links[l.type][l.id]) {
+            links[l.type][l.id] = {
+                value: l.value,
+                amount: 1,
+            }
+        } else {
+            links[l.type][l.id].amount++
+        }
+    });
+});
 
 const distinct = {};
 Object.entries(links).forEach(([category, ls]) => {
@@ -123,14 +119,29 @@ Object.entries(links).forEach(([category, ls]) => {
             'boardgamemechanic',
             // 'boardgamefamily', // keep only the relevant categories
         ].includes(category)) {
-            if (!distinct[value]) {
-                distinct[value] = amount;
-            } else {
-                distinct[value] += amount;
-            }
+            distinct[value] = (distinct[value] ?? 0) + amount;
         }
     })
 })
 
+const sortedDistinct = Object.fromEntries(
+    Object.entries(distinct)
+        .sort((a, b) => {
+            if (b[1] !== a[1]) {
+                return b[1] - a[1];
+            }
+            return a[0].localeCompare(b[0]);
+        })
+);
+
+details.sort((a, b) =>
+    (b.statistics?.ratings?.bayesaverage?.value ?? -Infinity) -
+    (a.statistics?.ratings?.bayesaverage?.value ?? -Infinity)
+);
+
 fs.writeFileSync('./public/collection.json', JSON.stringify(details, null, 4), 'utf8');
-fs.writeFileSync('./public/links.json', JSON.stringify(distinct, null, 4), 'utf8');
+fs.writeFileSync(
+    './public/links.json',
+    JSON.stringify(sortedDistinct, null, 4),
+    'utf8'
+);
