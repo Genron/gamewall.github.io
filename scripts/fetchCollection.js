@@ -80,14 +80,16 @@ function isAck(obj) {
 // fetch collection
 const collection = await fetchFromBGG(`collection?username=${username}&own=1`);
 
-const ids = collection.items.item.map(i => i.objectid);
-const chunks = chunking(ids, 20);
-
+const chunks = chunking(collection.items.item, 20);
 const details = [];
 for (let i = 0; i < chunks.length; i++) {
     const chunk = chunks[i];
-    const detail = await fetchFromBGG(`thing?stats=1&id=${chunk.join(',')}`);
-    details.push(...detail.items.item);
+    const ids = chunk.map(c => c.objectid);
+    const detail = await fetchFromBGG(`thing?stats=1&id=${ids.join(',')}`);
+    details.push(...detail.items.item.map((g, idx) => ({
+        ...g,
+        status: chunk[idx].status,
+    })));
 }
 
 const links = {};
