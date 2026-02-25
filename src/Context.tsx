@@ -7,7 +7,7 @@ export function CollectionContextProvider({children}: PropsWithChildren) {
 
   const [collection, setCollection] = useState<Collection>();
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/collection.json?ts=${Date.now()}`).then(res => res.json()).then(setCollection)
+    fetch(`${process.env.PUBLIC_URL}/gamewall.json?ts=${Date.now()}`).then(res => res.json()).then(setCollection)
   }, []);
 
   if (!collection) {
