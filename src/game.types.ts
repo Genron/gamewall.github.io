@@ -123,7 +123,10 @@ export type CollectionName = {
   "value": string
 };
 
-export type Collection = Array<{
+export type Collection = Item[];
+
+// todo: remove
+export type Collection_old = Array<{
   "type": string,
   "id": number,
   "thumbnail": string,
