@@ -33,7 +33,7 @@ export function Home() {
       return ({
         id: i.id,
         externalSrc: `https://boardgamegeek.com/boardgame/${i.id}/`,
-        rating: a.statistics.ratings.bayesaverage.value,
+        rating: i.statistics.ratings.bayesaverage.value,
         name: names[0]?.value, // todo: first is probably always primary?
         year: i.yearpublished.value,
         backgroundImage: i.image, // thumbnail | image
