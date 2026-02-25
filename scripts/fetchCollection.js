@@ -149,10 +149,7 @@ const Weight = {
   5: 'Brutal',
 }
 
-const collection = details;
-const links = sortedDistinct;
-
-const items = collection
+const items = details
 .filter(i => i.type === 'boardgame')
 .map((i) => {
   const bestWith = i["poll-summary"].result.find(p => p.name === 'bestwith');
@@ -193,7 +190,7 @@ const items = collection
     weight: Weight[Math.round(i.statistics.ratings.averageweight.value)],
     caption: '',
     tags: Array.from(tagSet)
-      .sort((a, b) => (links[b] || 0) - (links[a] || 0))
+      .sort((a, b) => (sortedDistinct[b] || 0) - (sortedDistinct[a] || 0))
       .slice(0, 6),
     links: i.link
   });
