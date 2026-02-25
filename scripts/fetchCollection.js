@@ -178,7 +178,7 @@ const items = details
         return [Number(b.slice(0, -1)), 99];
       }
       if (b.includes('-')) {
-        const [start, end] = b.match(/\d+/g)!.map(Number);
+        const [start, end] = (b.match(/\d+/g) ?? []).map(Number);
         const arr = [];
         for (let j = start; j <= end; j++) arr.push(j);
         return arr;
