@@ -144,59 +144,60 @@ details.sort((a, b) =>
 // migrated mapping from react-app
 // todo: cleanup in frontend
 const Weight = {
-  1: 'Leicht',
-  2: 'Mittel',
-  3: 'Komplex',
-  4: 'Schwer',
-  5: 'Brutal',
+    1: 'Leicht',
+    2: 'Mittel',
+    3: 'Komplex',
+    4: 'Schwer',
+    5: 'Brutal',
 }
 
 const items = details
-.filter(i => i.type === 'boardgame')
-.map((i) => {
-  const bestWith = i["poll-summary"].result.find(p => p.name === 'bestwith');
-  const value = bestWith?.value || '';
-  const best = [...value.match(/(\d\+|\d+-\d+|\d+)/g) || []];
-  const bestPlayers = best.join(', ');
-  const names = Array.isArray(i.name) ? i.name : [i.name];
-  const tagSet = new Set(
-    (i.link || [])
-      .filter(l => ['boardgamecategory','boardgamemechanic'].includes(l.type))
-      .map(l => l.value)
-  );
-  return ({
-    id: i.id,
-    externalSrc: `https://boardgamegeek.com/boardgame/${i.id}/`,
-    rating: i.statistics.ratings.bayesaverage.value,
-    name: names[0]?.value, // todo: first is probably always primary?
-    year: i.yearpublished.value,
-    backgroundImage: i.image, // thumbnail | image
-    thumbnail: i.thumbnail, // thumbnail | image
-    minPlayers: i.minplayers.value,
-    maxPlayers: i.maxplayers.value,
-    bestPlayers_raw: best,
-    bestPlayers_numeric: best.flatMap(b => {
-      if (b.endsWith('+')) {
-        return [Number(b.slice(0, -1)), 99];
-      }
-      if (b.includes('-')) {
-        const [start, end] = (b.match(/\d+/g) ?? []).map(Number);
-        const arr = [];
-        for (let j = start; j <= end; j++) arr.push(j);
-        return arr;
-      }
-      return [Number(b)];
-    }),
-    bestPlayers: bestPlayers,
-    weight_raw: i.statistics.ratings.averageweight.value,
-    weight: Weight[Math.round(i.statistics.ratings.averageweight.value)],
-    caption: '',
-    tags: Array.from(tagSet)
-      .sort((a, b) => (sortedDistinct[b] || 0) - (sortedDistinct[a] || 0))
-      .slice(0, 6),
-    links: i.link
-  });
-})
+    .filter(i => i.type === 'boardgame')
+    .map((i) => {
+        const bestWith = i["poll-summary"].result.find(p => p.name === 'bestwith');
+        const value = bestWith?.value || '';
+        const best = [...value.match(/(\d\+|\d+-\d+|\d+)/g) || []];
+        const bestPlayers = best.join(', ');
+        const names = Array.isArray(i.name) ? i.name : [i.name];
+        const tagSet = new Set(
+            (i.link || [])
+                .filter(l => ['boardgamecategory', 'boardgamemechanic'].includes(l.type))
+                .map(l => l.value)
+        );
+        return ({
+            id: i.id,
+            externalSrc: `https://boardgamegeek.com/boardgame/${i.id}/`,
+            rating: i.statistics.ratings.bayesaverage.value,
+            name: names[0]?.value, // todo: first is probably always primary?
+            year: i.yearpublished.value,
+            backgroundImage: i.image, // thumbnail | image
+            thumbnail: i.thumbnail, // thumbnail | image
+            minPlayers: i.minplayers.value,
+            maxPlayers: i.maxplayers.value,
+            bestPlayers_raw: best,
+            bestPlayers_numeric: best.flatMap(b => {
+                if (b.endsWith('+')) {
+                    return [Number(b.slice(0, -1)), 99];
+                }
+                if (b.includes('-')) {
+                    const [start, end] = (b.match(/\d+/g) ?? []).map(Number);
+                    const arr = [];
+                    for (let j = start; j <= end; j++) arr.push(j);
+                    return arr;
+                }
+                return [Number(b)];
+            }),
+            bestPlayers: bestPlayers,
+            weight_raw: i.statistics.ratings.averageweight.value,
+            weight: Weight[Math.round(i.statistics.ratings.averageweight.value)],
+            caption: '',
+            tags: Array.from(tagSet)
+                .sort((a, b) => (sortedDistinct[b] || 0) - (sortedDistinct[a] || 0))
+                .slice(0, 6),
+            links: i.link,
+            status: i.status,
+        });
+    })
 
 // save collection
 fs.writeFileSync('./public/collection-owned_raw.json', JSON.stringify(collection, null, 4), 'utf8');

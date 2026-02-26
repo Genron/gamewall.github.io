@@ -71,7 +71,18 @@ export interface Item {
     id: number;
     value: string;
     inbound?: boolean;
-  }>
+  }>;
+  status: {
+    own: number;
+    prevowned: number;
+    fortrade: number;
+    want: number;
+    wanttoplay: number;
+    wanttobuy: number;
+    wishlist: number;
+    preordered: number;
+    lastmodified: string;
+  };
 }
 
 export type LinkType =
@@ -230,7 +241,7 @@ export type Collection_old = Array<{
 }>
 
 export type Rank = {
-"type": string,
+  "type": string,
   "id": number,
   "name": string,
   "friendlyname": string,
