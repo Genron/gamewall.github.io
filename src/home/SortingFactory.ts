@@ -69,7 +69,7 @@ const ByBestPlayerMin = (i1: Item, i2: Item): number => {
 const ByPreorderedFirst = (i1: Item, i2: Item): number => {
   const i1True = IsPreordered(i1);
   const i2True = IsPreordered(i2);
-  if((i1True && i2True) || (!i1True && !i2True)) {
+  if ((i1True && i2True) || (!i1True && !i2True)) {
     return 0;
   }
   return i1True ? -1 : 1;
@@ -86,23 +86,15 @@ const IsPlayerCount = (n: number) => (i1: Item): boolean => {
 export const IsNew = (i1: Item): boolean => {
   const days = 90;
   const daysInMs = days * 24 * 60 * 60 * 1000;
-  const now: any = new Date();
-  const date = new Date(i1.status.lastmodified);
+  const now = new Date().getTime();
+  const date = new Date(i1.status.lastmodified).getTime();
   const diffInMs = now - date; // positive if date is in the past
-  return diffInMs >= 0 && diffInMs <= daysInMs; 
+  return diffInMs >= 0 && diffInMs <= daysInMs;
 };
 
 export const IsPreordered = (i1: Item): boolean => {
-  return i1.status.preordered; 
+  return !!i1.status.preordered;
 };
-
-function isWithinRange(date: any, days: number) {
-  const now: any = new Date();
-  const diffInMs = now - date; // positive if date is in the past
-  const thirtyDaysInMs = days * 24 * 60 * 60 * 1000;
-
-  return diffInMs >= 0 && diffInMs <= thirtyDaysInMs;
-}
 
 export const SortingFactory = {
   get(o: SortBy): (items: Item[]) => Item[] {
