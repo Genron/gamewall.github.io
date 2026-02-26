@@ -66,6 +66,15 @@ const ByBestPlayerMin = (i1: Item, i2: Item): number => {
   return i1.bestPlayers_numeric[0] - i2.bestPlayers_numeric[0];
 };
 
+const ByPreorderedFirst = (i1: Item, i2: Item): number => {
+  const i1True = IsPreordered(i1);
+  const i2True = IsPreordered(i2);
+  if((i1True && i2True) || (!i1True && !i2True)) {
+    return 0;
+  }
+  return i1True ? -1 : 1;
+};
+
 const IsCoOp = (i1: Item): boolean => {
   return !!i1.links.find(l => l.id === 2023);
 };
