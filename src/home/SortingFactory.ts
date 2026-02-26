@@ -15,6 +15,12 @@ export enum SortBy {
   SixPlusPlayer = '6+ Spieler',
 }
 
+export type Option = {
+  value: string;
+  label: string;
+}
+export type Options = Array<Option>;
+
 export const SortByOptions: SortBy[][] = [
   [SortBy.WeightMax,
     SortBy.WeightMin,],
@@ -97,7 +103,13 @@ export const IsPreordered = (i1: Item): boolean => {
 };
 
 export const SortingFactory = {
-  get(o: SortBy): (items: Item[]) => Item[] {
+  get(o: SortBy | Option): (items: Item[]) => Item[] {
+    if ((o as Option)?.value) {
+      return (items: Item[]) => {
+        return copy(items)
+          .filter(ByTag(o as unknown as Option));
+      };
+    }
     switch (o) {
       case SortBy.GlobalRating:
         return (items: Item[]) => items;
@@ -159,6 +171,10 @@ export const SortingFactory = {
     }
   }
 }
+
+const ByTag = (o: Option) => (i1: Item): boolean => {
+  return !!i1.links.find(({value}) => value === o.value);
+};
 
 const ByMaxPlayersGt = (num: number) => (i1: Item): boolean => i1.maxPlayers > num
 const ByWeightLt = (num: number) => (i1: Item): boolean => i1.weight_raw < num

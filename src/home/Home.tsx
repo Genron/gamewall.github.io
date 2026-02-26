@@ -1,20 +1,30 @@
 import React from 'react';
-import {Collection} from "../game.types";
-import {Filters} from "./Filters";
+import {Collection, Links} from "../game.types";
+import {Filters, OptionFilters} from "./Filters";
 import {Category} from "./Category";
 import {
+  Options,
   PlayerFilterOptions,
   selectAllGames,
+  selectNewAndPreorderedGames,
   selectPartyGames,
   selectSocialDeductionGames,
   selectSoloAndCoOpGames,
-  selectNewAndPreorderedGames,
   SortByOptions
 } from "./SortingFactory";
-import {useCollectionContext} from "../Context";
+import {useCollectionContext, useLinksContext} from "../Context";
 
 export function Home() {
   const items: Collection = useCollectionContext();
+  const links: Links = useLinksContext();
+  const options: Options = Object.entries(links)
+    .filter(([_, value]) => value > 4)
+    .map(([key, value]) => ({
+      value: key,
+      label: key, // todo: fix value calculation
+    }));
+  console.log(options);
+
   return (
     <>
       <Category
@@ -44,6 +54,10 @@ export function Home() {
       <Category
         title={'Deduktion'}
         items={selectSocialDeductionGames(items)}
+      />
+      <OptionFilters
+        options={options}
+        items={items}
       />
     </>
   );

@@ -419,6 +419,10 @@ ul li {
     -webkit-line-clamp: 3;           /* Anzahl der sichtbaren Zeilen */
 }
 
+.mdc-menu {
+    min-width: max-content;
+}
+
 /* page menus */
 #page-menus .live-preview {
     justify-content: center;
