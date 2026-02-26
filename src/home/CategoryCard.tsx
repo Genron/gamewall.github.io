@@ -3,6 +3,7 @@ import {Card, CardMedia} from "@rmwc/card";
 import {Badge, BadgeAnchor, CardActions, CardPrimaryAction, Chip, ChipSet} from "rmwc";
 import {Typography} from "@rmwc/typography";
 import React from "react";
+import {IsNew, IsPreordered} from "./SortingFactory";
 
 export function CategoryCard({item, w}: { item: Item, w: number }) {
   const Card = w < 500 ? (
@@ -10,7 +11,7 @@ export function CategoryCard({item, w}: { item: Item, w: number }) {
   ) : (
     <DetailedCard item={item}/>
   );
-  if (item.status.preordered) {
+  if (IsPreordered(item)) {
     return (
       <BadgeAnchor>
         {Card}
@@ -18,7 +19,7 @@ export function CategoryCard({item, w}: { item: Item, w: number }) {
       </BadgeAnchor>
     );
   }
-  if (isWithinRange(new Date(item.status.lastmodified), 90)) {
+  if (IsNew(item)) {
     return (
       <BadgeAnchor>
         {Card}
@@ -105,14 +106,6 @@ function DetailedCard({item}: { item: Item }) {
       </CardActions>
     </Card>
   );
-}
-
-export function isWithinRange(date: any, days: number) {
-  const now: any = new Date();
-  const diffInMs = now - date; // positive if date is in the past
-  const thirtyDaysInMs = days * 24 * 60 * 60 * 1000;
-
-  return diffInMs >= 0 && diffInMs <= thirtyDaysInMs;
 }
 
 export const BadgeStyles = (capitalized: boolean = false) => ({
