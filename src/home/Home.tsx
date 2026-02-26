@@ -8,6 +8,7 @@ import {
   selectPartyGames,
   selectSocialDeductionGames,
   selectSoloAndCoOpGames,
+  selectNewAndPreorderedGames,
   SortByOptions
 } from "./SortingFactory";
 import {useCollectionContext} from "../Context";
@@ -23,6 +24,10 @@ export function Home() {
       <Filters
         options={SortByOptions}
         items={items}
+      />
+      <Category
+        title={'Neuzugänge'}
+        items={selectNewAndPreorderedGames(items)}
       />
       <Category
         title={'Solo & Co-Op'}

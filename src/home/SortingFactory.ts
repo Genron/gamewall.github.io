@@ -74,6 +74,27 @@ const IsPlayerCount = (n: number) => (i1: Item): boolean => {
   return i1.bestPlayers_numeric.includes(n);
 };
 
+export const IsNew = (i1: Item): boolean => {
+  const days = 90;
+  const daysInMs = days * 24 * 60 * 60 * 1000;
+  const now: any = new Date();
+  const date = new Date(i1.status.lastmodified);
+  const diffInMs = now - date; // positive if date is in the past
+  return diffInMs >= 0 && diffInMs <= daysInMs; 
+};
+
+export const IsPreordered = (i1: Item): boolean => {
+  return i1.status.preordered; 
+};
+
+function isWithinRange(date: any, days: number) {
+  const now: any = new Date();
+  const diffInMs = now - date; // positive if date is in the past
+  const thirtyDaysInMs = days * 24 * 60 * 60 * 1000;
+
+  return diffInMs >= 0 && diffInMs <= thirtyDaysInMs;
+}
+
 export const SortingFactory = {
   get(o: SortBy): (items: Item[]) => Item[] {
     switch (o) {
@@ -186,6 +207,15 @@ export function selectSoloAndCoOpGames(items: Item[]): Item[] {
       IsCoOp
     ))
     .sort(ByBestPlayerMin);
+}
+
+export function selectNewAndPreorderedGames(items: Item[]): Item[] {
+  return copy(items)
+    .filter(or(
+      IsNew,
+      IsPreordered
+    ))
+    .sort(ByPreorderedFirst);
 }
 
 export function selectSocialDeductionGames(items: Item[]): Item[] {
