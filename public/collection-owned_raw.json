@@ -1,0 +1,1434 @@
+{
+  "items": {
+    "totalitems": 57,
+    "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
+    "pubdate": "Tue, 24 Feb 2026 06:21:01 +0000",
+    "item": [
+      {
+        "objecttype": "thing",
+        "objectid": 423517,
+        "subtype": "boardgame",
+        "collid": 141105622,
+        "name": {
+          "_": "3 Chapters",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/es3F2drfUOIVnqsTds3BDQ__original/img/aagzL4ORPemw2xi3FL4575gKYhA=/0x0/filters:format(png)/pic8940639.png",
+        "thumbnail": "https://cf.geekdo-images.com/es3F2drfUOIVnqsTds3BDQ__small/img/bCpN5Ool_-QFKQbPlAfmIfFUdRI=/fit-in/200x150/filters:strip_icc()/pic8940639.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2026-01-11 01:00:30"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 6249,
+        "subtype": "boardgame",
+        "collid": 139036772,
+        "name": {
+          "_": "Alhambra",
+          "sortindex": 1
+        },
+        "yearpublished": 2003,
+        "image": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__original/img/Oe2ZTGE2hUnyZQIEoIjM_zwYfcY=/0x0/filters:format(jpeg)/pic4893652.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__small/img/Pj2FP8bV-BHofcDS0eGLh8gzTmI=/fit-in/200x150/filters:strip_icc()/pic4893652.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:43:51"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 382158,
+        "subtype": "boardgame",
+        "collid": 142454523,
+        "name": {
+          "_": "Almighty",
+          "sortindex": 1
+        },
+        "yearpublished": 2027,
+        "image": "https://cf.geekdo-images.com/ZAQzUeNiRNmWJqA0uU3RCQ__original/img/xqKKoQxQjwuRPI33bZHxFnYH7rg=/0x0/filters:format(png)/pic9033470.png",
+        "thumbnail": "https://cf.geekdo-images.com/ZAQzUeNiRNmWJqA0uU3RCQ__small/img/mJgjXt6fWnltfPTL-iTiZdjbk9w=/fit-in/200x150/filters:strip_icc()/pic9033470.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 1,
+          "lastmodified": "2026-02-11 13:53:14"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 240980,
+        "subtype": "boardgame",
+        "collid": 139532560,
+        "name": {
+          "_": "Blood on the Clocktower",
+          "sortindex": 1
+        },
+        "yearpublished": 2022,
+        "image": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__original/img/e7izEwSmnBPiErsIF6hlWbgybBE=/0x0/filters:format(jpeg)/pic7009391.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__small/img/cRCX-PIROiSFG5aLvwkn2O7tHsg=/fit-in/200x150/filters:strip_icc()/pic7009391.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-12-08 05:22:21"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 413246,
+        "subtype": "boardgame",
+        "collid": 139036720,
+        "name": {
+          "_": "Bomb Busters",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__original/img/2uApg8IOYjNVSzbUIwJUa-Z8eL8=/0x0/filters:format(png)/pic8303080.png",
+        "thumbnail": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__small/img/8wfQelnNsbXCykJWMjD8UAjhleU=/fit-in/200x150/filters:strip_icc()/pic8303080.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:42:45"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 416851,
+        "subtype": "boardgame",
+        "collid": 139021386,
+        "name": {
+          "_": "Castle Combo",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU=/0x0/filters:format(png)/pic8250341.png",
+        "thumbnail": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__small/img/DnptKBxT6l_W2B3jGXdnEDEkDM0=/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 04:29:37"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 105593,
+        "subtype": "boardgame",
+        "collid": 139037012,
+        "name": {
+          "_": "Cheating Moth",
+          "sortindex": 1
+        },
+        "yearpublished": 2011,
+        "image": "https://cf.geekdo-images.com/7w7ht4bmAnu0j-_qgcYPiQ__original/img/C1hf_pbsGvD5HP-N0iHME_HSH1E=/0x0/filters:format(jpeg)/pic2220182.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/7w7ht4bmAnu0j-_qgcYPiQ__small/img/KgN5mpV6DK97ixi5jey_4vqvAss=/fit-in/200x150/filters:strip_icc()/pic2220182.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:48:41"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 130592,
+        "subtype": "boardgame",
+        "collid": 139533095,
+        "name": {
+          "_": "Clue",
+          "sortindex": 1
+        },
+        "yearpublished": 2012,
+        "image": "https://cf.geekdo-images.com/5NJKy5K9c0tyCTnTWFekeQ__original/img/RlWgyKfLDdxIErDCmtFmogfvxoU=/0x0/filters:format(png)/pic3181978.png",
+        "thumbnail": "https://cf.geekdo-images.com/5NJKy5K9c0tyCTnTWFekeQ__small/img/U73irtMkLpBBRod1xMnSO6-FbKI=/fit-in/200x150/filters:strip_icc()/pic3181978.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-12-08 05:50:57"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 178900,
+        "subtype": "boardgame",
+        "collid": 139037093,
+        "name": {
+          "_": "Codenames",
+          "sortindex": 1
+        },
+        "yearpublished": 2015,
+        "image": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__original/img/Id-jjIer_61ZbvI2_RVRCeBZFY4=/0x0/filters:format(jpeg)/pic8907965.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__small/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:50:14"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 158899,
+        "subtype": "boardgame",
+        "collid": 139036854,
+        "name": {
+          "_": "Colt Express",
+          "sortindex": 1
+        },
+        "yearpublished": 2014,
+        "image": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__original/img/okv8rhQupsrXsEJsovQ_BJV5hKA=/0x0/filters:format(jpeg)/pic2869710.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__small/img/zcjkqn_HYDIIyVAZaAxJIkurQRg=/fit-in/200x150/filters:strip_icc()/pic2869710.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:45:39"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 406652,
+        "subtype": "boardgame",
+        "collid": 138044003,
+        "name": {
+          "_": "Compile: Main 1",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/KMSUmBs9elKj4qBMxGVFgw__original/img/gE1a5OvsMQJt-LSDS7ktEoYzX1w=/0x0/filters:format(png)/pic8778267.png",
+        "thumbnail": "https://cf.geekdo-images.com/KMSUmBs9elKj4qBMxGVFgw__small/img/3WDRoqcgMnl-Xd-KBnXkZdpVdPc=/fit-in/200x150/filters:strip_icc()/pic8778267.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-10-31 04:30:44"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 131357,
+        "subtype": "boardgame",
+        "collid": 139021382,
+        "name": {
+          "_": "Coup",
+          "sortindex": 1
+        },
+        "yearpublished": 2012,
+        "image": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__original/img/ayAAWBK1rAEumARNmROsOtvqW-4=/0x0/filters:format(jpeg)/pic2016054.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__small/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 04:29:10"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 148931,
+        "subtype": "boardgame",
+        "collid": 139021378,
+        "name": {
+          "_": "Coup: Reformation",
+          "sortindex": 1
+        },
+        "yearpublished": 2013,
+        "image": "https://cf.geekdo-images.com/-Pnt6sTdrbrGhCH0uPvdSQ__original/img/Yge9TxsRfjTbG2QuXC3kM9vVZjs=/0x0/filters:format(jpeg)/pic1978817.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/-Pnt6sTdrbrGhCH0uPvdSQ__small/img/LLNU6pQ0o1tejgTGDuFstJkJJP0=/fit-in/200x150/filters:strip_icc()/pic1978817.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-12-11 13:42:41"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 402283,
+        "subtype": "boardgame",
+        "collid": 139036866,
+        "name": {
+          "_": "Courtisans",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/JK1HbIGtiVfsIbnw3Q543w__original/img/kPNCItrb8GwoIwV9R-vjczIkJR4=/0x0/filters:format(jpeg)/pic8004908.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/JK1HbIGtiVfsIbnw3Q543w__small/img/aLX0aSFbj4WBlK69h0x7j_8bItc=/fit-in/200x150/filters:strip_icc()/pic8004908.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:45:55"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 284083,
+        "subtype": "boardgame",
+        "collid": 139036744,
+        "name": {
+          "_": "The Crew: The Quest for Planet Nine",
+          "sortindex": 5
+        },
+        "yearpublished": 2019,
+        "image": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__original/img/Q-ZkgnuBu9OTBr7J3qnqPjqamAE=/0x0/filters:format(jpeg)/pic5687013.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__small/img/et-fnuozyOdBOVL-5kSS3_7I8fw=/fit-in/200x150/filters:strip_icc()/pic5687013.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:43:12"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 334986,
+        "subtype": "boardgame",
+        "collid": 139036689,
+        "name": {
+          "_": "Daybreak",
+          "sortindex": 1
+        },
+        "yearpublished": 2023,
+        "image": "https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__original/img/6umYavtw4Iw41gTtBZhNS7LrKIA=/0x0/filters:format(png)/pic7068528.png",
+        "thumbnail": "https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__small/img/7Y2W9IVJ3_YmOQfaoZz8XVPoUM0=/fit-in/200x150/filters:strip_icc()/pic7068528.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:42:11"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 169654,
+        "subtype": "boardgame",
+        "collid": 139037124,
+        "name": {
+          "_": "Deep Sea Adventure",
+          "sortindex": 1
+        },
+        "yearpublished": 2014,
+        "image": "https://cf.geekdo-images.com/owyKXaa5SPB2HG9F_MueNQ__original/img/gOmpUB3hM7Ap9o-kDsV8ZVBVYXA=/0x0/filters:format(png)/pic3169827.png",
+        "thumbnail": "https://cf.geekdo-images.com/owyKXaa5SPB2HG9F_MueNQ__small/img/poEY0PMTpz4X_SOUaPjs6G7qr7o=/fit-in/200x150/filters:strip_icc()/pic3169827.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:50:52"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 15512,
+        "subtype": "boardgame",
+        "collid": 139037071,
+        "name": {
+          "_": "Diamant",
+          "sortindex": 1
+        },
+        "yearpublished": 2005,
+        "image": "https://cf.geekdo-images.com/G7gR2mJRPosZmGahXFKFXA__original/img/mwD68OdF-9k-Jkd9dRY87Nt__qo=/0x0/filters:format(jpeg)/pic7924444.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/G7gR2mJRPosZmGahXFKFXA__small/img/4qe4Eo9pvyKtw4W0E-iv7TV6aa8=/fit-in/200x150/filters:strip_icc()/pic7924444.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:49:36"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 199792,
+        "subtype": "boardgame",
+        "collid": 139021368,
+        "name": {
+          "_": "Everdell",
+          "sortindex": 1
+        },
+        "yearpublished": 2018,
+        "image": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__original/img/HQ1ti16wT9lqja5_h3gUfHUIcVI=/0x0/filters:format(png)/pic3918905.png",
+        "thumbnail": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__small/img/Cf_mYxR_VvdjTEPXseSurni2JNI=/fit-in/200x150/filters:strip_icc()/pic3918905.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 04:28:26"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 343282,
+        "subtype": "boardgame",
+        "collid": 139036882,
+        "name": {
+          "_": "Exploding Kittens: Recipes for Disaster",
+          "sortindex": 1
+        },
+        "yearpublished": 2021,
+        "image": "https://cf.geekdo-images.com/gbw-3lRou0Xa3hXhGmxLyw__original/img/WoPpM4Wc9MK-wgC8kNyMV-RrESg=/0x0/filters:format(jpeg)/pic6305890.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/gbw-3lRou0Xa3hXhGmxLyw__small/img/z0hiwez7q9oXDx7YnOqh_TtTtAo=/fit-in/200x150/filters:strip_icc()/pic6305890.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:46:14"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 135779,
+        "subtype": "boardgame",
+        "collid": 139037171,
+        "name": {
+          "_": "A Fake Artist Goes to New York",
+          "sortindex": 3
+        },
+        "yearpublished": 2011,
+        "image": "https://cf.geekdo-images.com/5Q5YHxJeVp6PAhfv5Ct0-g__original/img/yRNioltDOtjrTRXa0HHoTTCWNf8=/0x0/filters:format(png)/pic3678404.png",
+        "thumbnail": "https://cf.geekdo-images.com/5Q5YHxJeVp6PAhfv5Ct0-g__small/img/nqo8xhGEWnqXYDEvYcVpBpABBI4=/fit-in/200x150/filters:strip_icc()/pic3678404.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:51:37"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 360177,
+        "subtype": "boardgame",
+        "collid": 139036927,
+        "name": {
+          "_": "Future Me Problems",
+          "sortindex": 1
+        },
+        "yearpublished": 2022,
+        "image": "https://cf.geekdo-images.com/d1evrGCQD5MZG3J5v3c2fg__original/img/BqslDqeg0AU2cNnjZ5B75q0xb2s=/0x0/filters:format(jpeg)/pic6793443.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/d1evrGCQD5MZG3J5v3c2fg__small/img/g36cVVX7tZRHYV1Umud7s0rlm9I=/fit-in/200x150/filters:strip_icc()/pic6793443.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:47:06"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 410291,
+        "subtype": "boardgame",
+        "collid": 136290635,
+        "name": {
+          "_": "Heat: Heavy Rain",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/Vlbfl6z6JIwtAt-KjM_A3Q__original/img/-p2SASksKudVCoufG6R-3pltDD8=/0x0/filters:format(jpeg)/pic7947956.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/Vlbfl6z6JIwtAt-KjM_A3Q__small/img/pIHtymIWvfUZiJ-AB2C_62ci1Uw=/fit-in/200x150/filters:strip_icc()/pic7947956.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-09-10 02:30:33"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 366013,
+        "subtype": "boardgame",
+        "collid": 136290626,
+        "name": {
+          "_": "Heat: Pedal to the Metal",
+          "sortindex": 1
+        },
+        "yearpublished": 2022,
+        "image": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png",
+        "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-09-10 02:30:18"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 436904,
+        "subtype": "boardgame",
+        "collid": 136290638,
+        "name": {
+          "_": "Heat: Tunnel Vision",
+          "sortindex": 1
+        },
+        "yearpublished": 2025,
+        "image": "https://cf.geekdo-images.com/ez01nzXEqZgLn0lx714eqA__original/img/T5g0_z266YqhJzy2RKn61G4cqqU=/0x0/filters:format(jpeg)/pic8647210.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/ez01nzXEqZgLn0lx714eqA__small/img/sw29GPWLzh7y3edW8CPqw258wFo=/fit-in/200x150/filters:strip_icc()/pic8647210.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-09-10 02:30:46"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 311322,
+        "subtype": "boardgame",
+        "collid": 139021373,
+        "name": {
+          "_": "Herd Mentality",
+          "sortindex": 1
+        },
+        "yearpublished": 2020,
+        "image": "https://cf.geekdo-images.com/85hYrpSl9Aoh2TgMf4CiDA__original/img/QPcr2EfpZjJzvNGjfQZwRbs-kMo=/0x0/filters:format(png)/pic5509026.png",
+        "thumbnail": "https://cf.geekdo-images.com/85hYrpSl9Aoh2TgMf4CiDA__small/img/b4cbnSNGps3koFIZKsh2ThZwV8E=/fit-in/200x150/filters:strip_icc()/pic5509026.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 04:28:42"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 331685,
+        "subtype": "boardgame",
+        "collid": 139423028,
+        "name": {
+          "_": "Hit the Silk!",
+          "sortindex": 1
+        },
+        "yearpublished": 2021,
+        "image": "https://cf.geekdo-images.com/uu3_la80Rx6TiuDtEpXO9A__original/img/FxCrJrezkX5E_oUWVS7J4GJi0Tg=/0x0/filters:format(jpeg)/pic6433684.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/uu3_la80Rx6TiuDtEpXO9A__small/img/PLpPdGSxLfZiVdnGsqmgDWgDCIU=/fit-in/200x150/filters:strip_icc()/pic6433684.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 1,
+          "lastmodified": "2026-02-11 13:53:43"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 28023,
+        "subtype": "boardgame",
+        "collid": 139036962,
+        "name": {
+          "_": "Jamaica",
+          "sortindex": 1
+        },
+        "yearpublished": 2007,
+        "image": "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__original/img/aLqKSqw-RWyR4wyfFUywWMQXUTc=/0x0/filters:format(png)/pic6434838.png",
+        "thumbnail": "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__small/img/6q5nirF5yn1d0qtjm2UEI5HV874=/fit-in/200x150/filters:strip_icc()/pic6434838.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:47:42"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 333255,
+        "subtype": "boardgame",
+        "collid": 139036704,
+        "name": {
+          "_": "Keep the Heroes Out!",
+          "sortindex": 1
+        },
+        "yearpublished": 2022,
+        "image": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__original/img/qtWs6Wg0a241k2D1TWWbesVwu-s=/0x0/filters:format(jpeg)/pic6985339.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__small/img/3et-UTpNaMhKlHPgnj89mkTkGkU=/fit-in/200x150/filters:strip_icc()/pic6985339.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:42:29"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 336755,
+        "subtype": "boardgame",
+        "collid": 139036901,
+        "name": {
+          "_": "King of Tokyo: Monster Box",
+          "sortindex": 1
+        },
+        "yearpublished": 2021,
+        "image": "https://cf.geekdo-images.com/wXdDbKqKdDpB4pBCWLToQw__original/img/j4AluVIz03ad7ggpRlBtfrK-NfE=/0x0/filters:format(jpeg)/pic6125357.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/wXdDbKqKdDpB4pBCWLToQw__small/img/dHHqIM1HMBtDPpcPEYOdgpOijzw=/fit-in/200x150/filters:strip_icc()/pic6125357.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:46:35"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 245655,
+        "subtype": "boardgame",
+        "collid": 141510170,
+        "name": {
+          "_": "The King's Dilemma",
+          "sortindex": 5
+        },
+        "yearpublished": 2019,
+        "image": "https://cf.geekdo-images.com/FJlTdSMkK5hMNtCympJFmg__original/img/pr_jKPa74JjBBm30Mo9Uj9Jq1-w=/0x0/filters:format(jpeg)/pic5429837.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/FJlTdSMkK5hMNtCympJFmg__small/img/WqPUfQOfiIe5FnBXz-EAavw5jCs=/fit-in/200x150/filters:strip_icc()/pic5429837.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2026-01-19 14:45:37"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 356033,
+        "subtype": "boardgame",
+        "collid": 139037080,
+        "name": {
+          "_": "Libertalia: Winds of Galecrest",
+          "sortindex": 1
+        },
+        "yearpublished": 2022,
+        "image": "https://cf.geekdo-images.com/6e-V_Xb2IsAsMNXU18Fi6A__original/img/gLDo-RR_9RvU_Hrs9DnHWy_TWpk=/0x0/filters:format(jpeg)/pic6669033.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/6e-V_Xb2IsAsMNXU18Fi6A__small/img/KJIHXXkkIU7R-oK5i9byIyGdfm4=/fit-in/200x150/filters:strip_icc()/pic6669033.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:49:49"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 400498,
+        "subtype": "boardgame",
+        "collid": 139037213,
+        "name": {
+          "_": "Light Speed: Arena",
+          "sortindex": 1
+        },
+        "yearpublished": 2025,
+        "image": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__original/img/WYNbP3hN-y7GW00bzsbWMDoDWVw=/0x0/filters:format(png)/pic8866023.png",
+        "thumbnail": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__small/img/1HP4zxm2d5kTCEZw5oe08ex6Ylc=/fit-in/200x150/filters:strip_icc()/pic8866023.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:52:25"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 345584,
+        "subtype": "boardgame",
+        "collid": 142914426,
+        "name": {
+          "_": "Mindbug: First Contact",
+          "sortindex": 1
+        },
+        "yearpublished": 2022,
+        "image": "https://cf.geekdo-images.com/b8gl6w-BqUVgBURdyFcFZg__original/img/chGo_gyJr418yMPchcWhLoW5AjQ=/0x0/filters:format(png)/pic7646386.png",
+        "thumbnail": "https://cf.geekdo-images.com/b8gl6w-BqUVgBURdyFcFZg__small/img/dCGADcFu3CrjHeao9JKibUHYUik=/fit-in/200x150/filters:strip_icc()/pic7646386.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2026-02-24 00:18:58"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 40398,
+        "subtype": "boardgame",
+        "collid": 140747531,
+        "name": {
+          "_": "Monopoly Deal Card Game",
+          "sortindex": 1
+        },
+        "yearpublished": 2008,
+        "image": "https://cf.geekdo-images.com/XACkCb3JL0uvF6xOn0lRSg__original/img/BBhxJBuYU2N7oTs1oxfuVsHJ47w=/0x0/filters:format(jpeg)/pic4595026.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/XACkCb3JL0uvF6xOn0lRSg__small/img/MSoqR2WLqhqV9mkayMmd11sNanY=/fit-in/200x150/filters:strip_icc()/pic4595026.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2026-01-04 02:27:38"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 1927,
+        "subtype": "boardgame",
+        "collid": 139036912,
+        "name": {
+          "_": "Munchkin",
+          "sortindex": 1
+        },
+        "yearpublished": 2001,
+        "image": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__original/img/FbqPPCilgZKND2xmhWJgkfjZiYE=/0x0/filters:format(jpeg)/pic1871016.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__small/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:46:51"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 12942,
+        "subtype": "boardgame",
+        "collid": 139037108,
+        "name": {
+          "_": "No Thanks!",
+          "sortindex": 1
+        },
+        "yearpublished": 2004,
+        "image": "https://cf.geekdo-images.com/2P4-gR4xYLnfZtljfc2dRA__original/img/nfnXCkBIcoFLJBpiJLWwBcN1saU=/0x0/filters:format(jpeg)/pic2602161.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/2P4-gR4xYLnfZtljfc2dRA__small/img/zQE9bdhYVPJbnbO7AOnatF9l5Yw=/fit-in/200x150/filters:strip_icc()/pic2602161.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:50:38"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 160477,
+        "subtype": "boardgame",
+        "collid": 139037086,
+        "name": {
+          "_": "Onitama",
+          "sortindex": 1
+        },
+        "yearpublished": 2014,
+        "image": "https://cf.geekdo-images.com/GJKuOCy5HGAYgVH_Rei5mA__original/img/oRsIxp72iv58128KFdqvjG6Gz64=/0x0/filters:format(jpeg)/pic7070194.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/GJKuOCy5HGAYgVH_Rei5mA__small/img/Q3W4poMS4btD-HZLervgqbSCtmE=/fit-in/200x150/filters:strip_icc()/pic7070194.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:50:02"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 1115,
+        "subtype": "boardgame",
+        "collid": 139036678,
+        "name": {
+          "_": "Poker",
+          "sortindex": 1
+        },
+        "yearpublished": 1810,
+        "image": "https://cf.geekdo-images.com/QhsvR9GY0LbTpj27fairWA__original/img/4ODyzAOOgoIJrUzLOjtzItR2uH0=/0x0/filters:format(jpeg)/pic186610.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/QhsvR9GY0LbTpj27fairWA__small/img/_Nvnav-rd4ckyC_lMKYu0AqC06I=/fit-in/200x150/filters:strip_icc()/pic186610.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:41:55"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 331265,
+        "subtype": "boardgame",
+        "collid": 139037056,
+        "name": {
+          "_": "Port Royal: Big Box",
+          "sortindex": 1
+        },
+        "yearpublished": 2022,
+        "image": "https://cf.geekdo-images.com/T2czH3s3vbNV0pf1bZhhQQ__original/img/JjOQBblshAUuKKtYxIqQ3CKM4bM=/0x0/filters:format(jpeg)/pic6265475.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/T2czH3s3vbNV0pf1bZhhQQ__small/img/NXTT9UmuP8b6xTn0_6kSF7bcRB8=/fit-in/200x150/filters:strip_icc()/pic6265475.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:49:23"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 414107,
+        "subtype": "boardgame",
+        "collid": 139036795,
+        "name": {
+          "_": "Ratjack",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/S2r-rQ7LD7vO1A0-jj6mGA__original/img/g8LrApR7w3V2jJDuHJP3i84dfPA=/0x0/filters:format(png)/pic8267854.png",
+        "thumbnail": "https://cf.geekdo-images.com/S2r-rQ7LD7vO1A0-jj6mGA__small/img/ayQSWabS8Yw8AS__fu8RHyml45Q=/fit-in/200x150/filters:strip_icc()/pic8267854.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:44:21"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 381249,
+        "subtype": "boardgame",
+        "collid": 139036812,
+        "name": {
+          "_": "Rebel Princess",
+          "sortindex": 1
+        },
+        "yearpublished": 2023,
+        "image": "https://cf.geekdo-images.com/HuWvVU2tcff-vu3EjPtk6Q__original/img/K2Fopgt-7pfYCu8jtlrcWJ92yeU=/0x0/filters:format(jpeg)/pic7605211.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/HuWvVU2tcff-vu3EjPtk6Q__small/img/O50Jyvp_CPWRBdYidjQedORzwqc=/fit-in/200x150/filters:strip_icc()/pic7605211.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:44:48"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 307002,
+        "subtype": "boardgame",
+        "collid": 139036823,
+        "name": {
+          "_": "Regicide",
+          "sortindex": 1
+        },
+        "yearpublished": 2020,
+        "image": "https://cf.geekdo-images.com/C9U2E51tkzLljewFEGQ74g__original/img/Q-a5lAydzhwNLLhy8n326tlxuYE=/0x0/filters:format(jpeg)/pic5837347.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/C9U2E51tkzLljewFEGQ74g__small/img/4KV3wj3NiJDgGTh3zmW0_8Ph3Zc=/fit-in/200x150/filters:strip_icc()/pic5837347.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:45:02"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 399941,
+        "subtype": "boardgame",
+        "collid": 141401679,
+        "name": {
+          "_": "River of Gold",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__original/img/VNiDkGDA9mEdFmWPCoH7lUBnG8E=/0x0/filters:format(jpeg)/pic7697889.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__small/img/mrk3uMkr4tmCWUmqs0BR4cAycEo=/fit-in/200x150/filters:strip_icc()/pic7697889.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2026-01-19 14:46:30"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 121921,
+        "subtype": "boardgame",
+        "collid": 139036761,
+        "name": {
+          "_": "Robinson Crusoe: Adventures on the Cursed Island",
+          "sortindex": 1
+        },
+        "yearpublished": 2012,
+        "image": "https://cf.geekdo-images.com/zvHPgrNb9mgkHQk-BwVemA__original/img/OUdMMPwYXTd5JIBG9skImPqa8bg=/0x0/filters:format(jpeg)/pic6026697.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/zvHPgrNb9mgkHQk-BwVemA__small/img/QNF6GAuZ6TTeSYtrWZlWvPaIWjs=/fit-in/200x150/filters:strip_icc()/pic6026697.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:43:38"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 299441,
+        "subtype": "boardgame",
+        "collid": 139655532,
+        "name": {
+          "_": "Robinson Crusoe: Adventures on the Cursed Island - The Book of Adventures",
+          "sortindex": 1
+        },
+        "yearpublished": 2024,
+        "image": "https://cf.geekdo-images.com/E7S5N-4qKNvFthGRHZqwew__original/img/5iBu9lq8cMoHxyITV0NZLN9gEFU=/0x0/filters:format(jpeg)/pic6032477.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/E7S5N-4qKNvFthGRHZqwew__small/img/zz5Qrinz8J_1dLGte1GpY143gLo=/fit-in/200x150/filters:strip_icc()/pic6032477.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-12-11 12:53:38"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 304337,
+        "subtype": "boardgame",
+        "collid": 139655542,
+        "name": {
+          "_": "Robinson Crusoe: Adventures on the Cursed Island - Treasure Chest",
+          "sortindex": 1
+        },
+        "yearpublished": 2020,
+        "image": "https://cf.geekdo-images.com/4JZAemz5uVrDi9zBFtuMWw__original/img/4lBaCMHBBk42J5a1XybzSKZBmGA=/0x0/filters:format(jpeg)/pic5281174.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/4JZAemz5uVrDi9zBFtuMWw__small/img/ReINKaV_ilDfBpegPRYF8M9JQEU=/fit-in/200x150/filters:strip_icc()/pic5281174.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-12-11 12:54:13"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 9220,
+        "subtype": "boardgame",
+        "collid": 139609512,
+        "name": {
+          "_": "Saboteur",
+          "sortindex": 1
+        },
+        "yearpublished": 2004,
+        "image": "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__original/img/TJDCd-PYySXmhQn-LC-y88JPA7U=/0x0/filters:format(jpeg)/pic3989824.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__small/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-12-10 06:34:19"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 91072,
+        "subtype": "boardgame",
+        "collid": 139609525,
+        "name": {
+          "_": "Saboteur 2 (expansion-only editions)",
+          "sortindex": 1
+        },
+        "yearpublished": 2011,
+        "image": "https://cf.geekdo-images.com/VsSFKeeTlPR2Ixn9pT7ktA__original/img/RCetvrLHyrW7gmaozZryy97N56I=/0x0/filters:format(png)/pic4919882.png",
+        "thumbnail": "https://cf.geekdo-images.com/VsSFKeeTlPR2Ixn9pT7ktA__small/img/zZffDbDZ0HWwrbr5k783Fs6Px9I=/fit-in/200x150/filters:strip_icc()/pic4919882.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-12-10 06:34:44"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 228855,
+        "subtype": "boardgame",
+        "collid": 139688645,
+        "name": {
+          "_": "Set a Watch",
+          "sortindex": 1
+        },
+        "yearpublished": 2019,
+        "image": "https://cf.geekdo-images.com/E_-9WT4_6-kABS796Q-piA__original/img/b1r3xRKUZBJm7-NUjjdwcdKk2IE=/0x0/filters:format(png)/pic4162054.png",
+        "thumbnail": "https://cf.geekdo-images.com/E_-9WT4_6-kABS796Q-piA__small/img/l-LKCyGEkwhPpyW2zQCyA9Kh1SY=/fit-in/200x150/filters:strip_icc()/pic4162054.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-12-12 12:21:09"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 372559,
+        "subtype": "boardgame",
+        "collid": 139037097,
+        "name": {
+          "_": "Spots",
+          "sortindex": 1
+        },
+        "yearpublished": 2022,
+        "image": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__original/img/GklWmrbqMips7ref85Pa-X5eNQQ=/0x0/filters:format(png)/pic7592453.png",
+        "thumbnail": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__small/img/BgniZvPRJVenqn7XHd4TQtsSuwI=/fit-in/200x150/filters:strip_icc()/pic7592453.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:50:26"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 206915,
+        "subtype": "boardgame",
+        "collid": 139037039,
+        "name": {
+          "_": "Tempel des Schreckens",
+          "sortindex": 1
+        },
+        "yearpublished": 2016,
+        "image": "https://cf.geekdo-images.com/ClTSck2VjriYWdVDv4FKNQ__original/img/R9-cKEvUx2ED6DKwN_MqPwBmQYU=/0x0/filters:format(png)/pic3141267.png",
+        "thumbnail": "https://cf.geekdo-images.com/ClTSck2VjriYWdVDv4FKNQ__small/img/PrC07RyIVgF1Rqi9-MMiCnbck08=/fit-in/200x150/filters:strip_icc()/pic3141267.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:49:08"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 123540,
+        "subtype": "boardgame",
+        "collid": 139037025,
+        "name": {
+          "_": "Tokaido",
+          "sortindex": 1
+        },
+        "yearpublished": 2012,
+        "image": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__original/img/NWuaZkfygEeQ7nvi0Ih7_FW9jO0=/0x0/filters:format(jpeg)/pic8758132.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__small/img/yQg2AyLDdtfArqfb866NW2Wv1Es=/fit-in/200x150/filters:strip_icc()/pic8758132.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:48:55"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 2223,
+        "subtype": "boardgame",
+        "collid": 139036801,
+        "name": {
+          "_": "UNO",
+          "sortindex": 1
+        },
+        "yearpublished": 1971,
+        "image": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__original/img/fRfoyWezpQsumExNKVxf1cwtJfg=/0x0/filters:format(jpeg)/pic8204165.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__small/img/AUkAjClJAk3BX1vEpk7EasSh_44=/fit-in/200x150/filters:strip_icc()/pic8204165.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:44:36"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 241724,
+        "subtype": "boardgame",
+        "collid": 139036786,
+        "name": {
+          "_": "Villagers",
+          "sortindex": 1
+        },
+        "yearpublished": 2019,
+        "image": "https://cf.geekdo-images.com/rMMSvnXuBPZSihIaVtVT-A__original/img/PivWbEOFSDhHXl2NCHw8xSErORA=/0x0/filters:format(png)/pic4996383.png",
+        "thumbnail": "https://cf.geekdo-images.com/rMMSvnXuBPZSihIaVtVT-A__small/img/IkNfLIRXNN3cwFLItdj56VnREm0=/fit-in/200x150/filters:strip_icc()/pic4996383.png",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:44:05"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 180020,
+        "subtype": "boardgame",
+        "collid": 139036940,
+        "name": {
+          "_": "Virus!",
+          "sortindex": 1
+        },
+        "yearpublished": 2015,
+        "image": "https://cf.geekdo-images.com/7Xx4ipXV4lf0Q9mWwitf2w__original/img/reScLMXXNowNt1koQwV5IhYRUc0=/0x0/filters:format(jpeg)/pic6008974.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/7Xx4ipXV4lf0Q9mWwitf2w__small/img/MEZHcMtiblFsrdf2_0Wd_lSai4g=/fit-in/200x150/filters:strip_icc()/pic6008974.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:47:21"
+        },
+        "numplays": 0
+      },
+      {
+        "objecttype": "thing",
+        "objectid": 25821,
+        "subtype": "boardgame",
+        "collid": 139037003,
+        "name": {
+          "_": "The Werewolves of Miller's Hollow",
+          "sortindex": 5
+        },
+        "yearpublished": 2001,
+        "image": "https://cf.geekdo-images.com/rZ0tOafAt1oue_7NKqELsg__original/img/Mxx1Abak0zV1FhoDr5HOnMirFAM=/0x0/filters:format(jpeg)/pic7203269.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/rZ0tOafAt1oue_7NKqELsg__small/img/jqycRUhCBZjq1E87oQVIFb1_j0A=/fit-in/200x150/filters:strip_icc()/pic7203269.jpg",
+        "status": {
+          "own": 1,
+          "prevowned": 0,
+          "fortrade": 0,
+          "want": 0,
+          "wanttoplay": 0,
+          "wanttobuy": 0,
+          "wishlist": 0,
+          "preordered": 0,
+          "lastmodified": "2025-11-25 12:48:29"
+        },
+        "numplays": 0
+      }
+    ]
+  }
+}
