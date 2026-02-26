@@ -1,15 +1,42 @@
 import {Item} from "../game.types";
 import {Card, CardMedia} from "@rmwc/card";
-import {CardActions, CardPrimaryAction, Chip, ChipSet} from "rmwc";
+import {Badge, BadgeAnchor, CardActions, CardPrimaryAction, Chip, ChipSet} from "rmwc";
 import {Typography} from "@rmwc/typography";
 import React from "react";
 
 export function CategoryCard({item, w}: { item: Item, w: number }) {
-  return w < 500 ? (
+  const Card = w < 500 ? (
     <ReducedCard item={item}/>
   ) : (
     <DetailedCard item={item}/>
   );
+  if (item.status.preordered) {
+    return (
+      <BadgeAnchor>
+        {Card}
+        <Badge label={"preordered"} style={{
+          fontSize: '0.55rem',
+          padding: '0 0.4rem',
+          margin: '0 0.2rem 0.2rem 0',
+          height: 'unset',
+        }}/>
+      </BadgeAnchor>
+    );
+  }
+  if (isWithinRange(new Date(item.status.lastmodified), 90)) {
+    return (
+      <BadgeAnchor>
+        {Card}
+        <Badge label={"new"} style={{
+          fontSize: '0.55rem',
+          padding: '0 0.4rem',
+          margin: '0 0.2rem 0.2rem 0',
+          height: 'unset',
+        }}/>
+      </BadgeAnchor>
+    );
+  }
+  return Card;
 }
 
 function ReducedCard({item}: { item: Item }) {
@@ -95,4 +122,12 @@ function DetailedCard({item}: { item: Item }) {
       </CardActions>
     </Card>
   );
+}
+
+export function isWithinRange(date: any, days: number) {
+  const now: any = new Date();
+  const diffInMs = now - date; // positive if date is in the past
+  const thirtyDaysInMs = days * 24 * 60 * 60 * 1000;
+
+  return diffInMs >= 0 && diffInMs <= thirtyDaysInMs;
 }

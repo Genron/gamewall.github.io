@@ -1,16 +1,43 @@
 import {Item} from "../game.types";
 import {Card, CardMedia} from "@rmwc/card";
-import {CardPrimaryAction} from "rmwc";
+import {Badge, BadgeAnchor, CardPrimaryAction} from "rmwc";
 import {Typography} from "@rmwc/typography";
 import React from "react";
-import {getPlayerRecommendation} from "./CategoryCard";
+import {getPlayerRecommendation, isWithinRange} from "./CategoryCard";
 
 export function FilterCard({index, item, w}: { index: number; item: Item; w: number; }) {
-  return w < 900 ? (
+  const Card = w < 900 ? (
     <ReducedCard index={index} item={item}/>
   ) : (
     <DetailedCard index={index} item={item}/>
   );
+  if (item.status.preordered) {
+    return (
+      <BadgeAnchor>
+        {Card}
+        <Badge label={"preordered"} style={{
+          fontSize: '0.55rem',
+          padding: '0 0.4rem',
+          margin: '0 0.2rem 0.2rem 0',
+          height: 'unset',
+        }}/>
+      </BadgeAnchor>
+    );
+  }
+  if (isWithinRange(new Date(item.status.lastmodified), 90)) {
+    return (
+      <BadgeAnchor>
+        {Card}
+        <Badge label={"new"} style={{
+          fontSize: '0.55rem',
+          padding: '0 0.4rem',
+          margin: '0 0.2rem 0.2rem 0',
+          height: 'unset',
+        }}/>
+      </BadgeAnchor>
+    );
+  }
+  return Card;
 }
 
 function ReducedCard({index, item}: { index: number, item: Item }) {
