@@ -74,7 +74,7 @@ const IsPlayerCount = (n: number) => (i1: Item): boolean => {
   return i1.bestPlayers_numeric.includes(n);
 };
 
-const IsNew = (i1: Item): boolean => {
+export const IsNew = (i1: Item): boolean => {
   const days = 90;
   const daysInMs = days * 24 * 60 * 60 * 1000;
   const now: any = new Date();
@@ -83,7 +83,7 @@ const IsNew = (i1: Item): boolean => {
   return diffInMs >= 0 && diffInMs <= daysInMs; 
 };
 
-const IsPreordered = (i1: Item): boolean => {
+export const IsPreordered = (i1: Item): boolean => {
   return i1.status.preordered; 
 };
 
