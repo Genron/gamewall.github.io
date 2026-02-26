@@ -4,8 +4,8 @@ import {toDashCase} from '@rmwc/base';
 import {getAutoColorsForTheme} from '@rmwc/theme';
 
 const DEFAULT_THEME = {
-  '--mdc-theme-primary': 'rgb(63, 58, 96)',
-  '--mdc-theme-secondary': '#03dac4',
+  '--mdc-theme-primary': '#3F3A60',
+  '--mdc-theme-secondary': '#ff5100',
   '--mdc-theme-background': '#fff',
   '--mdc-theme-surface': '#fff',
   '--mdc-theme-error': '#b00020'
@@ -35,9 +35,8 @@ const TEXT_DEFAULTS = {
 
 const THEMES: { [key: string]: { [key: string]: string } } = {
   Baseline: {
-    '--mdc-theme-primary': 'rgb(63, 58, 96)',
-    '--mdc-theme-secondary':
-      '#03dac4' /** Any theme option pointing to a valid CSS value. */
+    '--mdc-theme-primary': '#3F3A60',
+    '--mdc-theme-secondary': '#ff5100'
   },
   Crane: {
     '--mdc-theme-primary': '#5d1049',

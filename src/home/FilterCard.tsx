@@ -3,7 +3,7 @@ import {Card, CardMedia} from "@rmwc/card";
 import {Badge, BadgeAnchor, CardPrimaryAction} from "rmwc";
 import {Typography} from "@rmwc/typography";
 import React from "react";
-import {getPlayerRecommendation, isWithinRange} from "./CategoryCard";
+import {BadgeStyles, getPlayerRecommendation, isWithinRange} from "./CategoryCard";
 
 export function FilterCard({index, item, w}: { index: number; item: Item; w: number; }) {
   const Card = w < 900 ? (
@@ -15,12 +15,7 @@ export function FilterCard({index, item, w}: { index: number; item: Item; w: num
     return (
       <BadgeAnchor>
         {Card}
-        <Badge label={"preordered"} style={{
-          fontSize: '0.55rem',
-          padding: '0 0.4rem',
-          margin: '0 0.2rem 0.2rem 0',
-          height: 'unset',
-        }}/>
+        <Badge label={"bestellt"} theme={['primaryBg']} style={BadgeStyles(true)}/>
       </BadgeAnchor>
     );
   }
@@ -28,12 +23,7 @@ export function FilterCard({index, item, w}: { index: number; item: Item; w: num
     return (
       <BadgeAnchor>
         {Card}
-        <Badge label={"new"} style={{
-          fontSize: '0.55rem',
-          padding: '0 0.4rem',
-          margin: '0 0.2rem 0.2rem 0',
-          height: 'unset',
-        }}/>
+        <Badge label={"neu"} theme={['secondaryBg']} style={BadgeStyles(true)}/>
       </BadgeAnchor>
     );
   }

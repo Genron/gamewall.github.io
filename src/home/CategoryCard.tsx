@@ -14,12 +14,7 @@ export function CategoryCard({item, w}: { item: Item, w: number }) {
     return (
       <BadgeAnchor>
         {Card}
-        <Badge label={"preordered"} style={{
-          fontSize: '0.55rem',
-          padding: '0 0.4rem',
-          margin: '0 0.2rem 0.2rem 0',
-          height: 'unset',
-        }}/>
+        <Badge label={"bestellt"} theme={['primaryBg']} style={BadgeStyles(true)}/>
       </BadgeAnchor>
     );
   }
@@ -27,12 +22,7 @@ export function CategoryCard({item, w}: { item: Item, w: number }) {
     return (
       <BadgeAnchor>
         {Card}
-        <Badge label={"new"} style={{
-          fontSize: '0.55rem',
-          padding: '0 0.4rem',
-          margin: '0 0.2rem 0.2rem 0',
-          height: 'unset',
-        }}/>
+        <Badge label={"neu"} theme={['secondaryBg']} style={BadgeStyles(true)}/>
       </BadgeAnchor>
     );
   }
@@ -109,14 +99,7 @@ function DetailedCard({item}: { item: Item }) {
       <CardActions>
         <ChipSet style={{padding: '0'}} className={'max-row-3'} choice>
           {item.tags.map(tag => (
-            <Chip key={tag} label={tag}
-                  style={{
-                    fontSize: '0.55rem',
-                    padding: '0 0.4rem',
-                    margin: '0 0.2rem 0.2rem 0',
-                    height: 'unset',
-                  }}
-            />
+            <Chip key={tag} label={tag} style={BadgeStyles()} />
           ))}
         </ChipSet>
       </CardActions>
@@ -131,3 +114,13 @@ export function isWithinRange(date: any, days: number) {
 
   return diffInMs >= 0 && diffInMs <= thirtyDaysInMs;
 }
+
+export const BadgeStyles = (capitalized: boolean = false) => ({
+  fontSize: '0.55rem',
+  padding: '0 0.4rem',
+  margin: '0 0.2rem 0.2rem 0',
+  height: 'unset',
+  ...(capitalized ? {
+    letterSpacing: '0.05rem',
+  } : {})
+})
