@@ -3190,11 +3190,6 @@
             },
             {
                 "type": "boardgamepublisher",
-                "id": 22,
-                "value": "Piatnik"
-            },
-            {
-                "type": "boardgamepublisher",
                 "id": 62145,
                 "value": "Piatnik Distribution"
             },
@@ -12064,6 +12059,11 @@
                 "type": "boardgamemechanic",
                 "id": 2819,
                 "value": "Solo / Solitaire Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2884,
+                "value": "Sudden Death Ending"
             },
             {
                 "type": "boardgamemechanic",

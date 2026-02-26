@@ -728,7 +728,18 @@
                 "id": 44209,
                 "value": "Ігромаг"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 04:28:26"
+        }
     },
     {
         "id": 366013,
@@ -975,7 +986,18 @@
                 "id": 46500,
                 "value": "Lord of Boards"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-09-10 02:30:18"
+        }
     },
     {
         "id": 240980,
@@ -1284,7 +1306,18 @@
                 "id": 44780,
                 "value": "Open Sesame Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-12-08 05:22:21"
+        }
     },
     {
         "id": 284083,
@@ -1547,11 +1580,6 @@
             },
             {
                 "type": "boardgamepublisher",
-                "id": 22,
-                "value": "Piatnik"
-            },
-            {
-                "type": "boardgamepublisher",
                 "id": 62145,
                 "value": "Piatnik Distribution"
             },
@@ -1570,7 +1598,18 @@
                 "id": 1466,
                 "value": "Zvezda"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:43:12"
+        }
     },
     {
         "id": 413246,
@@ -1767,7 +1806,18 @@
                 "id": 44209,
                 "value": "Ігромаг"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:42:45"
+        }
     },
     {
         "id": 121921,
@@ -2584,7 +2634,18 @@
                 "id": 538,
                 "value": "Z-Man Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:43:38"
+        }
     },
     {
         "id": 178900,
@@ -3237,7 +3298,18 @@
                 "id": 4932,
                 "value": "White Goblin Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:50:14"
+        }
     },
     {
         "id": 416851,
@@ -3448,7 +3520,18 @@
                 "id": 8147,
                 "value": "YOKA Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 04:29:37"
+        }
     },
     {
         "id": 160477,
@@ -3699,7 +3782,18 @@
                 "id": 8147,
                 "value": "YOKA Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:50:02"
+        }
     },
     {
         "id": 333255,
@@ -3985,7 +4079,18 @@
                 "id": 44209,
                 "value": "Ігромаг"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:42:29"
+        }
     },
     {
         "id": 245655,
@@ -4206,7 +4311,18 @@
                 "id": 50075,
                 "value": "Yellowstar Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-01-19 14:45:37"
+        }
     },
     {
         "id": 345584,
@@ -4522,7 +4638,18 @@
                 "id": 21053,
                 "value": "REXhry"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-02-24 00:18:58"
+        }
     },
     {
         "id": 334986,
@@ -4763,7 +4890,18 @@
                 "id": 38,
                 "value": "Schmidt Spiele"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:42:11"
+        }
     },
     {
         "id": 356033,
@@ -4987,7 +5125,18 @@
                 "id": 39058,
                 "value": "Surfin' Meeple"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:49:49"
+        }
     },
     {
         "id": 12942,
@@ -5284,7 +5433,18 @@
                 "id": 44209,
                 "value": "Ігромаг"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:50:38"
+        }
     },
     {
         "id": 158899,
@@ -5721,7 +5881,18 @@
                 "id": 33998,
                 "value": "Siam Board Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:45:39"
+        }
     },
     {
         "id": 307002,
@@ -5791,6 +5962,11 @@
                 "type": "boardgamemechanic",
                 "id": 2819,
                 "value": "Solo / Solitaire Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2884,
+                "value": "Sudden Death Ending"
             },
             {
                 "type": "boardgamemechanic",
@@ -5912,7 +6088,18 @@
                 "id": 8923,
                 "value": "IELLO"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:45:02"
+        }
     },
     {
         "id": 6249,
@@ -6304,7 +6491,18 @@
                 "id": 1901,
                 "value": "Überplay"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:43:51"
+        }
     },
     {
         "id": 28023,
@@ -6511,7 +6709,18 @@
                 "id": 7466,
                 "value": "Rebel Sp. z o.o."
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:47:42"
+        }
     },
     {
         "id": 406652,
@@ -6697,7 +6906,18 @@
                 "id": 39502,
                 "value": "Synapses Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-10-31 04:30:44"
+        }
     },
     {
         "id": 131357,
@@ -7113,7 +7333,18 @@
                 "id": 57325,
                 "value": "狗吠火車"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 04:29:10"
+        }
     },
     {
         "id": 135779,
@@ -7235,7 +7466,18 @@
                 "id": 38846,
                 "value": "PopcornEdu"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:51:37"
+        }
     },
     {
         "id": 399941,
@@ -7416,7 +7658,18 @@
                 "id": 4932,
                 "value": "White Goblin Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-01-19 14:46:30"
+        }
     },
     {
         "id": 123540,
@@ -7757,7 +8010,18 @@
                 "id": 35809,
                 "value": "Zhiyanjia"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:48:55"
+        }
     },
     {
         "id": 331265,
@@ -7999,7 +8263,18 @@
                 "id": 1466,
                 "value": "Zvezda"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:49:23"
+        }
     },
     {
         "id": 15512,
@@ -8307,7 +8582,18 @@
                 "id": 45523,
                 "value": "Yes Papa Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:49:36"
+        }
     },
     {
         "id": 241724,
@@ -8538,7 +8824,18 @@
                 "id": 8147,
                 "value": "YOKA Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:44:05"
+        }
     },
     {
         "id": 372559,
@@ -8724,7 +9021,18 @@
                 "id": 44209,
                 "value": "Ігромаг"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:50:26"
+        }
     },
     {
         "id": 169654,
@@ -8875,7 +9183,18 @@
                 "id": 39774,
                 "value": "Tower Tactic Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:50:52"
+        }
     },
     {
         "id": 402283,
@@ -9030,7 +9349,18 @@
                 "id": 4932,
                 "value": "White Goblin Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:45:55"
+        }
     },
     {
         "id": 381249,
@@ -9200,7 +9530,18 @@
                 "id": 49697,
                 "value": "Wonderbow Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:44:48"
+        }
     },
     {
         "id": 228855,
@@ -9416,7 +9757,18 @@
                 "id": 43864,
                 "value": "Treetato Studio"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-12-12 12:21:09"
+        }
     },
     {
         "id": 206915,
@@ -9540,7 +9892,18 @@
                 "id": 38,
                 "value": "Schmidt Spiele"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:49:08"
+        }
     },
     {
         "id": 1115,
@@ -9881,7 +10244,18 @@
                 "id": 464,
                 "value": "White Wolf Publishing, Inc."
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:41:55"
+        }
     },
     {
         "id": 25821,
@@ -10127,7 +10501,18 @@
                 "id": 39848,
                 "value": "Zygomatic"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:48:29"
+        }
     },
     {
         "id": 9220,
@@ -10599,7 +10984,18 @@
                 "id": 44209,
                 "value": "Ігромаг"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-12-10 06:34:19"
+        }
     },
     {
         "id": 336755,
@@ -10926,7 +11322,18 @@
                 "id": 38305,
                 "value": "Mancalamaro"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:46:35"
+        }
     },
     {
         "id": 180020,
@@ -11161,7 +11568,18 @@
                 "id": 27316,
                 "value": "Trefl Joker Line"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:47:21"
+        }
     },
     {
         "id": 423517,
@@ -11357,7 +11775,18 @@
                 "id": 38709,
                 "value": "VR Distribution"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-01-11 01:00:30"
+        }
     },
     {
         "id": 311322,
@@ -11507,7 +11936,18 @@
                 "id": 1052,
                 "value": "ToyCo"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 04:28:42"
+        }
     },
     {
         "id": 400498,
@@ -11714,7 +12154,18 @@
                 "id": 39,
                 "value": "Pegasus Spiele"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:52:25"
+        }
     },
     {
         "id": 105593,
@@ -11852,7 +12303,18 @@
                 "id": 9234,
                 "value": "Swan Panasia Co., Ltd."
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:48:41"
+        }
     },
     {
         "id": 40398,
@@ -12038,7 +12500,18 @@
                 "id": 21247,
                 "value": "Singapore Airlines"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-01-04 02:27:38"
+        }
     },
     {
         "id": 343282,
@@ -12165,7 +12638,18 @@
                 "id": 7466,
                 "value": "Rebel Sp. z o.o."
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:46:14"
+        }
     },
     {
         "id": 414107,
@@ -12305,7 +12789,18 @@
                 "id": 4932,
                 "value": "White Goblin Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:44:21"
+        }
     },
     {
         "id": 1927,
@@ -13936,7 +14431,18 @@
                 "id": 26784,
                 "value": "ТРЕТЯ ПЛАНЕТА"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:46:51"
+        }
     },
     {
         "id": 130592,
@@ -14047,7 +14553,18 @@
                 "id": 30088,
                 "value": "Super Impulse"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-12-08 05:50:57"
+        }
     },
     {
         "id": 331685,
@@ -14178,7 +14695,18 @@
                 "id": 48062,
                 "value": "Escape Plan Board Games"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 1,
+            "lastmodified": "2026-02-11 13:53:43"
+        }
     },
     {
         "id": 382158,
@@ -14304,7 +14832,18 @@
                 "id": 44842,
                 "value": "Keen Bean Studio"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 1,
+            "lastmodified": "2026-02-11 13:53:14"
+        }
     },
     {
         "id": 360177,
@@ -14396,7 +14935,18 @@
                 "id": 93,
                 "value": "Mattel, Inc."
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:47:06"
+        }
     },
     {
         "id": 2223,
@@ -15064,6 +15614,17 @@
                 "id": 95,
                 "value": "Waddingtons"
             }
-        ]
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:44:36"
+        }
     }
 ]
