@@ -1,8 +1,8 @@
 {
     "items": {
-        "totalitems": 57,
+        "totalitems": 58,
         "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
-        "pubdate": "Tue, 05 May 2026 08:15:57 +0000",
+        "pubdate": "Tue, 05 May 2026 20:13:45 +0000",
         "item": [
             {
                 "objecttype": "thing",
@@ -1326,6 +1326,31 @@
                     "wishlist": 0,
                     "preordered": 0,
                     "lastmodified": "2025-11-25 12:48:55"
+                },
+                "numplays": 0
+            },
+            {
+                "objecttype": "thing",
+                "objectid": 465286,
+                "subtype": "boardgame",
+                "collid": 143888782,
+                "name": {
+                    "_": "Trash Poker",
+                    "sortindex": 1
+                },
+                "yearpublished": 2026,
+                "image": "https://cf.geekdo-images.com/ZQBBDjGY43KFR9Uf2iYgew__original/img/iMZexAk70m3OuSebmdHBphGRXck=/0x0/filters:format(png)/pic9428553.png",
+                "thumbnail": "https://cf.geekdo-images.com/ZQBBDjGY43KFR9Uf2iYgew__small/img/SjpueH8mCSpIaTITjkUM_k2ss2g=/fit-in/200x150/filters:strip_icc()/pic9428553.png",
+                "status": {
+                    "own": 1,
+                    "prevowned": 0,
+                    "fortrade": 0,
+                    "want": 0,
+                    "wanttoplay": 0,
+                    "wanttobuy": 0,
+                    "wishlist": 0,
+                    "preordered": 1,
+                    "lastmodified": "2026-05-05 15:12:00"
                 },
                 "numplays": 0
             },
