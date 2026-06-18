@@ -1,8 +1,8 @@
 {
     "items": {
-        "totalitems": 58,
+        "totalitems": 59,
         "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
-        "pubdate": "Tue, 05 May 2026 20:13:45 +0000",
+        "pubdate": "Thu, 18 Jun 2026 05:29:31 +0000",
         "item": [
             {
                 "objecttype": "thing",
@@ -674,8 +674,33 @@
                     "wanttoplay": 0,
                     "wanttobuy": 0,
                     "wishlist": 0,
-                    "preordered": 1,
-                    "lastmodified": "2026-02-11 13:53:43"
+                    "preordered": 0,
+                    "lastmodified": "2026-06-18 00:27:16"
+                },
+                "numplays": 0
+            },
+            {
+                "objecttype": "thing",
+                "objectid": 349378,
+                "subtype": "boardgame",
+                "collid": 146590990,
+                "name": {
+                    "_": "Hit the Silk!: Extra Cargo Pack expansion",
+                    "sortindex": 1
+                },
+                "yearpublished": 2021,
+                "image": "https://cf.geekdo-images.com/ePUFu0YVkcMUdxY8luh0rQ__original/img/A90h1guaY1dLO5oKT5jSybIRdMo=/0x0/filters:format(jpeg)/pic7349901.jpg",
+                "thumbnail": "https://cf.geekdo-images.com/ePUFu0YVkcMUdxY8luh0rQ__small/img/FXj67ti8TokRBlDIHQA_gM-43yE=/fit-in/200x150/filters:strip_icc()/pic7349901.jpg",
+                "status": {
+                    "own": 1,
+                    "prevowned": 0,
+                    "fortrade": 0,
+                    "want": 0,
+                    "wanttoplay": 0,
+                    "wanttobuy": 0,
+                    "wishlist": 0,
+                    "preordered": 0,
+                    "lastmodified": "2026-06-18 00:26:58"
                 },
                 "numplays": 0
             },
@@ -1349,8 +1374,8 @@
                     "wanttoplay": 0,
                     "wanttobuy": 0,
                     "wishlist": 0,
-                    "preordered": 1,
-                    "lastmodified": "2026-05-05 15:12:00"
+                    "preordered": 0,
+                    "lastmodified": "2026-06-18 00:26:35"
                 },
                 "numplays": 0
             },
