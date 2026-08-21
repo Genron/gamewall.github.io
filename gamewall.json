@@ -2,7 +2,7 @@
     {
         "id": 199792,
         "externalSrc": "https://boardgamegeek.com/boardgame/199792/",
-        "rating": 7.80494,
+        "rating": 7.80072,
         "name": "Everdell",
         "year": 2018,
         "backgroundImage": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__original/img/HQ1ti16wT9lqja5_h3gUfHUIcVI=/0x0/filters:format(png)/pic3918905.png",
@@ -16,15 +16,15 @@
             3
         ],
         "bestPlayers": "3",
-        "weight_raw": 2.8343,
+        "weight_raw": 2.8338,
         "weight": "Komplex",
         "caption": "",
         "tags": [
             "Card Game",
             "Hand Management",
             "Set Collection",
-            "Solo / Solitaire Game",
             "Fantasy",
+            "Solo / Solitaire Game",
             "Open Drafting"
         ],
         "links": [
@@ -165,11 +165,6 @@
             },
             {
                 "type": "boardgamefamily",
-                "id": 77906,
-                "value": "Category: DIZED Tutorial"
-            },
-            {
-                "type": "boardgamefamily",
                 "id": 5607,
                 "value": "Components: 3-Dimensional (3D)"
             },
@@ -187,6 +182,11 @@
                 "type": "boardgamefamily",
                 "id": 8374,
                 "value": "Crowdfunding: Kickstarter"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 104952,
+                "value": "Digital Implementations: Apple App Store"
             },
             {
                 "type": "boardgamefamily",
@@ -222,6 +222,11 @@
                 "type": "boardgamefamily",
                 "id": 27646,
                 "value": "Mechanism: Tableau Building"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 77906,
+                "value": "Misc: DIZED Tutorial"
             },
             {
                 "type": "boardgamefamily",
@@ -262,6 +267,11 @@
                 "type": "boardgameexpansion",
                 "id": 289057,
                 "value": "Everdell: Bellfaire"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 476125,
+                "value": "Everdell: Card Expansion - Legends, Extra! Extra! & Rugwort"
             },
             {
                 "type": "boardgameexpansion",
@@ -590,6 +600,11 @@
             },
             {
                 "type": "boardgameimplementation",
+                "id": 468395,
+                "value": "Everdell Journeys"
+            },
+            {
+                "type": "boardgameimplementation",
                 "id": 436821,
                 "value": "Everdell Silverfrost"
             },
@@ -632,6 +647,11 @@
                 "type": "boardgamepublisher",
                 "id": 3475,
                 "value": "Arclight Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 157,
+                "value": "asmodee"
             },
             {
                 "type": "boardgamepublisher",
@@ -749,7 +769,7 @@
     {
         "id": 366013,
         "externalSrc": "https://boardgamegeek.com/boardgame/366013/",
-        "rating": 7.7946,
+        "rating": 7.79474,
         "name": "Heat: Pedal to the Metal",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png",
@@ -764,7 +784,7 @@
             6
         ],
         "bestPlayers": "5-6",
-        "weight_raw": 2.2021,
+        "weight_raw": 2.202,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -1005,9 +1025,502 @@
         }
     },
     {
+        "id": 365717,
+        "externalSrc": "https://boardgamegeek.com/boardgame/365717/",
+        "rating": 7.78681,
+        "name": "Clank!: Catacombs",
+        "year": 2022,
+        "backgroundImage": "https://cf.geekdo-images.com/cCLn9Mvb7jRSaZzHeUXhoQ__original/img/NK4hsA9nc-kdI07hR0Nc23dL_bk=/0x0/filters:format(jpeg)/pic6937913.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/cCLn9Mvb7jRSaZzHeUXhoQ__small/img/B8BFQLR2Po3ekI_7XSG1kR9oil0=/fit-in/200x150/filters:strip_icc()/pic6937913.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "bestPlayers_raw": [
+            "3"
+        ],
+        "bestPlayers_numeric": [
+            3
+        ],
+        "bestPlayers": "3",
+        "weight_raw": 2.491,
+        "weight": "Mittel",
+        "caption": "",
+        "tags": [
+            "Fantasy",
+            "Push Your Luck",
+            "Open Drafting",
+            "End Game Bonuses",
+            "Variable Set-up",
+            "Player Elimination"
+        ],
+        "links": [
+            {
+                "type": "boardgamecategory",
+                "id": 1022,
+                "value": "Adventure"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1020,
+                "value": "Exploration"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1010,
+                "value": "Fantasy"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2664,
+                "value": "Deck, Bag, and Pool Building"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2901,
+                "value": "Delayed Purchase"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2875,
+                "value": "End Game Bonuses"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2959,
+                "value": "Map Addition"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2961,
+                "value": "Map Deformation"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2011,
+                "value": "Modular Board"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2947,
+                "value": "Movement Points"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2041,
+                "value": "Open Drafting"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2685,
+                "value": "Player Elimination"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2078,
+                "value": "Point to Point Movement"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2661,
+                "value": "Push Your Luck"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2002,
+                "value": "Tile Placement"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2897,
+                "value": "Variable Set-up"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 7178,
+                "value": "Animals: Apes / Monkeys"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 7334,
+                "value": "Animals: Cats"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 59218,
+                "value": "Category: Dungeon Crawler"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 7005,
+                "value": "Creatures: Dragons"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 22861,
+                "value": "Creatures: Goblins"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 5615,
+                "value": "Creatures: Monsters"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 112176,
+                "value": "Digital Implementations: Dire Wolf Game Room"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 48927,
+                "value": "Game: Clank!"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 59705,
+                "value": "Misc: LongPack Games"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 78198,
+                "value": "Misc: Watch It Played How To Videos"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 65851,
+                "value": "Players: Games with expansions that add solo play"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 113768,
+                "value": "Players: Games with expansions that change player count"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 315328,
+                "value": "Clank! Adventuring Party: Lightning Reflexes Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 438533,
+                "value": "Clank! Legacy: Acquisitions Incorporated - Promo Pack"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 289559,
+                "value": "Clank! Legacy: Acquisitions Incorporated - The \"C\" Team Pack"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 275532,
+                "value": "Clank! Legacy: Acquisitions Incorporated - Upper Management Pack"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 286594,
+                "value": "Clank! Legacy: Bureaucratic Tome Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 290036,
+                "value": "Clank! Legacy: Fabulous Display Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 290075,
+                "value": "Clank! Legacy: Mister Whiskers Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 290071,
+                "value": "Clank! Legacy: Shadow Chancellor Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 308918,
+                "value": "Clank!: Adventuring Party"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 214309,
+                "value": "Clank!: Brawn vs. Boots Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 399093,
+                "value": "Clank!: Bunny Mafia Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 405822,
+                "value": "Clank!: Catacombs - Breakout! Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 369806,
+                "value": "Clank!: Catacombs - Dusty Map Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 422869,
+                "value": "Clank!: Catacombs - Lairs and Lost Chambers"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 428358,
+                "value": "Clank!: Catacombs - Mister Wizkers Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 447586,
+                "value": "Clank!: Catacombs - Underworld"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 458394,
+                "value": "Clank!: Catacombs - Underworld: Promo Pack"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 206565,
+                "value": "Clank!: Dire Wolf Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 297933,
+                "value": "Clank!: Door to Before Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 233895,
+                "value": "Clank!: Enchanted Dice Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 257694,
+                "value": "Clank!: Expedition Leader Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 233019,
+                "value": "Clank!: Friendly Watcher Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 233950,
+                "value": "Clank!: Magic Spectacles Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 286274,
+                "value": "Clank!: Opal Apestone Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 432738,
+                "value": "Clank!: Patient Hero Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 382468,
+                "value": "Clank!: Promo Pack 1"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 234742,
+                "value": "Clank!: Siren Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 223119,
+                "value": "Clank!: Snack Table Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 329967,
+                "value": "Clank!: Tower of Babble Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 460386,
+                "value": "Clank!: Traveler's Hat"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 264712,
+                "value": "Clank!: Wand of Time Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 234131,
+                "value": "Clank!: Wishing Wall Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 368867,
+                "value": "Dire Wolf Game Room"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 409326,
+                "value": "Brzdęk!: Katakumby - reDrewno Insert"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 448611,
+                "value": "Clank!: Catacombs - Board Bento Organizer"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 445496,
+                "value": "Clank!: Catacombs - Folded Space Insert"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 435094,
+                "value": "Clank!: Dual layered Health Track"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 428703,
+                "value": "Clank!: Metallic Coins"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 428705,
+                "value": "Clank!: Metallic Cubes - Part 2!"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 428706,
+                "value": "Clank!: Metallic Cubes!"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 201808,
+                "value": "Clank!: A Deck-Building Adventure",
+                "inbound": true
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 92370,
+                "value": "Paul Dennen"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 119957,
+                "value": "Clay Brooks"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 118806,
+                "value": "Anika Burrell"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 115889,
+                "value": "Derek Herring"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 82020,
+                "value": "Rastislav Le"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 73773,
+                "value": "Raul Ramos"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 31001,
+                "value": "Nate Storm"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 59074,
+                "value": "Dan Taylor (II)"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 33706,
+                "value": "Dire Wolf"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 3475,
+                "value": "Arclight Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 9068,
+                "value": "Broadway Toys LTD"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 2366,
+                "value": "Devir"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 15605,
+                "value": "Galápagos Jogos"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 58739,
+                "value": "Geekach LLC"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 8291,
+                "value": "Korea Boardgames"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 27470,
+                "value": "Lucrum Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 22651,
+                "value": "Origames"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 36563,
+                "value": "Reflexshop"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 21053,
+                "value": "Rexhry"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 24844,
+                "value": "Schwerkraft-Verlag"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 55404,
+                "value": "Tabletop KZ"
+            }
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-08-21 08:42:19"
+        }
+    },
+    {
         "id": 240980,
         "externalSrc": "https://boardgamegeek.com/boardgame/240980/",
-        "rating": 7.7185,
+        "rating": 7.72027,
         "name": "Blood on the Clocktower",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__original/img/e7izEwSmnBPiErsIF6hlWbgybBE=/0x0/filters:format(jpeg)/pic7009391.jpg",
@@ -1024,14 +1537,14 @@
             12
         ],
         "bestPlayers": "9-12",
-        "weight_raw": 3.0362,
+        "weight_raw": 3.0217,
         "weight": "Komplex",
         "caption": "",
         "tags": [
             "Variable Player Powers",
             "Deduction",
-            "Party Game",
             "Bluffing",
+            "Party Game",
             "Hidden Roles",
             "Team-Based Game"
         ],
@@ -1327,7 +1840,7 @@
     {
         "id": 413246,
         "externalSrc": "https://boardgamegeek.com/boardgame/413246/",
-        "rating": 7.62314,
+        "rating": 7.64584,
         "name": "Bomb Busters",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__original/img/2uApg8IOYjNVSzbUIwJUa-Z8eL8=/0x0/filters:format(png)/pic8303080.png",
@@ -1341,7 +1854,7 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 2.0056,
+        "weight_raw": 2.0026,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -1417,6 +1930,11 @@
                 "type": "boardgameexpansion",
                 "id": 444110,
                 "value": "Bomb Busters: La cité de la peur Mission"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 472930,
+                "value": "Bomb Busters: The Pro Kit"
             },
             {
                 "type": "boardgameexpansion",
@@ -1545,7 +2063,7 @@
     {
         "id": 284083,
         "externalSrc": "https://boardgamegeek.com/boardgame/284083/",
-        "rating": 7.61477,
+        "rating": 7.61198,
         "name": "The Crew: The Quest for Planet Nine",
         "year": 2019,
         "backgroundImage": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__original/img/Q-ZkgnuBu9OTBr7J3qnqPjqamAE=/0x0/filters:format(jpeg)/pic5687013.jpg",
@@ -1559,7 +2077,7 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 1.9681,
+        "weight_raw": 1.9654,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -1690,6 +2208,11 @@
                 "type": "boardgameimplementation",
                 "id": 324856,
                 "value": "The Crew: Mission Deep Sea"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 467257,
+                "value": "The Crew: Mission Geldanlage"
             },
             {
                 "type": "boardgamedesigner",
@@ -1842,7 +2365,7 @@
     {
         "id": 121921,
         "externalSrc": "https://boardgamegeek.com/boardgame/121921/",
-        "rating": 7.54461,
+        "rating": 7.54273,
         "name": "Robinson Crusoe: Adventures on the Cursed Island",
         "year": 2012,
         "backgroundImage": "https://cf.geekdo-images.com/zvHPgrNb9mgkHQk-BwVemA__original/img/OUdMMPwYXTd5JIBG9skImPqa8bg=/0x0/filters:format(jpeg)/pic6026697.jpg",
@@ -1857,7 +2380,7 @@
             2
         ],
         "bestPlayers": "1-2",
-        "weight_raw": 3.8273,
+        "weight_raw": 3.8274,
         "weight": "Schwer",
         "caption": "",
         "tags": [
@@ -1981,11 +2504,6 @@
             },
             {
                 "type": "boardgamefamily",
-                "id": 77906,
-                "value": "Category: DIZED Tutorial"
-            },
-            {
-                "type": "boardgamefamily",
                 "id": 65328,
                 "value": "Components: Dice with Icons"
             },
@@ -2008,6 +2526,11 @@
                 "type": "boardgamefamily",
                 "id": 79690,
                 "value": "Islands: Fictional"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 77906,
+                "value": "Misc: DIZED Tutorial"
             },
             {
                 "type": "boardgamefamily",
@@ -2675,7 +3198,7 @@
     {
         "id": 178900,
         "externalSrc": "https://boardgamegeek.com/boardgame/178900/",
-        "rating": 7.42806,
+        "rating": 7.427,
         "name": "Codenames",
         "year": 2015,
         "backgroundImage": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__original/img/Id-jjIer_61ZbvI2_RVRCeBZFY4=/0x0/filters:format(jpeg)/pic8907965.jpg",
@@ -2691,7 +3214,7 @@
             8
         ],
         "bestPlayers": "6, 8",
-        "weight_raw": 1.2546,
+        "weight_raw": 1.2535,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -2760,6 +3283,11 @@
             },
             {
                 "type": "boardgamefamily",
+                "id": 118771,
+                "value": "Components: Oversized Editions"
+            },
+            {
+                "type": "boardgamefamily",
                 "id": 75031,
                 "value": "Components: Sand Timers"
             },
@@ -2792,6 +3320,11 @@
                 "type": "boardgamefamily",
                 "id": 78198,
                 "value": "Misc: Watch It Played How To Videos"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 118687,
+                "value": "Versions & Editions: Bigger Versions of Regular-Size Games"
             },
             {
                 "type": "boardgamefamily",
@@ -3334,7 +3867,7 @@
     {
         "id": 416851,
         "externalSrc": "https://boardgamegeek.com/boardgame/416851/",
-        "rating": 7.33323,
+        "rating": 7.35178,
         "name": "Castle Combo",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU=/0x0/filters:format(png)/pic8250341.png",
@@ -3348,7 +3881,7 @@
             2
         ],
         "bestPlayers": "2",
-        "weight_raw": 1.7361,
+        "weight_raw": 1.7395,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -3356,8 +3889,8 @@
             "Set Collection",
             "Open Drafting",
             "End Game Bonuses",
-            "Multi-Use Cards",
-            "Tile Placement"
+            "Tile Placement",
+            "Multi-Use Cards"
         ],
         "links": [
             {
@@ -3559,9 +4092,311 @@
         }
     },
     {
+        "id": 333255,
+        "externalSrc": "https://boardgamegeek.com/boardgame/333255/",
+        "rating": 7.14022,
+        "name": "Keep the Heroes Out!",
+        "year": 2022,
+        "backgroundImage": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__original/img/qtWs6Wg0a241k2D1TWWbesVwu-s=/0x0/filters:format(jpeg)/pic6985339.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__small/img/3et-UTpNaMhKlHPgnj89mkTkGkU=/fit-in/200x150/filters:strip_icc()/pic6985339.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "bestPlayers_raw": [
+            "2"
+        ],
+        "bestPlayers_numeric": [
+            2
+        ],
+        "bestPlayers": "2",
+        "weight_raw": 2.5044,
+        "weight": "Komplex",
+        "caption": "",
+        "tags": [
+            "Variable Player Powers",
+            "Fantasy",
+            "Solo / Solitaire Game",
+            "Cooperative Game",
+            "Variable Set-up",
+            "Fighting"
+        ],
+        "links": [
+            {
+                "type": "boardgamecategory",
+                "id": 1010,
+                "value": "Fantasy"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1046,
+                "value": "Fighting"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2839,
+                "value": "Action Retrieval"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2046,
+                "value": "Area Movement"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2023,
+                "value": "Cooperative Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2664,
+                "value": "Deck, Bag, and Pool Building"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2011,
+                "value": "Modular Board"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2822,
+                "value": "Scenario / Mission / Campaign Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2819,
+                "value": "Solo / Solitaire Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2015,
+                "value": "Variable Player Powers"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2897,
+                "value": "Variable Set-up"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 39912,
+                "value": "Category: Tower Defense"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 79006,
+                "value": "Components:  Meeples"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 101433,
+                "value": "Components: Meeples (Monster)"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 8374,
+                "value": "Crowdfunding: Kickstarter"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 22135,
+                "value": "Crowdfunding: Spieleschmiede"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 28659,
+                "value": "Crowdfunding: Wspieram"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 77349,
+                "value": "Digital Implementations: Steam"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 70948,
+                "value": "Digital Implementations: Tabletopia"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 115713,
+                "value": "Game:  Keep the Heroes Out!"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 67861,
+                "value": "Theme: Villainy"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 454171,
+                "value": "Keep the Heroes Out: Year of the Snake Pack"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 394150,
+                "value": "Keep the Heroes Out!: Boss Battles"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 405992,
+                "value": "Keep the Heroes Out!: Dice Tower 2023 Promo Cards"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 463523,
+                "value": "Keep the Heroes Out!: Dungeons Below"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 351550,
+                "value": "Keep the Heroes Out!: Guild Master's Revenge Expansion"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 433316,
+                "value": "Keep the Heroes Out!: Playing with Fire"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 351549,
+                "value": "Keep the Heroes Out!: The Great Dreamer Expansion"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 444232,
+                "value": "Keep the Heroes Out!: The Quijote Promo Pack"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 404357,
+                "value": "Keep the Heroes Out!: The Sparkling Guardian Expansion"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 444230,
+                "value": "Keep the Heroes Out!: Very Jolly Pack of Promos"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 432729,
+                "value": "Keep the Heroes Out!: Year of the Dragon Pack"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 476823,
+                "value": "Keep the Heroes Out!: Year of the Horse Pack"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 426134,
+                "value": "Keep the Heroes Out!: Cozy Dungeon"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 375424,
+                "value": "Keep the Heroes Out!: Deluxe Tokens"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 456426,
+                "value": "Keep the Heroes Out!: DeluxyGames Upgrade Kit"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 399808,
+                "value": "Keep the Heroes Out!: Polandgames Insert"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 433312,
+                "value": "Keep the Heroes Out!: Underground Market"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 74125,
+                "value": "Luís Brueh"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 74125,
+                "value": "Luís Brueh"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 51114,
+                "value": "Brueh Games Inc."
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 50624,
+                "value": "Board Zeppelin"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 11043,
+                "value": "Conclave Editora"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 40510,
+                "value": "Delirium Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 48742,
+                "value": "Dice&Bones"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 50643,
+                "value": "Fruhling-Honpo"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 7992,
+                "value": "MINDOK"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 42204,
+                "value": "Mirakulus"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 46431,
+                "value": "MTS Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 43864,
+                "value": "Treetato Studio"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 27947,
+                "value": "Vagabund"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 44209,
+                "value": "Ігромаг"
+            }
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:42:29"
+        }
+    },
+    {
         "id": 160477,
         "externalSrc": "https://boardgamegeek.com/boardgame/160477/",
-        "rating": 7.13729,
+        "rating": 7.13579,
         "name": "Onitama",
         "year": 2014,
         "backgroundImage": "https://cf.geekdo-images.com/GJKuOCy5HGAYgVH_Rei5mA__original/img/oRsIxp72iv58128KFdqvjG6Gz64=/0x0/filters:format(jpeg)/pic7070194.jpg",
@@ -3575,7 +4410,7 @@
             2
         ],
         "bestPlayers": "2",
-        "weight_raw": 1.659,
+        "weight_raw": 1.656,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -3743,6 +4578,11 @@
                 "value": "Onitama: Promo Foil Card Set"
             },
             {
+                "type": "boardgamecompilation",
+                "id": 474496,
+                "value": "Onitama: Big Box"
+            },
+            {
                 "type": "boardgamedesigner",
                 "id": 69723,
                 "value": "Shimpei Sato"
@@ -3821,306 +4661,9 @@
         }
     },
     {
-        "id": 333255,
-        "externalSrc": "https://boardgamegeek.com/boardgame/333255/",
-        "rating": 7.13437,
-        "name": "Keep the Heroes Out!",
-        "year": 2022,
-        "backgroundImage": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__original/img/qtWs6Wg0a241k2D1TWWbesVwu-s=/0x0/filters:format(jpeg)/pic6985339.jpg",
-        "thumbnail": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__small/img/3et-UTpNaMhKlHPgnj89mkTkGkU=/fit-in/200x150/filters:strip_icc()/pic6985339.jpg",
-        "minPlayers": 1,
-        "maxPlayers": 4,
-        "bestPlayers_raw": [
-            "2"
-        ],
-        "bestPlayers_numeric": [
-            2
-        ],
-        "bestPlayers": "2",
-        "weight_raw": 2.5045,
-        "weight": "Komplex",
-        "caption": "",
-        "tags": [
-            "Variable Player Powers",
-            "Solo / Solitaire Game",
-            "Fantasy",
-            "Cooperative Game",
-            "Fighting",
-            "Variable Set-up"
-        ],
-        "links": [
-            {
-                "type": "boardgamecategory",
-                "id": 1010,
-                "value": "Fantasy"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1046,
-                "value": "Fighting"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2839,
-                "value": "Action Retrieval"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2046,
-                "value": "Area Movement"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2023,
-                "value": "Cooperative Game"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2664,
-                "value": "Deck, Bag, and Pool Building"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2011,
-                "value": "Modular Board"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2822,
-                "value": "Scenario / Mission / Campaign Game"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2819,
-                "value": "Solo / Solitaire Game"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2015,
-                "value": "Variable Player Powers"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2897,
-                "value": "Variable Set-up"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 39912,
-                "value": "Category: Tower Defense"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 79006,
-                "value": "Components:  Meeples"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 101433,
-                "value": "Components: Meeples (Monster)"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 8374,
-                "value": "Crowdfunding: Kickstarter"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 22135,
-                "value": "Crowdfunding: Spieleschmiede"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 28659,
-                "value": "Crowdfunding: Wspieram"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 77349,
-                "value": "Digital Implementations: Steam"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 70948,
-                "value": "Digital Implementations: Tabletopia"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 115713,
-                "value": "Game:  Keep the Heroes Out!"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 67861,
-                "value": "Theme: Villainy"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 454171,
-                "value": "Keep the Heroes Out: Year of the Snake Pack"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 394150,
-                "value": "Keep the Heroes Out!: Boss Battles"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 405992,
-                "value": "Keep the Heroes Out!: Dice Tower 2023 Promo Cards"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 463523,
-                "value": "Keep the Heroes Out!: Dungeons Below"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 351550,
-                "value": "Keep the Heroes Out!: Guild Master's Revenge Expansion"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 433316,
-                "value": "Keep the Heroes Out!: Playing with Fire"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 351549,
-                "value": "Keep the Heroes Out!: The Great Dreamer Expansion"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 444232,
-                "value": "Keep the Heroes Out!: The Quijote Promo Pack"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 404357,
-                "value": "Keep the Heroes Out!: The Sparkling Guardian Expansion"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 444230,
-                "value": "Keep the Heroes Out!: Very Jolly Pack of Promos"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 432729,
-                "value": "Keep the Heroes Out!: Year of the Dragon Pack"
-            },
-            {
-                "type": "boardgameaccessory",
-                "id": 426134,
-                "value": "Keep the Heroes Out!: Cozy Dungeon"
-            },
-            {
-                "type": "boardgameaccessory",
-                "id": 375424,
-                "value": "Keep the Heroes Out!: Deluxe Tokens"
-            },
-            {
-                "type": "boardgameaccessory",
-                "id": 456426,
-                "value": "Keep the Heroes Out!: DeluxyGames Upgrade Kit"
-            },
-            {
-                "type": "boardgameaccessory",
-                "id": 399808,
-                "value": "Keep the Heroes Out!: Polandgames Insert"
-            },
-            {
-                "type": "boardgameaccessory",
-                "id": 433312,
-                "value": "Keep the Heroes Out!: Underground Market"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 74125,
-                "value": "Luís Brueh"
-            },
-            {
-                "type": "boardgameartist",
-                "id": 74125,
-                "value": "Luís Brueh"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 51114,
-                "value": "Brueh Games Inc."
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 50624,
-                "value": "Board Zeppelin"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 11043,
-                "value": "Conclave Editora"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 40510,
-                "value": "Delirium Games"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 48742,
-                "value": "Dice&Bones"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 50643,
-                "value": "Fruhling-Honpo"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 7992,
-                "value": "MINDOK"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 42204,
-                "value": "Mirakulus"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 46431,
-                "value": "MTS Games"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 43864,
-                "value": "Treetato Studio"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 27947,
-                "value": "Vagabund"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 44209,
-                "value": "Ігромаг"
-            }
-        ],
-        "status": {
-            "own": 1,
-            "prevowned": 0,
-            "fortrade": 0,
-            "want": 0,
-            "wanttoplay": 0,
-            "wanttobuy": 0,
-            "wishlist": 0,
-            "preordered": 0,
-            "lastmodified": "2025-11-25 12:42:29"
-        }
-    },
-    {
         "id": 245655,
         "externalSrc": "https://boardgamegeek.com/boardgame/245655/",
-        "rating": 7.09394,
+        "rating": 7.0925,
         "name": "The King's Dilemma",
         "year": 2019,
         "backgroundImage": "https://cf.geekdo-images.com/FJlTdSMkK5hMNtCympJFmg__original/img/pr_jKPa74JjBBm30Mo9Uj9Jq1-w=/0x0/filters:format(jpeg)/pic5429837.jpg",
@@ -4134,7 +4677,7 @@
             5
         ],
         "bestPlayers": "5",
-        "weight_raw": 2.2557,
+        "weight_raw": 2.264,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -4230,6 +4773,11 @@
                 "type": "boardgameexpansion",
                 "id": 293727,
                 "value": "The King's Dilemma: Prologue Demo"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 473296,
+                "value": "The King's Dilemma: Recharge Pack"
             },
             {
                 "type": "boardgameaccessory",
@@ -4352,7 +4900,7 @@
     {
         "id": 345584,
         "externalSrc": "https://boardgamegeek.com/boardgame/345584/",
-        "rating": 7.06981,
+        "rating": 7.06772,
         "name": "Mindbug: First Contact",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/b8gl6w-BqUVgBURdyFcFZg__original/img/chGo_gyJr418yMPchcWhLoW5AjQ=/0x0/filters:format(png)/pic7646386.png",
@@ -4366,7 +4914,7 @@
             2
         ],
         "bestPlayers": "2",
-        "weight_raw": 1.9298,
+        "weight_raw": 1.9345,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -4442,6 +4990,11 @@
                 "type": "boardgamefamily",
                 "id": 61979,
                 "value": "Players: Two-Player Only Games"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 475357,
+                "value": "Mindbug: Add-On Pack 2024-2025"
             },
             {
                 "type": "boardgameexpansion",
@@ -4555,11 +5108,6 @@
             },
             {
                 "type": "boardgameintegration",
-                "id": 449353,
-                "value": "Mindbug x King of Tokyo"
-            },
-            {
-                "type": "boardgameintegration",
                 "id": 419645,
                 "value": "Mindbug: Battlefruit Galaxy"
             },
@@ -4587,6 +5135,11 @@
                 "type": "boardgameintegration",
                 "id": 470135,
                 "value": "Mindbug: Dinopunk Ice"
+            },
+            {
+                "type": "boardgameintegration",
+                "id": 449353,
+                "value": "Mindbug: King of Tokyo"
             },
             {
                 "type": "boardgamedesigner",
@@ -4694,7 +5247,7 @@
     {
         "id": 334986,
         "externalSrc": "https://boardgamegeek.com/boardgame/334986/",
-        "rating": 7.05658,
+        "rating": 7.06748,
         "name": "Daybreak",
         "year": 2023,
         "backgroundImage": "https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__original/img/6umYavtw4Iw41gTtBZhNS7LrKIA=/0x0/filters:format(png)/pic7068528.png",
@@ -4708,7 +5261,7 @@
             2
         ],
         "bestPlayers": "2",
-        "weight_raw": 2.8667,
+        "weight_raw": 2.8721,
         "weight": "Komplex",
         "caption": "",
         "tags": [
@@ -4956,7 +5509,7 @@
     {
         "id": 356033,
         "externalSrc": "https://boardgamegeek.com/boardgame/356033/",
-        "rating": 6.98961,
+        "rating": 6.98877,
         "name": "Libertalia: Winds of Galecrest",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/6e-V_Xb2IsAsMNXU18Fi6A__original/img/gLDo-RR_9RvU_Hrs9DnHWy_TWpk=/0x0/filters:format(jpeg)/pic6669033.jpg",
@@ -4972,7 +5525,7 @@
             6
         ],
         "bestPlayers": "4-6",
-        "weight_raw": 2.1896,
+        "weight_raw": 2.186,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -5036,11 +5589,6 @@
             },
             {
                 "type": "boardgamefamily",
-                "id": 77906,
-                "value": "Category: DIZED Tutorial"
-            },
-            {
-                "type": "boardgamefamily",
                 "id": 73596,
                 "value": "Digital Implementations: TableTop Simulator Mod (TTS)"
             },
@@ -5048,6 +5596,16 @@
                 "type": "boardgamefamily",
                 "id": 70948,
                 "value": "Digital Implementations: Tabletopia"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 77906,
+                "value": "Misc: DIZED Tutorial"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 78680,
+                "value": "Misc: Made by Panda"
             },
             {
                 "type": "boardgamefamily",
@@ -5189,13 +5747,225 @@
         }
     },
     {
+        "id": 307002,
+        "externalSrc": "https://boardgamegeek.com/boardgame/307002/",
+        "rating": 6.96237,
+        "name": "Regicide",
+        "year": 2020,
+        "backgroundImage": "https://cf.geekdo-images.com/C9U2E51tkzLljewFEGQ74g__original/img/Q-a5lAydzhwNLLhy8n326tlxuYE=/0x0/filters:format(jpeg)/pic5837347.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/C9U2E51tkzLljewFEGQ74g__small/img/4KV3wj3NiJDgGTh3zmW0_8Ph3Zc=/fit-in/200x150/filters:strip_icc()/pic5837347.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "bestPlayers_raw": [
+            "2"
+        ],
+        "bestPlayers_numeric": [
+            2
+        ],
+        "bestPlayers": "2",
+        "weight_raw": 1.969,
+        "weight": "Mittel",
+        "caption": "",
+        "tags": [
+            "Card Game",
+            "Hand Management",
+            "Fantasy",
+            "Solo / Solitaire Game",
+            "Cooperative Game",
+            "Variable Set-up"
+        ],
+        "links": [
+            {
+                "type": "boardgamecategory",
+                "id": 1002,
+                "value": "Card Game"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1010,
+                "value": "Fantasy"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1046,
+                "value": "Fighting"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2857,
+                "value": "Card Play Conflict Resolution"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2893,
+                "value": "Communication Limits"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2023,
+                "value": "Cooperative Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2040,
+                "value": "Hand Management"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2819,
+                "value": "Solo / Solitaire Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2884,
+                "value": "Sudden Death Ending"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2897,
+                "value": "Variable Set-up"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 98,
+                "value": "Components: Traditional Playing Cards"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 47202,
+                "value": "Contests: 54-Card Game Design"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 8374,
+                "value": "Crowdfunding: Kickstarter"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 70360,
+                "value": "Digital Implementations: Board Game Arena"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 78432,
+                "value": "Digital Implementations: Google Play"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 70948,
+                "value": "Digital Implementations: Tabletopia"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 59705,
+                "value": "Misc: LongPack Games"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 81054,
+                "value": "Series: Pocket Games (Devir)"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 116972,
+                "value": "Series: Regicide"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 65774,
+                "value": "Theme: Anthropomorphic Animals"
+            },
+            {
+                "type": "boardgamecompilation",
+                "id": 460927,
+                "value": "Regicide Inferno"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 412963,
+                "value": "Regicide Legacy"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 460930,
+                "value": "Regicide: Crown Duels"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 350604,
+                "value": "Regidice"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 126153,
+                "value": "Paul Abrahams"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 126151,
+                "value": "Luke Badger"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 126152,
+                "value": "Andy Richdale"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 130909,
+                "value": "Sketchgoblin"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 45406,
+                "value": "Badgers from Mars"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 25074,
+                "value": "BoardM Factory"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 2366,
+                "value": "Devir"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 50675,
+                "value": "Gameplay Publishing ApS"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 1391,
+                "value": "Hobby Japan"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 8923,
+                "value": "IELLO"
+            }
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:45:02"
+        }
+    },
+    {
         "id": 12942,
         "externalSrc": "https://boardgamegeek.com/boardgame/12942/",
-        "rating": 6.95348,
+        "rating": 6.95439,
         "name": "No Thanks!",
         "year": 2004,
-        "backgroundImage": "https://cf.geekdo-images.com/2P4-gR4xYLnfZtljfc2dRA__original/img/nfnXCkBIcoFLJBpiJLWwBcN1saU=/0x0/filters:format(jpeg)/pic2602161.jpg",
-        "thumbnail": "https://cf.geekdo-images.com/2P4-gR4xYLnfZtljfc2dRA__small/img/zQE9bdhYVPJbnbO7AOnatF9l5Yw=/fit-in/200x150/filters:strip_icc()/pic2602161.jpg",
+        "backgroundImage": "https://cf.geekdo-images.com/JSAs8aMopjf8P9JXwTMV7w__original/img/pm0ioQ1vNabJExMgcXwB2oMIalY=/0x0/filters:format(png)/pic9005058.png",
+        "thumbnail": "https://cf.geekdo-images.com/JSAs8aMopjf8P9JXwTMV7w__small/img/j7oqDPsahGkdKQMXbKjYMZ0jmwM=/fit-in/200x150/filters:strip_icc()/pic9005058.png",
         "minPlayers": 3,
         "maxPlayers": 7,
         "bestPlayers_raw": [
@@ -5206,7 +5976,7 @@
             5
         ],
         "bestPlayers": "4-5",
-        "weight_raw": 1.1297,
+        "weight_raw": 1.1292,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -5499,7 +6269,7 @@
     {
         "id": 158899,
         "externalSrc": "https://boardgamegeek.com/boardgame/158899/",
-        "rating": 6.95264,
+        "rating": 6.953,
         "name": "Colt Express",
         "year": 2014,
         "backgroundImage": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__original/img/okv8rhQupsrXsEJsovQ_BJV5hKA=/0x0/filters:format(jpeg)/pic2869710.jpg",
@@ -5514,22 +6284,27 @@
             6
         ],
         "bestPlayers": "5-6",
-        "weight_raw": 1.8347,
+        "weight_raw": 1.8344,
         "weight": "Mittel",
         "caption": "",
         "tags": [
             "Hand Management",
             "Take That",
             "Variable Player Powers",
+            "Bluffing",
             "Fighting",
-            "Action Queue",
-            "Memory"
+            "Action Queue"
         ],
         "links": [
             {
                 "type": "boardgamecategory",
                 "id": 1055,
                 "value": "American West"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1023,
+                "value": "Bluffing"
             },
             {
                 "type": "boardgamecategory",
@@ -5583,6 +6358,11 @@
             },
             {
                 "type": "boardgamefamily",
+                "id": 118771,
+                "value": "Components: Oversized Editions"
+            },
+            {
+                "type": "boardgamefamily",
                 "id": 68769,
                 "value": "Components: Wooden pieces & boards"
             },
@@ -5595,6 +6375,11 @@
                 "type": "boardgamefamily",
                 "id": 51838,
                 "value": "Game: Colt Express"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 65851,
+                "value": "Players: Games with expansions that add solo play"
             },
             {
                 "type": "boardgamefamily",
@@ -5613,8 +6398,8 @@
             },
             {
                 "type": "boardgamefamily",
-                "id": 71023,
-                "value": "Theme: Teaching Programming"
+                "id": 118687,
+                "value": "Versions & Editions: Bigger Versions of Regular-Size Games"
             },
             {
                 "type": "boardgameexpansion",
@@ -5783,6 +6568,11 @@
             },
             {
                 "type": "boardgameaccessory",
+                "id": 476814,
+                "value": "Colt Express: Upgrade Kit"
+            },
+            {
+                "type": "boardgameaccessory",
                 "id": 186792,
                 "value": "Colt Express: Wooden Game Pieces"
             },
@@ -5800,6 +6590,11 @@
                 "type": "boardgamecompilation",
                 "id": 458984,
                 "value": "Кольт Экспресс: Юбилейное издание (Colt Express: 10th Anniversary)"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 462063,
+                "value": "Colt Express Card Game"
             },
             {
                 "type": "boardgameimplementation",
@@ -5950,221 +6745,9 @@
         }
     },
     {
-        "id": 307002,
-        "externalSrc": "https://boardgamegeek.com/boardgame/307002/",
-        "rating": 6.94959,
-        "name": "Regicide",
-        "year": 2020,
-        "backgroundImage": "https://cf.geekdo-images.com/C9U2E51tkzLljewFEGQ74g__original/img/Q-a5lAydzhwNLLhy8n326tlxuYE=/0x0/filters:format(jpeg)/pic5837347.jpg",
-        "thumbnail": "https://cf.geekdo-images.com/C9U2E51tkzLljewFEGQ74g__small/img/4KV3wj3NiJDgGTh3zmW0_8Ph3Zc=/fit-in/200x150/filters:strip_icc()/pic5837347.jpg",
-        "minPlayers": 1,
-        "maxPlayers": 4,
-        "bestPlayers_raw": [
-            "2"
-        ],
-        "bestPlayers_numeric": [
-            2
-        ],
-        "bestPlayers": "2",
-        "weight_raw": 1.9683,
-        "weight": "Mittel",
-        "caption": "",
-        "tags": [
-            "Card Game",
-            "Hand Management",
-            "Solo / Solitaire Game",
-            "Fantasy",
-            "Cooperative Game",
-            "Fighting"
-        ],
-        "links": [
-            {
-                "type": "boardgamecategory",
-                "id": 1002,
-                "value": "Card Game"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1010,
-                "value": "Fantasy"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1046,
-                "value": "Fighting"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2857,
-                "value": "Card Play Conflict Resolution"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2893,
-                "value": "Communication Limits"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2023,
-                "value": "Cooperative Game"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2040,
-                "value": "Hand Management"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2819,
-                "value": "Solo / Solitaire Game"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2884,
-                "value": "Sudden Death Ending"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2897,
-                "value": "Variable Set-up"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 98,
-                "value": "Components: Traditional Playing Cards"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 47202,
-                "value": "Contests: 54-Card Game Design"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 8374,
-                "value": "Crowdfunding: Kickstarter"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 70360,
-                "value": "Digital Implementations: Board Game Arena"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 78432,
-                "value": "Digital Implementations: Google Play"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 70948,
-                "value": "Digital Implementations: Tabletopia"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 59705,
-                "value": "Misc: LongPack Games"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 81054,
-                "value": "Series: Pocket Games (Devir)"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 116972,
-                "value": "Series: Regicide"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 65774,
-                "value": "Theme: Anthropomorphic Animals"
-            },
-            {
-                "type": "boardgamecompilation",
-                "id": 460927,
-                "value": "Regicide Inferno"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 412963,
-                "value": "Regicide Legacy"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 460930,
-                "value": "Regicide: Crown Duels"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 350604,
-                "value": "Regidice"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 126153,
-                "value": "Paul Abrahams"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 126151,
-                "value": "Luke Badger"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 126152,
-                "value": "Andy Richdale"
-            },
-            {
-                "type": "boardgameartist",
-                "id": 130909,
-                "value": "Sketchgoblin"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 45406,
-                "value": "Badgers from Mars"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 25074,
-                "value": "BoardM Factory"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 2366,
-                "value": "Devir"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 50675,
-                "value": "Gameplay Publishing ApS"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 1391,
-                "value": "Hobby Japan"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 8923,
-                "value": "IELLO"
-            }
-        ],
-        "status": {
-            "own": 1,
-            "prevowned": 0,
-            "fortrade": 0,
-            "want": 0,
-            "wanttoplay": 0,
-            "wanttobuy": 0,
-            "wishlist": 0,
-            "preordered": 0,
-            "lastmodified": "2025-11-25 12:45:02"
-        }
-    },
-    {
         "id": 406652,
         "externalSrc": "https://boardgamegeek.com/boardgame/406652/",
-        "rating": 6.92033,
+        "rating": 6.94869,
         "name": "Compile: Main 1",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/KMSUmBs9elKj4qBMxGVFgw__original/img/gE1a5OvsMQJt-LSDS7ktEoYzX1w=/0x0/filters:format(png)/pic8778267.png",
@@ -6178,7 +6761,7 @@
             2
         ],
         "bestPlayers": "2",
-        "weight_raw": 2.3875,
+        "weight_raw": 2.4,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -6254,6 +6837,11 @@
                 "type": "boardgamefamily",
                 "id": 59705,
                 "value": "Misc: LongPack Games"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 65851,
+                "value": "Players: Games with expansions that add solo play"
             },
             {
                 "type": "boardgamefamily",
@@ -6391,7 +6979,7 @@
     {
         "id": 6249,
         "externalSrc": "https://boardgamegeek.com/boardgame/6249/",
-        "rating": 6.90682,
+        "rating": 6.90589,
         "name": "Alhambra",
         "year": 2003,
         "backgroundImage": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__original/img/Oe2ZTGE2hUnyZQIEoIjM_zwYfcY=/0x0/filters:format(jpeg)/pic4893652.jpg",
@@ -6405,15 +6993,15 @@
             3
         ],
         "bestPlayers": "3",
-        "weight_raw": 2.0973,
+        "weight_raw": 2.0966,
         "weight": "Mittel",
         "caption": "",
         "tags": [
             "Hand Management",
             "Set Collection",
             "Open Drafting",
-            "Area Majority / Influence",
             "Tile Placement",
+            "Area Majority / Influence",
             "Medieval"
         ],
         "links": [
@@ -6799,7 +7387,7 @@
     {
         "id": 28023,
         "externalSrc": "https://boardgamegeek.com/boardgame/28023/",
-        "rating": 6.87547,
+        "rating": 6.87482,
         "name": "Jamaica",
         "year": 2007,
         "backgroundImage": "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__original/img/aLqKSqw-RWyR4wyfFUywWMQXUTc=/0x0/filters:format(png)/pic6434838.png",
@@ -6814,7 +7402,7 @@
             6
         ],
         "bestPlayers": "5-6",
-        "weight_raw": 1.662,
+        "weight_raw": 1.6606,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -6835,11 +7423,6 @@
                 "type": "boardgamecategory",
                 "id": 1090,
                 "value": "Pirates"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1031,
-                "value": "Racing"
             },
             {
                 "type": "boardgamemechanic",
@@ -7015,9 +7598,206 @@
         }
     },
     {
+        "id": 399941,
+        "externalSrc": "https://boardgamegeek.com/boardgame/399941/",
+        "rating": 6.83302,
+        "name": "River of Gold",
+        "year": 2024,
+        "backgroundImage": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__original/img/VNiDkGDA9mEdFmWPCoH7lUBnG8E=/0x0/filters:format(jpeg)/pic7697889.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__small/img/mrk3uMkr4tmCWUmqs0BR4cAycEo=/fit-in/200x150/filters:strip_icc()/pic7697889.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "bestPlayers_raw": [
+            "3"
+        ],
+        "bestPlayers_numeric": [
+            3
+        ],
+        "bestPlayers": "3",
+        "weight_raw": 2.4803,
+        "weight": "Mittel",
+        "caption": "",
+        "tags": [
+            "Set Collection",
+            "Fantasy",
+            "Open Drafting",
+            "Dice Rolling",
+            "End Game Bonuses",
+            "Track Movement"
+        ],
+        "links": [
+            {
+                "type": "boardgamecategory",
+                "id": 1021,
+                "value": "Economic"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1010,
+                "value": "Fantasy"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1097,
+                "value": "Travel"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2080,
+                "value": "Area Majority / Influence"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2912,
+                "value": "Contracts"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2072,
+                "value": "Dice Rolling"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2856,
+                "value": "Die Icon Resolution"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2875,
+                "value": "End Game Bonuses"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2900,
+                "value": "Market"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 3099,
+                "value": "Multi-Use Cards"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2041,
+                "value": "Open Drafting"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2911,
+                "value": "Ownership"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2035,
+                "value": "Roll / Spin and Move"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2004,
+                "value": "Set Collection"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2939,
+                "value": "Track Movement"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 79006,
+                "value": "Components:  Meeples"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 68769,
+                "value": "Components: Wooden pieces & boards"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 10634,
+                "value": "Country: Japan"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 70360,
+                "value": "Digital Implementations: Board Game Arena"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 106729,
+                "value": "Misc: GettingGames Tutorial Videos"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 4712,
+                "value": "Setting: Legend of the Five Rings"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 28732,
+                "value": "Theme: Samurai"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 449937,
+                "value": "River of Gold: The GiftForge Insert"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 113338,
+                "value": "Keith Piggott"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 79079,
+                "value": "Francesca Baerald"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 54758,
+                "value": "Office Dog"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 29998,
+                "value": "Emperor Penguin Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 8820,
+                "value": "Gémklub"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 37,
+                "value": "KOSMOS"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 7466,
+                "value": "Rebel Sp. z o.o."
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 4932,
+                "value": "White Goblin Games"
+            }
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-01-19 14:46:30"
+        }
+    },
+    {
         "id": 131357,
         "externalSrc": "https://boardgamegeek.com/boardgame/131357/",
-        "rating": 6.83209,
+        "rating": 6.83157,
         "name": "Coup",
         "year": 2012,
         "backgroundImage": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__original/img/ayAAWBK1rAEumARNmROsOtvqW-4=/0x0/filters:format(jpeg)/pic2016054.jpg",
@@ -7031,7 +7811,7 @@
             5
         ],
         "bestPlayers": "5",
-        "weight_raw": 1.4153,
+        "weight_raw": 1.4148,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -7039,8 +7819,8 @@
             "Take That",
             "Variable Player Powers",
             "Deduction",
-            "Party Game",
-            "Bluffing"
+            "Bluffing",
+            "Party Game"
         ],
         "links": [
             {
@@ -7442,201 +8222,9 @@
         }
     },
     {
-        "id": 399941,
-        "externalSrc": "https://boardgamegeek.com/boardgame/399941/",
-        "rating": 6.81438,
-        "name": "River of Gold",
-        "year": 2024,
-        "backgroundImage": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__original/img/VNiDkGDA9mEdFmWPCoH7lUBnG8E=/0x0/filters:format(jpeg)/pic7697889.jpg",
-        "thumbnail": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__small/img/mrk3uMkr4tmCWUmqs0BR4cAycEo=/fit-in/200x150/filters:strip_icc()/pic7697889.jpg",
-        "minPlayers": 2,
-        "maxPlayers": 4,
-        "bestPlayers_raw": [
-            "3"
-        ],
-        "bestPlayers_numeric": [
-            3
-        ],
-        "bestPlayers": "3",
-        "weight_raw": 2.4897,
-        "weight": "Mittel",
-        "caption": "",
-        "tags": [
-            "Set Collection",
-            "Fantasy",
-            "Dice Rolling",
-            "Open Drafting",
-            "End Game Bonuses",
-            "Track Movement"
-        ],
-        "links": [
-            {
-                "type": "boardgamecategory",
-                "id": 1021,
-                "value": "Economic"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1010,
-                "value": "Fantasy"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1097,
-                "value": "Travel"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2080,
-                "value": "Area Majority / Influence"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2912,
-                "value": "Contracts"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2072,
-                "value": "Dice Rolling"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2856,
-                "value": "Die Icon Resolution"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2875,
-                "value": "End Game Bonuses"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2900,
-                "value": "Market"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 3099,
-                "value": "Multi-Use Cards"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2041,
-                "value": "Open Drafting"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2911,
-                "value": "Ownership"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2004,
-                "value": "Set Collection"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2939,
-                "value": "Track Movement"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 79006,
-                "value": "Components:  Meeples"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 68769,
-                "value": "Components: Wooden pieces & boards"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 10634,
-                "value": "Country: Japan"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 70360,
-                "value": "Digital Implementations: Board Game Arena"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 106729,
-                "value": "Misc: GettingGames Tutorial Videos"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 4712,
-                "value": "Setting: Legend of the Five Rings"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 28732,
-                "value": "Theme: Samurai"
-            },
-            {
-                "type": "boardgameaccessory",
-                "id": 449937,
-                "value": "River of Gold: The GiftForge Insert"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 113338,
-                "value": "Keith Piggott"
-            },
-            {
-                "type": "boardgameartist",
-                "id": 79079,
-                "value": "Francesca Baerald"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 54758,
-                "value": "Office Dog"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 29998,
-                "value": "Emperor Penguin Games"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 8820,
-                "value": "Gémklub"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 37,
-                "value": "KOSMOS"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 7466,
-                "value": "Rebel Sp. z o.o."
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 4932,
-                "value": "White Goblin Games"
-            }
-        ],
-        "status": {
-            "own": 1,
-            "prevowned": 0,
-            "fortrade": 0,
-            "want": 0,
-            "wanttoplay": 0,
-            "wanttobuy": 0,
-            "wishlist": 0,
-            "preordered": 0,
-            "lastmodified": "2026-01-19 14:46:30"
-        }
-    },
-    {
         "id": 135779,
         "externalSrc": "https://boardgamegeek.com/boardgame/135779/",
-        "rating": 6.79618,
+        "rating": 6.79649,
         "name": "A Fake Artist Goes to New York",
         "year": 2011,
         "backgroundImage": "https://cf.geekdo-images.com/5Q5YHxJeVp6PAhfv5Ct0-g__original/img/yRNioltDOtjrTRXa0HHoTTCWNf8=/0x0/filters:format(png)/pic3678404.png",
@@ -7651,13 +8239,13 @@
             7
         ],
         "bestPlayers": "6-7",
-        "weight_raw": 1.0973,
+        "weight_raw": 1.0957,
         "weight": "Leicht",
         "caption": "",
         "tags": [
             "Deduction",
-            "Party Game",
             "Bluffing",
+            "Party Game",
             "Hidden Roles",
             "Line Drawing",
             "Targeted Clues"
@@ -7769,7 +8357,7 @@
     {
         "id": 331265,
         "externalSrc": "https://boardgamegeek.com/boardgame/331265/",
-        "rating": 6.74686,
+        "rating": 6.74962,
         "name": "Port Royal: Big Box",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/T2czH3s3vbNV0pf1bZhhQQ__original/img/JjOQBblshAUuKKtYxIqQ3CKM4bM=/0x0/filters:format(jpeg)/pic6265475.jpg",
@@ -7784,7 +8372,7 @@
             4
         ],
         "bestPlayers": "3-4",
-        "weight_raw": 1.7527,
+        "weight_raw": 1.7553,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -7792,8 +8380,8 @@
             "Set Collection",
             "Solo / Solitaire Game",
             "Push Your Luck",
-            "Cooperative Game",
-            "Open Drafting"
+            "Open Drafting",
+            "Cooperative Game"
         ],
         "links": [
             {
@@ -8022,7 +8610,7 @@
     {
         "id": 123540,
         "externalSrc": "https://boardgamegeek.com/boardgame/123540/",
-        "rating": 6.73844,
+        "rating": 6.73734,
         "name": "Tokaido",
         "year": 2012,
         "backgroundImage": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__original/img/NWuaZkfygEeQ7nvi0Ih7_FW9jO0=/0x0/filters:format(jpeg)/pic8758132.jpg",
@@ -8036,7 +8624,7 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 1.7424,
+        "weight_raw": 1.7435,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -8090,11 +8678,6 @@
             },
             {
                 "type": "boardgamefamily",
-                "id": 77906,
-                "value": "Category: DIZED Tutorial"
-            },
-            {
-                "type": "boardgamefamily",
                 "id": 10634,
                 "value": "Country: Japan"
             },
@@ -8132,6 +8715,11 @@
                 "type": "boardgamefamily",
                 "id": 58667,
                 "value": "History: Edo Period"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 77906,
+                "value": "Misc: DIZED Tutorial"
             },
             {
                 "type": "boardgamefamily",
@@ -8374,21 +8962,22 @@
     {
         "id": 372559,
         "externalSrc": "https://boardgamegeek.com/boardgame/372559/",
-        "rating": 6.71152,
+        "rating": 6.71764,
         "name": "Spots",
         "year": 2022,
-        "backgroundImage": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__original/img/GklWmrbqMips7ref85Pa-X5eNQQ=/0x0/filters:format(png)/pic7592453.png",
-        "thumbnail": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__small/img/BgniZvPRJVenqn7XHd4TQtsSuwI=/fit-in/200x150/filters:strip_icc()/pic7592453.png",
+        "backgroundImage": "https://cf.geekdo-images.com/_vpGz_tMPCU6Cw2DLTR0gA__original/img/ihTidF_iEJdhdz9MonqmpqT4udo=/0x0/filters:format(png)/pic9730092.png",
+        "thumbnail": "https://cf.geekdo-images.com/_vpGz_tMPCU6Cw2DLTR0gA__small/img/68cCtiiTykY7BcqNUVe1eq10sSA=/fit-in/200x150/filters:strip_icc()/pic9730092.png",
         "minPlayers": 1,
         "maxPlayers": 4,
         "bestPlayers_raw": [
-            "2"
+            "2-3"
         ],
         "bestPlayers_numeric": [
-            2
+            2,
+            3
         ],
-        "bestPlayers": "2",
-        "weight_raw": 1.2745,
+        "bestPlayers": "2-3",
+        "weight_raw": 1.2675,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -8571,7 +9160,7 @@
     {
         "id": 15512,
         "externalSrc": "https://boardgamegeek.com/boardgame/15512/",
-        "rating": 6.71001,
+        "rating": 6.71093,
         "name": "Diamant",
         "year": 2005,
         "backgroundImage": "https://cf.geekdo-images.com/G7gR2mJRPosZmGahXFKFXA__original/img/mwD68OdF-9k-Jkd9dRY87Nt__qo=/0x0/filters:format(jpeg)/pic7924444.jpg",
@@ -8587,7 +9176,7 @@
             8
         ],
         "bestPlayers": "6-8",
-        "weight_raw": 1.1133,
+        "weight_raw": 1.1136,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -8890,7 +9479,7 @@
     {
         "id": 241724,
         "externalSrc": "https://boardgamegeek.com/boardgame/241724/",
-        "rating": 6.69867,
+        "rating": 6.69467,
         "name": "Villagers",
         "year": 2019,
         "backgroundImage": "https://cf.geekdo-images.com/rMMSvnXuBPZSihIaVtVT-A__original/img/PivWbEOFSDhHXl2NCHw8xSErORA=/0x0/filters:format(png)/pic4996383.png",
@@ -8904,7 +9493,7 @@
             3
         ],
         "bestPlayers": "3",
-        "weight_raw": 2.2258,
+        "weight_raw": 2.2246,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -9028,6 +9617,11 @@
             },
             {
                 "type": "boardgameaccessory",
+                "id": 474718,
+                "value": "Villagers: Neoprene Playmat"
+            },
+            {
+                "type": "boardgameaccessory",
                 "id": 455612,
                 "value": "Villagers: OFPG Promo Card"
             },
@@ -9132,7 +9726,7 @@
     {
         "id": 169654,
         "externalSrc": "https://boardgamegeek.com/boardgame/169654/",
-        "rating": 6.68825,
+        "rating": 6.68439,
         "name": "Deep Sea Adventure",
         "year": 2014,
         "backgroundImage": "https://cf.geekdo-images.com/owyKXaa5SPB2HG9F_MueNQ__original/img/gOmpUB3hM7Ap9o-kDsV8ZVBVYXA=/0x0/filters:format(png)/pic3169827.png",
@@ -9146,16 +9740,16 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 1.1843,
+        "weight_raw": 1.1848,
         "weight": "Leicht",
         "caption": "",
         "tags": [
             "Party Game",
             "Push Your Luck",
             "Exploration",
+            "Roll / Spin and Move",
             "Dice",
-            "Nautical",
-            "Roll / Spin and Move"
+            "Nautical"
         ],
         "links": [
             {
@@ -9299,7 +9893,7 @@
     {
         "id": 402283,
         "externalSrc": "https://boardgamegeek.com/boardgame/402283/",
-        "rating": 6.62396,
+        "rating": 6.648,
         "name": "Courtisans",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/JK1HbIGtiVfsIbnw3Q543w__original/img/kPNCItrb8GwoIwV9R-vjczIkJR4=/0x0/filters:format(jpeg)/pic8004908.jpg",
@@ -9313,7 +9907,7 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 1.3,
+        "weight_raw": 1.3039,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -9386,8 +9980,23 @@
             },
             {
                 "type": "boardgamepublisher",
+                "id": 7162,
+                "value": "Brain Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 2366,
+                "value": "Devir"
+            },
+            {
+                "type": "boardgamepublisher",
                 "id": 38574,
                 "value": "Evrikus"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 63538,
+                "value": "GameGiant"
             },
             {
                 "type": "boardgamepublisher",
@@ -9465,7 +10074,7 @@
     {
         "id": 381249,
         "externalSrc": "https://boardgamegeek.com/boardgame/381249/",
-        "rating": 6.60147,
+        "rating": 6.63112,
         "name": "Rebel Princess",
         "year": 2023,
         "backgroundImage": "https://cf.geekdo-images.com/HuWvVU2tcff-vu3EjPtk6Q__original/img/K2Fopgt-7pfYCu8jtlrcWJ92yeU=/0x0/filters:format(jpeg)/pic7605211.jpg",
@@ -9480,7 +10089,7 @@
             5
         ],
         "bestPlayers": "4-5",
-        "weight_raw": 1.8571,
+        "weight_raw": 1.8605,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -9651,7 +10260,7 @@
     {
         "id": 206915,
         "externalSrc": "https://boardgamegeek.com/boardgame/206915/",
-        "rating": 6.54969,
+        "rating": 6.55329,
         "name": "Tempel des Schreckens",
         "year": 2016,
         "backgroundImage": "https://cf.geekdo-images.com/ClTSck2VjriYWdVDv4FKNQ__original/img/R9-cKEvUx2ED6DKwN_MqPwBmQYU=/0x0/filters:format(png)/pic3141267.png",
@@ -9672,8 +10281,8 @@
         "tags": [
             "Card Game",
             "Deduction",
-            "Party Game",
             "Bluffing",
+            "Party Game",
             "Hidden Roles",
             "Team-Based Game"
         ],
@@ -9786,7 +10395,7 @@
     {
         "id": 228855,
         "externalSrc": "https://boardgamegeek.com/boardgame/228855/",
-        "rating": 6.54355,
+        "rating": 6.54288,
         "name": "Set a Watch",
         "year": 2019,
         "backgroundImage": "https://cf.geekdo-images.com/E_-9WT4_6-kABS796Q-piA__original/img/b1r3xRKUZBJm7-NUjjdwcdKk2IE=/0x0/filters:format(png)/pic4162054.png",
@@ -9800,14 +10409,14 @@
             1
         ],
         "bestPlayers": "1",
-        "weight_raw": 2.4318,
+        "weight_raw": 2.4361,
         "weight": "Mittel",
         "caption": "",
         "tags": [
             "Card Game",
             "Variable Player Powers",
-            "Solo / Solitaire Game",
             "Fantasy",
+            "Solo / Solitaire Game",
             "Cooperative Game",
             "Dice Rolling"
         ],
@@ -9821,11 +10430,6 @@
                 "type": "boardgamecategory",
                 "id": 1002,
                 "value": "Card Game"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1017,
-                "value": "Dice"
             },
             {
                 "type": "boardgamecategory",
@@ -10018,7 +10622,7 @@
     {
         "id": 1115,
         "externalSrc": "https://boardgamegeek.com/boardgame/1115/",
-        "rating": 6.46352,
+        "rating": 6.46566,
         "name": "Poker",
         "year": 1810,
         "backgroundImage": "https://cf.geekdo-images.com/QhsvR9GY0LbTpj27fairWA__original/img/4ODyzAOOgoIJrUzLOjtzItR2uH0=/0x0/filters:format(jpeg)/pic186610.jpg",
@@ -10033,7 +10637,7 @@
             6
         ],
         "bestPlayers": "5-6",
-        "weight_raw": 2.4286,
+        "weight_raw": 2.4248,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -10370,7 +10974,7 @@
     {
         "id": 25821,
         "externalSrc": "https://boardgamegeek.com/boardgame/25821/",
-        "rating": 6.41588,
+        "rating": 6.41546,
         "name": "The Werewolves of Miller's Hollow",
         "year": 2001,
         "backgroundImage": "https://cf.geekdo-images.com/rZ0tOafAt1oue_7NKqELsg__original/img/Mxx1Abak0zV1FhoDr5HOnMirFAM=/0x0/filters:format(jpeg)/pic7203269.jpg",
@@ -10389,14 +10993,14 @@
             15
         ],
         "bestPlayers": "10-15",
-        "weight_raw": 1.3114,
+        "weight_raw": 1.313,
         "weight": "Leicht",
         "caption": "",
         "tags": [
             "Variable Player Powers",
             "Deduction",
-            "Party Game",
             "Bluffing",
+            "Party Game",
             "Player Elimination",
             "Hidden Roles"
         ],
@@ -10627,7 +11231,7 @@
     {
         "id": 9220,
         "externalSrc": "https://boardgamegeek.com/boardgame/9220/",
-        "rating": 6.41077,
+        "rating": 6.40934,
         "name": "Saboteur",
         "year": 2004,
         "backgroundImage": "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__original/img/TgwkFfJF5IrhjwNm8OVwdn34sJE=/0x0/filters:format(jpeg)/pic8679622.jpg",
@@ -10642,7 +11246,7 @@
             8
         ],
         "bestPlayers": "7-8",
-        "weight_raw": 1.317,
+        "weight_raw": 1.316,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -10651,7 +11255,7 @@
             "Take That",
             "Deduction",
             "Fantasy",
-            "Party Game"
+            "Bluffing"
         ],
         "links": [
             {
@@ -10798,6 +11402,11 @@
                 "type": "boardgameexpansion",
                 "id": 353384,
                 "value": "Saboteur: Master Craftsman promo card"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 473083,
+                "value": "Saboteur: Pass Card Promo Card"
             },
             {
                 "type": "boardgameexpansion",
@@ -11115,7 +11724,7 @@
     {
         "id": 336755,
         "externalSrc": "https://boardgamegeek.com/boardgame/336755/",
-        "rating": 6.37456,
+        "rating": 6.37888,
         "name": "King of Tokyo: Monster Box",
         "year": 2021,
         "backgroundImage": "https://cf.geekdo-images.com/wXdDbKqKdDpB4pBCWLToQw__original/img/j4AluVIz03ad7ggpRlBtfrK-NfE=/0x0/filters:format(jpeg)/pic6125357.jpg",
@@ -11137,8 +11746,8 @@
             "Take That",
             "Variable Player Powers",
             "Push Your Luck",
-            "Dice Rolling",
             "Open Drafting",
+            "Dice Rolling",
             "Fighting"
         ],
         "links": [
@@ -11284,6 +11893,11 @@
             },
             {
                 "type": "boardgameexpansion",
+                "id": 424917,
+                "value": "King of Tokyo: Alligators in the Sewers Promo Card"
+            },
+            {
+                "type": "boardgameexpansion",
                 "id": 234725,
                 "value": "King of Tokyo: Champion of the Gods Promo Card"
             },
@@ -11321,6 +11935,11 @@
                 "type": "boardgameexpansion",
                 "id": 365645,
                 "value": "King of Tokyo: Gift Promo Cards"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 438686,
+                "value": "King of Tokyo: Mindbug"
             },
             {
                 "type": "boardgameexpansion",
@@ -11453,7 +12072,7 @@
     {
         "id": 180020,
         "externalSrc": "https://boardgamegeek.com/boardgame/180020/",
-        "rating": 6.29686,
+        "rating": 6.29571,
         "name": "Virus!",
         "year": 2015,
         "backgroundImage": "https://cf.geekdo-images.com/7Xx4ipXV4lf0Q9mWwitf2w__original/img/reScLMXXNowNt1koQwV5IhYRUc0=/0x0/filters:format(jpeg)/pic6008974.jpg",
@@ -11467,7 +12086,7 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 1.0551,
+        "weight_raw": 1.0586,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -11675,6 +12294,11 @@
             },
             {
                 "type": "boardgamepublisher",
+                "id": 32581,
+                "value": "PaperGames (III)"
+            },
+            {
+                "type": "boardgamepublisher",
                 "id": 36563,
                 "value": "Reflexshop"
             },
@@ -11697,9 +12321,247 @@
         }
     },
     {
+        "id": 400498,
+        "externalSrc": "https://boardgamegeek.com/boardgame/400498/",
+        "rating": 6.29289,
+        "name": "Light Speed: Arena",
+        "year": 2025,
+        "backgroundImage": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__original/img/WYNbP3hN-y7GW00bzsbWMDoDWVw=/0x0/filters:format(png)/pic8866023.png",
+        "thumbnail": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__small/img/1HP4zxm2d5kTCEZw5oe08ex6Ylc=/fit-in/200x150/filters:strip_icc()/pic8866023.png",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "bestPlayers_raw": [
+            "4"
+        ],
+        "bestPlayers_numeric": [
+            4
+        ],
+        "bestPlayers": "4",
+        "weight_raw": 1.1311,
+        "weight": "Leicht",
+        "caption": "",
+        "tags": [
+            "Variable Player Powers",
+            "Party Game",
+            "End Game Bonuses",
+            "Variable Set-up",
+            "Fighting",
+            "Tile Placement"
+        ],
+        "links": [
+            {
+                "type": "boardgamecategory",
+                "id": 1032,
+                "value": "Action / Dexterity"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1046,
+                "value": "Fighting"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1030,
+                "value": "Party Game"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1037,
+                "value": "Real-time"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1016,
+                "value": "Science Fiction"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2080,
+                "value": "Area Majority / Influence"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2882,
+                "value": "Elapsed Real Time Ending"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2875,
+                "value": "End Game Bonuses"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2975,
+                "value": "Line of Sight"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2831,
+                "value": "Real-Time"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2002,
+                "value": "Tile Placement"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2015,
+                "value": "Variable Player Powers"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2897,
+                "value": "Variable Set-up"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 41489,
+                "value": "Components: Digital Hybrid - App/Website Required"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 8374,
+                "value": "Crowdfunding: Kickstarter"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 59705,
+                "value": "Misc: LongPack Games"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 5666,
+                "value": "Players: Games with Solitaire Rules"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 6924,
+                "value": "Theme: Sci-Fi Sports"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 476852,
+                "value": "Light Speed Arena: League 56"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 445927,
+                "value": "Light Speed: Arena - BlackHole"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 445921,
+                "value": "Light Speed: Arena - Glyphon"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 445932,
+                "value": "Light Speed: Arena - Kickstarter Sponsored Asteroids"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 430074,
+                "value": "Light Speed: Arena - Promo Sponsored Asteroids"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 466589,
+                "value": "Light Speed: Arena - Tablescope Sponsored Asteroid"
+            },
+            {
+                "type": "boardgameexpansion",
+                "id": 454059,
+                "value": "Light Speed: Arena - The Playable Playmat"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 450608,
+                "value": "Light Speed: Arena - The Analog Downgrade"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 5534,
+                "value": "Light Speed",
+                "inbound": true
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 167361,
+                "value": "Leonardo Alese"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 61,
+                "value": "James Ernest"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 222,
+                "value": "Tom Jolly"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 167362,
+                "value": "Emanuele Santellani"
+            },
+            {
+                "type": "boardgameartist",
+                "id": 124439,
+                "value": "Marco Salogni"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 54818,
+                "value": "Tablescope"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 10768,
+                "value": "Cranio Creations"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 1765,
+                "value": "Dino Toys s. r. o."
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 5380,
+                "value": "Intrafin Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 31120,
+                "value": "JELLY JELLY GAMES"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 27470,
+                "value": "Lucrum Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 39,
+                "value": "Pegasus Spiele"
+            }
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2025-11-25 12:52:25"
+        }
+    },
+    {
         "id": 423517,
         "externalSrc": "https://boardgamegeek.com/boardgame/423517/",
-        "rating": 6.27747,
+        "rating": 6.29215,
         "name": "3 Chapters",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/es3F2drfUOIVnqsTds3BDQ__original/img/aagzL4ORPemw2xi3FL4575gKYhA=/0x0/filters:format(png)/pic8940639.png",
@@ -11714,7 +12576,7 @@
             5
         ],
         "bestPlayers": "4-5",
-        "weight_raw": 1.6618,
+        "weight_raw": 1.6575,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -11904,242 +12766,9 @@
         }
     },
     {
-        "id": 400498,
-        "externalSrc": "https://boardgamegeek.com/boardgame/400498/",
-        "rating": 6.25108,
-        "name": "Light Speed: Arena",
-        "year": 2025,
-        "backgroundImage": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__original/img/WYNbP3hN-y7GW00bzsbWMDoDWVw=/0x0/filters:format(png)/pic8866023.png",
-        "thumbnail": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__small/img/1HP4zxm2d5kTCEZw5oe08ex6Ylc=/fit-in/200x150/filters:strip_icc()/pic8866023.png",
-        "minPlayers": 1,
-        "maxPlayers": 4,
-        "bestPlayers_raw": [
-            "4"
-        ],
-        "bestPlayers_numeric": [
-            4
-        ],
-        "bestPlayers": "4",
-        "weight_raw": 1.125,
-        "weight": "Leicht",
-        "caption": "",
-        "tags": [
-            "Variable Player Powers",
-            "Party Game",
-            "Fighting",
-            "End Game Bonuses",
-            "Variable Set-up",
-            "Science Fiction"
-        ],
-        "links": [
-            {
-                "type": "boardgamecategory",
-                "id": 1032,
-                "value": "Action / Dexterity"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1046,
-                "value": "Fighting"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1030,
-                "value": "Party Game"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1037,
-                "value": "Real-time"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1016,
-                "value": "Science Fiction"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2080,
-                "value": "Area Majority / Influence"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2882,
-                "value": "Elapsed Real Time Ending"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2875,
-                "value": "End Game Bonuses"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2975,
-                "value": "Line of Sight"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2831,
-                "value": "Real-Time"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2002,
-                "value": "Tile Placement"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2015,
-                "value": "Variable Player Powers"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2897,
-                "value": "Variable Set-up"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 41489,
-                "value": "Components: Digital Hybrid - App/Website Required"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 8374,
-                "value": "Crowdfunding: Kickstarter"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 59705,
-                "value": "Misc: LongPack Games"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 5666,
-                "value": "Players: Games with Solitaire Rules"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 6924,
-                "value": "Theme: Sci-Fi Sports"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 445927,
-                "value": "Light Speed: Arena - BlackHole"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 445921,
-                "value": "Light Speed: Arena - Glyphon"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 445932,
-                "value": "Light Speed: Arena - Kickstarter Sponsored Asteroids"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 430074,
-                "value": "Light Speed: Arena - Promo Sponsored Asteroids"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 466589,
-                "value": "Light Speed: Arena - Tablescope Sponsored Asteroid"
-            },
-            {
-                "type": "boardgameexpansion",
-                "id": 454059,
-                "value": "Light Speed: Arena - The Playable Playmat"
-            },
-            {
-                "type": "boardgameaccessory",
-                "id": 450608,
-                "value": "Light Speed: Arena - The Analog Downgrade"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 5534,
-                "value": "Light Speed",
-                "inbound": true
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 167361,
-                "value": "Leonardo Alese"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 61,
-                "value": "James Ernest"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 222,
-                "value": "Tom Jolly"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 167362,
-                "value": "Emanuele Santellani"
-            },
-            {
-                "type": "boardgameartist",
-                "id": 124439,
-                "value": "Marco Salogni"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 54818,
-                "value": "Tablescope"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 10768,
-                "value": "Cranio Creations"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 1765,
-                "value": "Dino Toys s. r. o."
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 5380,
-                "value": "Intrafin Games"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 31120,
-                "value": "JELLY JELLY GAMES"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 27470,
-                "value": "Lucrum Games"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 39,
-                "value": "Pegasus Spiele"
-            }
-        ],
-        "status": {
-            "own": 1,
-            "prevowned": 0,
-            "fortrade": 0,
-            "want": 0,
-            "wanttoplay": 0,
-            "wanttobuy": 0,
-            "wishlist": 0,
-            "preordered": 0,
-            "lastmodified": "2025-11-25 12:52:25"
-        }
-    },
-    {
         "id": 311322,
         "externalSrc": "https://boardgamegeek.com/boardgame/311322/",
-        "rating": 6.14186,
+        "rating": 6.14651,
         "name": "Herd Mentality",
         "year": 2020,
         "backgroundImage": "https://cf.geekdo-images.com/85hYrpSl9Aoh2TgMf4CiDA__original/img/QPcr2EfpZjJzvNGjfQZwRbs-kMo=/0x0/filters:format(png)/pic5509026.png",
@@ -12298,9 +12927,211 @@
         }
     },
     {
+        "id": 40398,
+        "externalSrc": "https://boardgamegeek.com/boardgame/40398/",
+        "rating": 6.09605,
+        "name": "Monopoly Deal Card Game",
+        "year": 2008,
+        "backgroundImage": "https://cf.geekdo-images.com/XACkCb3JL0uvF6xOn0lRSg__original/img/BBhxJBuYU2N7oTs1oxfuVsHJ47w=/0x0/filters:format(jpeg)/pic4595026.jpg",
+        "thumbnail": "https://cf.geekdo-images.com/XACkCb3JL0uvF6xOn0lRSg__small/img/MSoqR2WLqhqV9mkayMmd11sNanY=/fit-in/200x150/filters:strip_icc()/pic4595026.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "bestPlayers_raw": [
+            "4"
+        ],
+        "bestPlayers_numeric": [
+            4
+        ],
+        "bestPlayers": "4",
+        "weight_raw": 1.3107,
+        "weight": "Leicht",
+        "caption": "",
+        "tags": [
+            "Card Game",
+            "Hand Management",
+            "Set Collection",
+            "Take That",
+            "Economic"
+        ],
+        "links": [
+            {
+                "type": "boardgamecategory",
+                "id": 1002,
+                "value": "Card Game"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1021,
+                "value": "Economic"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2040,
+                "value": "Hand Management"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2004,
+                "value": "Set Collection"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2686,
+                "value": "Take That"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 64788,
+                "value": "Cities: Atlantic City (New Jersey, USA)"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 62857,
+                "value": "Game: Monopoly (Official)"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 4462,
+                "value": "Series: Monopoly Derivatives (Official)"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 25842,
+                "value": "Series: Shuffle Card Games (Cartamundi / Hasbro)"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 2250,
+                "value": "Traditional Card Games: Rummy"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 62258,
+                "value": "Versions & Editions: Card Versions of Non-Card Games"
+            },
+            {
+                "type": "boardgameaccessory",
+                "id": 437531,
+                "value": "Monopoly Deal Card Game: Braille Accessibility Kit"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 164840,
+                "value": "Monopoly Deal"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 265797,
+                "value": "Monopoly Deal London"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 469655,
+                "value": "Monopoly Deal Wizarding World/Harry Potter Card Game"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 469656,
+                "value": "Monopoly Deal: Disney Stitch"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 469654,
+                "value": "Monopoly Deal: KPop Demon Hunters"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 454634,
+                "value": "Monopoly Deal: NFL Edition"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 465961,
+                "value": "Monopoly Deal: No Mercy"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 129395,
+                "value": "Monopoly Millionaire Deal Card Game"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 1406,
+                "value": "Monopoly",
+                "inbound": true
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 103599,
+                "value": "Katharine Chapman"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 51,
+                "value": "Hasbro"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 3320,
+                "value": "(Unknown)"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 74,
+                "value": "ASS Altenburger Spielkarten"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 3626,
+                "value": "Basic Fun, Inc."
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 5215,
+                "value": "Cartamundi"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 2378,
+                "value": "Copag Cards (Copag)"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 9401,
+                "value": "Funskool Games"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 8291,
+                "value": "Korea Boardgames"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 28,
+                "value": "Parker Brothers"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 21247,
+                "value": "Singapore Airlines"
+            }
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-01-04 02:27:38"
+        }
+    },
+    {
         "id": 105593,
         "externalSrc": "https://boardgamegeek.com/boardgame/105593/",
-        "rating": 6.09768,
+        "rating": 6.09253,
         "name": "Cheating Moth",
         "year": 2011,
         "backgroundImage": "https://cf.geekdo-images.com/7w7ht4bmAnu0j-_qgcYPiQ__original/img/C1hf_pbsGvD5HP-N0iHME_HSH1E=/0x0/filters:format(jpeg)/pic2220182.jpg",
@@ -12447,211 +13278,9 @@
         }
     },
     {
-        "id": 40398,
-        "externalSrc": "https://boardgamegeek.com/boardgame/40398/",
-        "rating": 6.09436,
-        "name": "Monopoly Deal Card Game",
-        "year": 2008,
-        "backgroundImage": "https://cf.geekdo-images.com/XACkCb3JL0uvF6xOn0lRSg__original/img/BBhxJBuYU2N7oTs1oxfuVsHJ47w=/0x0/filters:format(jpeg)/pic4595026.jpg",
-        "thumbnail": "https://cf.geekdo-images.com/XACkCb3JL0uvF6xOn0lRSg__small/img/MSoqR2WLqhqV9mkayMmd11sNanY=/fit-in/200x150/filters:strip_icc()/pic4595026.jpg",
-        "minPlayers": 2,
-        "maxPlayers": 5,
-        "bestPlayers_raw": [
-            "4"
-        ],
-        "bestPlayers_numeric": [
-            4
-        ],
-        "bestPlayers": "4",
-        "weight_raw": 1.3135,
-        "weight": "Leicht",
-        "caption": "",
-        "tags": [
-            "Card Game",
-            "Hand Management",
-            "Set Collection",
-            "Take That",
-            "Economic"
-        ],
-        "links": [
-            {
-                "type": "boardgamecategory",
-                "id": 1002,
-                "value": "Card Game"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1021,
-                "value": "Economic"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2040,
-                "value": "Hand Management"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2004,
-                "value": "Set Collection"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2686,
-                "value": "Take That"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 64788,
-                "value": "Cities: Atlantic City (New Jersey, USA)"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 62857,
-                "value": "Game: Monopoly (Official)"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 4462,
-                "value": "Series: Monopoly Derivatives (Official)"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 25842,
-                "value": "Series: Shuffle Card Games (Cartamundi / Hasbro)"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 2250,
-                "value": "Traditional Card Games: Rummy"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 62258,
-                "value": "Versions & Editions: Card Versions of Non-Card Games"
-            },
-            {
-                "type": "boardgameaccessory",
-                "id": 437531,
-                "value": "Monopoly Deal Card Game: Braille Accessibility Kit"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 164840,
-                "value": "Monopoly Deal"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 265797,
-                "value": "Monopoly Deal London"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 469655,
-                "value": "Monopoly Deal Wizarding World/Harry Potter Card Game"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 469656,
-                "value": "Monopoly Deal: Disney Sitch"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 469654,
-                "value": "Monopoly Deal: KPop Demon Hunters"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 454634,
-                "value": "Monopoly Deal: NFL Edition"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 465961,
-                "value": "Monopoly Deal: No Mercy"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 129395,
-                "value": "Monopoly Millionaire Deal Card Game"
-            },
-            {
-                "type": "boardgameimplementation",
-                "id": 1406,
-                "value": "Monopoly",
-                "inbound": true
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 103599,
-                "value": "Katharine Chapman"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 51,
-                "value": "Hasbro"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 3320,
-                "value": "(Unknown)"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 74,
-                "value": "ASS Altenburger Spielkarten"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 3626,
-                "value": "Basic Fun, Inc."
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 5215,
-                "value": "Cartamundi"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 2378,
-                "value": "Copag Cards (Copag)"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 9401,
-                "value": "Funskool Games"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 8291,
-                "value": "Korea Boardgames"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 28,
-                "value": "Parker Brothers"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 21247,
-                "value": "Singapore Airlines"
-            }
-        ],
-        "status": {
-            "own": 1,
-            "prevowned": 0,
-            "fortrade": 0,
-            "want": 0,
-            "wanttoplay": 0,
-            "wanttobuy": 0,
-            "wishlist": 0,
-            "preordered": 0,
-            "lastmodified": "2026-01-04 02:27:38"
-        }
-    },
-    {
         "id": 343282,
         "externalSrc": "https://boardgamegeek.com/boardgame/343282/",
-        "rating": 5.89622,
+        "rating": 5.90215,
         "name": "Exploding Kittens: Recipes for Disaster",
         "year": 2021,
         "backgroundImage": "https://cf.geekdo-images.com/gbw-3lRou0Xa3hXhGmxLyw__original/img/WoPpM4Wc9MK-wgC8kNyMV-RrESg=/0x0/filters:format(jpeg)/pic6305890.jpg",
@@ -12665,7 +13294,7 @@
             5
         ],
         "bestPlayers": "5",
-        "weight_raw": 1.3,
+        "weight_raw": 1.2857,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -12789,7 +13418,7 @@
     {
         "id": 414107,
         "externalSrc": "https://boardgamegeek.com/boardgame/414107/",
-        "rating": 5.82494,
+        "rating": 5.83081,
         "name": "Ratjack",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/S2r-rQ7LD7vO1A0-jj6mGA__original/img/g8LrApR7w3V2jJDuHJP3i84dfPA=/0x0/filters:format(png)/pic8267854.png",
@@ -12803,7 +13432,7 @@
             3
         ],
         "bestPlayers": "3",
-        "weight_raw": 1.68,
+        "weight_raw": 1.6538,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -12940,7 +13569,7 @@
     {
         "id": 1927,
         "externalSrc": "https://boardgamegeek.com/boardgame/1927/",
-        "rating": 5.69282,
+        "rating": 5.69247,
         "name": "Munchkin",
         "year": 2001,
         "backgroundImage": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__original/img/FbqPPCilgZKND2xmhWJgkfjZiYE=/0x0/filters:format(jpeg)/pic1871016.jpg",
@@ -12954,7 +13583,7 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 1.8179,
+        "weight_raw": 1.8183,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -13008,11 +13637,6 @@
             },
             {
                 "type": "boardgamefamily",
-                "id": 77906,
-                "value": "Category: DIZED Tutorial"
-            },
-            {
-                "type": "boardgamefamily",
                 "id": 112176,
                 "value": "Digital Implementations: Dire Wolf Game Room"
             },
@@ -13035,6 +13659,11 @@
                 "type": "boardgamefamily",
                 "id": 105030,
                 "value": "Misc: Dice Tower Hall of Fame"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 77906,
+                "value": "Misc: DIZED Tutorial"
             },
             {
                 "type": "boardgameexpansion",
@@ -14587,7 +15216,7 @@
     {
         "id": 130592,
         "externalSrc": "https://boardgamegeek.com/boardgame/130592/",
-        "rating": 5.66727,
+        "rating": 5.66519,
         "name": "Clue",
         "year": 2012,
         "backgroundImage": "https://cf.geekdo-images.com/5NJKy5K9c0tyCTnTWFekeQ__original/img/RlWgyKfLDdxIErDCmtFmogfvxoU=/0x0/filters:format(png)/pic3181978.png",
@@ -14601,15 +15230,15 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 1.4691,
+        "weight_raw": 1.4634,
         "weight": "Leicht",
         "caption": "",
         "tags": [
             "Deduction",
             "Bluffing",
             "Dice Rolling",
-            "Murder / Mystery",
-            "Roll / Spin and Move"
+            "Roll / Spin and Move",
+            "Murder / Mystery"
         ],
         "links": [
             {
@@ -14709,7 +15338,7 @@
     {
         "id": 331685,
         "externalSrc": "https://boardgamegeek.com/boardgame/331685/",
-        "rating": 5.63379,
+        "rating": 5.66294,
         "name": "Hit the Silk!",
         "year": 2021,
         "backgroundImage": "https://cf.geekdo-images.com/uu3_la80Rx6TiuDtEpXO9A__original/img/FxCrJrezkX5E_oUWVS7J4GJi0Tg=/0x0/filters:format(jpeg)/pic6433684.jpg",
@@ -14723,16 +15352,16 @@
             5
         ],
         "bestPlayers": "5",
-        "weight_raw": 1.875,
+        "weight_raw": 1.8889,
         "weight": "Mittel",
         "caption": "",
         "tags": [
             "Card Game",
             "Hand Management",
             "Deduction",
-            "Party Game",
             "Bluffing",
-            "Dice Rolling"
+            "Party Game",
+            "Open Drafting"
         ],
         "links": [
             {
@@ -14849,9 +15478,131 @@
         }
     },
     {
+        "id": 465286,
+        "externalSrc": "https://boardgamegeek.com/boardgame/465286/",
+        "rating": 5.56052,
+        "name": "Trash Poker",
+        "year": 2026,
+        "backgroundImage": "https://cf.geekdo-images.com/ZQBBDjGY43KFR9Uf2iYgew__original/img/iMZexAk70m3OuSebmdHBphGRXck=/0x0/filters:format(png)/pic9428553.png",
+        "thumbnail": "https://cf.geekdo-images.com/ZQBBDjGY43KFR9Uf2iYgew__small/img/SjpueH8mCSpIaTITjkUM_k2ss2g=/fit-in/200x150/filters:strip_icc()/pic9428553.png",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "bestPlayers_raw": [
+            "4"
+        ],
+        "bestPlayers_numeric": [
+            4
+        ],
+        "bestPlayers": "4",
+        "weight_raw": 2.5,
+        "weight": "Komplex",
+        "caption": "",
+        "tags": [
+            "Card Game",
+            "Hand Management",
+            "Set Collection",
+            "Solo / Solitaire Game",
+            "Open Drafting",
+            "End Game Bonuses"
+        ],
+        "links": [
+            {
+                "type": "boardgamecategory",
+                "id": 1002,
+                "value": "Card Game"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1079,
+                "value": "Humor"
+            },
+            {
+                "type": "boardgamecategory",
+                "id": 1101,
+                "value": "Video Game Theme"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 3004,
+                "value": "Deck Construction"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2875,
+                "value": "End Game Bonuses"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2040,
+                "value": "Hand Management"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 3099,
+                "value": "Multi-Use Cards"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2041,
+                "value": "Open Drafting"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2004,
+                "value": "Set Collection"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2819,
+                "value": "Solo / Solitaire Game"
+            },
+            {
+                "type": "boardgamemechanic",
+                "id": 2826,
+                "value": "Turn Order: Stat-Based"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 22184,
+                "value": "Admin: Upcoming Releases"
+            },
+            {
+                "type": "boardgamefamily",
+                "id": 22135,
+                "value": "Crowdfunding: Spieleschmiede"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 125463,
+                "value": "Rico Besteher"
+            },
+            {
+                "type": "boardgamedesigner",
+                "id": 137642,
+                "value": "Frank Noack"
+            },
+            {
+                "type": "boardgamepublisher",
+                "id": 31839,
+                "value": "Corax Games"
+            }
+        ],
+        "status": {
+            "own": 1,
+            "prevowned": 0,
+            "fortrade": 0,
+            "want": 0,
+            "wanttoplay": 0,
+            "wanttobuy": 0,
+            "wishlist": 0,
+            "preordered": 0,
+            "lastmodified": "2026-06-18 00:26:35"
+        }
+    },
+    {
         "id": 382158,
         "externalSrc": "https://boardgamegeek.com/boardgame/382158/",
-        "rating": 5.53287,
+        "rating": 5.53699,
         "name": "Almighty",
         "year": 2027,
         "backgroundImage": "https://cf.geekdo-images.com/ZAQzUeNiRNmWJqA0uU3RCQ__original/img/xqKKoQxQjwuRPI33bZHxFnYH7rg=/0x0/filters:format(png)/pic9033470.png",
@@ -14865,7 +15616,7 @@
             4
         ],
         "bestPlayers": "4",
-        "weight_raw": 2.5,
+        "weight_raw": 2.6667,
         "weight": "Komplex",
         "caption": "",
         "tags": [
@@ -14938,6 +15689,11 @@
                 "value": "Crowdfunding: Kickstarter"
             },
             {
+                "type": "boardgameexpansion",
+                "id": 472358,
+                "value": "Almighty: Maniacs & Monsters"
+            },
+            {
                 "type": "boardgamedesigner",
                 "id": 133336,
                 "value": "Kevin Privalle"
@@ -14973,7 +15729,7 @@
     {
         "id": 360177,
         "externalSrc": "https://boardgamegeek.com/boardgame/360177/",
-        "rating": 5.51572,
+        "rating": 5.5161,
         "name": "Future Me Problems",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/d1evrGCQD5MZG3J5v3c2fg__original/img/BqslDqeg0AU2cNnjZ5B75q0xb2s=/0x0/filters:format(jpeg)/pic6793443.jpg",
@@ -15076,7 +15832,7 @@
     {
         "id": 2223,
         "externalSrc": "https://boardgamegeek.com/boardgame/2223/",
-        "rating": 5.35355,
+        "rating": 5.35229,
         "name": "UNO",
         "year": 1971,
         "backgroundImage": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__original/img/fRfoyWezpQsumExNKVxf1cwtJfg=/0x0/filters:format(jpeg)/pic8204165.jpg",
@@ -15092,7 +15848,7 @@
             6
         ],
         "bestPlayers": "4-6",
-        "weight_raw": 1.0999,
+        "weight_raw": 1.0994,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -15196,6 +15952,11 @@
             },
             {
                 "type": "boardgamefamily",
+                "id": 117012,
+                "value": "Components: External Score Sheet Required"
+            },
+            {
+                "type": "boardgamefamily",
                 "id": 14835,
                 "value": "Country: USA"
             },
@@ -15218,11 +15979,6 @@
                 "type": "boardgamefamily",
                 "id": 105030,
                 "value": "Misc: Dice Tower Hall of Fame"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 117012,
-                "value": "Misc: External Score Sheet Required"
             },
             {
                 "type": "boardgamefamily",
@@ -15335,6 +16091,26 @@
                 "value": "Contarlos"
             },
             {
+                "type": "boardgameintegration",
+                "id": 475031,
+                "value": "UNO: Boruto - Naruto Next Generations (McDonald's Happy Meal Edition)"
+            },
+            {
+                "type": "boardgameintegration",
+                "id": 475041,
+                "value": "UNO: My Hero Academia (McDonald's Happy Meal Edition)"
+            },
+            {
+                "type": "boardgameintegration",
+                "id": 475034,
+                "value": "UNO: Naruto (McDonald's Happy Meal Edition)"
+            },
+            {
+                "type": "boardgameintegration",
+                "id": 475037,
+                "value": "UNO: SPY x FAMILY (McDonald's Happy Meal Edition)"
+            },
+            {
                 "type": "boardgamecompilation",
                 "id": 314892,
                 "value": "5 Alive / Uno"
@@ -15358,6 +16134,11 @@
                 "type": "boardgameimplementation",
                 "id": 246701,
                 "value": "DOS"
+            },
+            {
+                "type": "boardgameimplementation",
+                "id": 477506,
+                "value": "UNO 7-Eleven"
             },
             {
                 "type": "boardgameimplementation",
@@ -15755,124 +16536,6 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:44:36"
-        }
-    },
-    {
-        "id": 465286,
-        "externalSrc": "https://boardgamegeek.com/boardgame/465286/",
-        "rating": 0,
-        "name": "Trash Poker",
-        "year": 2026,
-        "backgroundImage": "https://cf.geekdo-images.com/ZQBBDjGY43KFR9Uf2iYgew__original/img/iMZexAk70m3OuSebmdHBphGRXck=/0x0/filters:format(png)/pic9428553.png",
-        "thumbnail": "https://cf.geekdo-images.com/ZQBBDjGY43KFR9Uf2iYgew__small/img/SjpueH8mCSpIaTITjkUM_k2ss2g=/fit-in/200x150/filters:strip_icc()/pic9428553.png",
-        "minPlayers": 1,
-        "maxPlayers": 4,
-        "bestPlayers_raw": [],
-        "bestPlayers_numeric": [],
-        "bestPlayers": "",
-        "weight_raw": 2,
-        "weight": "Mittel",
-        "caption": "",
-        "tags": [
-            "Card Game",
-            "Hand Management",
-            "Set Collection",
-            "Solo / Solitaire Game",
-            "Open Drafting",
-            "End Game Bonuses"
-        ],
-        "links": [
-            {
-                "type": "boardgamecategory",
-                "id": 1002,
-                "value": "Card Game"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1079,
-                "value": "Humor"
-            },
-            {
-                "type": "boardgamecategory",
-                "id": 1101,
-                "value": "Video Game Theme"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 3004,
-                "value": "Deck Construction"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2875,
-                "value": "End Game Bonuses"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2040,
-                "value": "Hand Management"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 3099,
-                "value": "Multi-Use Cards"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2041,
-                "value": "Open Drafting"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2004,
-                "value": "Set Collection"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2819,
-                "value": "Solo / Solitaire Game"
-            },
-            {
-                "type": "boardgamemechanic",
-                "id": 2826,
-                "value": "Turn Order: Stat-Based"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 22184,
-                "value": "Admin: Upcoming Releases"
-            },
-            {
-                "type": "boardgamefamily",
-                "id": 22135,
-                "value": "Crowdfunding: Spieleschmiede"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 125463,
-                "value": "Rico Besteher"
-            },
-            {
-                "type": "boardgamedesigner",
-                "id": 137642,
-                "value": "Frank Noack"
-            },
-            {
-                "type": "boardgamepublisher",
-                "id": 31839,
-                "value": "Corax Games"
-            }
-        ],
-        "status": {
-            "own": 1,
-            "prevowned": 0,
-            "fortrade": 0,
-            "want": 0,
-            "wanttoplay": 0,
-            "wanttobuy": 0,
-            "wishlist": 0,
-            "preordered": 0,
-            "lastmodified": "2026-06-18 00:26:35"
         }
     }
 ]
