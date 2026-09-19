@@ -1,8 +1,8 @@
 {
     "items": {
-        "totalitems": 60,
+        "totalitems": 61,
         "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
-        "pubdate": "Fri, 21 Aug 2026 13:44:05 +0000",
+        "pubdate": "Sat, 19 Sep 2026 11:33:56 +0000",
         "item": [
             {
                 "objecttype": "thing",
@@ -1314,8 +1314,8 @@
                     "sortindex": 1
                 },
                 "yearpublished": 2022,
-                "image": "https://cf.geekdo-images.com/_vpGz_tMPCU6Cw2DLTR0gA__original/img/ihTidF_iEJdhdz9MonqmpqT4udo=/0x0/filters:format(png)/pic9730092.png",
-                "thumbnail": "https://cf.geekdo-images.com/_vpGz_tMPCU6Cw2DLTR0gA__small/img/68cCtiiTykY7BcqNUVe1eq10sSA=/fit-in/200x150/filters:strip_icc()/pic9730092.png",
+                "image": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__original/img/GklWmrbqMips7ref85Pa-X5eNQQ=/0x0/filters:format(png)/pic7592453.png",
+                "thumbnail": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__small/img/BgniZvPRJVenqn7XHd4TQtsSuwI=/fit-in/200x150/filters:strip_icc()/pic7592453.png",
                 "status": {
                     "own": 1,
                     "prevowned": 0,
@@ -1326,6 +1326,31 @@
                     "wishlist": 0,
                     "preordered": 0,
                     "lastmodified": "2025-11-25 12:50:26"
+                },
+                "numplays": 0
+            },
+            {
+                "objecttype": "thing",
+                "objectid": 192291,
+                "subtype": "boardgame",
+                "collid": 149687604,
+                "name": {
+                    "_": "Sushi Go Party!",
+                    "sortindex": 1
+                },
+                "yearpublished": 2016,
+                "image": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__original/img/WQcFmlhYBMIp8f6gNNVhnnue1w4=/0x0/filters:format(jpeg)/pic5885689.jpg",
+                "thumbnail": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__small/img/_mXR9Tlo0f-i80h6pfhDEOBgvpY=/fit-in/200x150/filters:strip_icc()/pic5885689.jpg",
+                "status": {
+                    "own": 1,
+                    "prevowned": 0,
+                    "fortrade": 0,
+                    "want": 0,
+                    "wanttoplay": 0,
+                    "wanttobuy": 0,
+                    "wishlist": 0,
+                    "preordered": 0,
+                    "lastmodified": "2026-09-19 06:32:34"
                 },
                 "numplays": 0
             },
