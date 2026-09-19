@@ -86,7 +86,12 @@ for (let i = 0; i < chunks.length; i++) {
     const chunk = chunks[i];
     const ids = chunk.map(c => c.objectid);
     const detail = await fetchFromBGG(`thing?stats=1&id=${ids.join(',')}`);
-    details.push(...detail.items.item.map((g, idx) => ({
+
+    const detailItems = Array.isArray(detail.items.item)
+        ? detail.items.item
+        : [detail.items.item];
+
+    details.push(...detailItems.map((g, idx) => ({
         ...g,
         status: chunk[idx].status,
     })));
@@ -111,7 +116,7 @@ details.forEach(d => {
             links[l.type][l.id].amount++
         }
     });
-});
+})
 
 const distinct = {};
 Object.entries(links).forEach(([category, ls]) => {
