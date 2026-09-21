@@ -1,4 +1,4 @@
-name: Build & Deploy E-Reader
+name: Build & Deploy Gamewall
 on:
   workflow_dispatch:
   push:
