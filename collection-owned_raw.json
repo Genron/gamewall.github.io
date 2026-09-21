@@ -1,8 +1,8 @@
 {
     "items": {
-        "totalitems": 61,
+        "totalitems": 63,
         "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
-        "pubdate": "Sat, 19 Sep 2026 11:33:56 +0000",
+        "pubdate": "Mon, 21 Sep 2026 09:41:20 +0000",
         "item": [
             {
                 "objecttype": "thing",
@@ -76,6 +76,31 @@
                     "wishlist": 0,
                     "preordered": 1,
                     "lastmodified": "2026-02-11 13:53:14"
+                },
+                "numplays": 0
+            },
+            {
+                "objecttype": "thing",
+                "objectid": 359871,
+                "subtype": "boardgame",
+                "collid": 148012735,
+                "name": {
+                    "_": "Arcs",
+                    "sortindex": 1
+                },
+                "yearpublished": 2024,
+                "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__original/img/43ianMZOks7UHlZILx0VBRntOmM=/0x0/filters:format(png)/pic8145530.png",
+                "thumbnail": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__small/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png",
+                "status": {
+                    "own": 1,
+                    "prevowned": 0,
+                    "fortrade": 0,
+                    "want": 0,
+                    "wanttoplay": 0,
+                    "wanttobuy": 0,
+                    "wishlist": 0,
+                    "preordered": 0,
+                    "lastmodified": "2026-09-21 04:38:20"
                 },
                 "numplays": 0
             },
@@ -876,6 +901,31 @@
                     "wishlist": 0,
                     "preordered": 0,
                     "lastmodified": "2025-11-25 12:52:25"
+                },
+                "numplays": 0
+            },
+            {
+                "objecttype": "thing",
+                "objectid": 421006,
+                "subtype": "boardgame",
+                "collid": 149755421,
+                "name": {
+                    "_": "The Lord of the Rings: Duel for Middle-earth",
+                    "sortindex": 5
+                },
+                "yearpublished": 2024,
+                "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__original/img/Ts4M5eOW38r2oTvJmkx0uwNodv4=/0x0/filters:format(jpeg)/pic8378939.jpg",
+                "thumbnail": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__small/img/rojFW0-h-bteedVG4aJXG1x7V0o=/fit-in/200x150/filters:strip_icc()/pic8378939.jpg",
+                "status": {
+                    "own": 1,
+                    "prevowned": 0,
+                    "fortrade": 0,
+                    "want": 0,
+                    "wanttoplay": 0,
+                    "wanttobuy": 0,
+                    "wishlist": 0,
+                    "preordered": 0,
+                    "lastmodified": "2026-09-21 04:39:14"
                 },
                 "numplays": 0
             },
