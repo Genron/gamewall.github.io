@@ -59,6 +59,9 @@ export interface Item {
   year: number;
   minPlayers: number;
   maxPlayers: number;
+  minPlayTime: number;
+  maxPlayTime: number;
+  playTime: number;
   bestPlayers_numeric: number[];
   bestPlayers_raw: string[];
   bestPlayers: string;

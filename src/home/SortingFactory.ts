@@ -13,6 +13,8 @@ export enum SortBy {
   FourPlayer = '4 Spieler',
   FivePlayer = '5 Spieler',
   SixPlusPlayer = '6+ Spieler',
+  MinPlaytime = 'Spieldauer (min)',
+  MaxPlaytime = 'Spieldauer (max)',
 }
 
 export type Option = {
@@ -27,6 +29,8 @@ export const SortByOptions: SortBy[][] = [
   [SortBy.MinPlayers,
     SortBy.MaxPlayers,],
   [SortBy.GlobalRating,],
+  [SortBy.MinPlaytime,
+    SortBy.MaxPlaytime,],
 ];
 
 export const PlayerFilterOptions: SortBy[][] = [
@@ -166,6 +170,14 @@ export const SortingFactory = {
           return copy(items)
             .filter(ByMaxPlayersGt(5));
         };
+      case SortBy.MaxPlaytime:
+        return (items: Item[]) => {
+          return copy(items).sort(ByMaxPlaytime);
+        };
+      case SortBy.MinPlaytime:
+        return (items: Item[]) => {
+          return copy(items).sort(ByMinPlaytime);
+        };
       default:
         throw new Error(`Unsupported type ${o}`);
     }
@@ -177,6 +189,23 @@ const ByTag = (o: Option) => (i1: Item): boolean => {
 };
 
 const ByMaxPlayersGt = (num: number) => (i1: Item): boolean => i1.maxPlayers > num
+
+const ByMaxPlaytime = (i1: Item, i2: Item): number => {
+  const playTime = i2.maxPlayTime - i1.maxPlayTime;
+  if (playTime !== 0) {
+    return playTime;
+  }
+  return i2.minPlayTime - i1.minPlayTime;
+};
+
+const ByMinPlaytime = (i1: Item, i2: Item): number => {
+  const playTime = i1.maxPlayTime - i2.maxPlayTime;
+  if (playTime !== 0) {
+    return playTime;
+  }
+  return i1.minPlayTime - i2.minPlayTime;
+};
+
 const ByWeightLt = (num: number) => (i1: Item): boolean => i1.weight_raw < num
 
 export function isSocialDeduction(i: Item): boolean {

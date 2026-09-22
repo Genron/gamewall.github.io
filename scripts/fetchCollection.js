@@ -179,6 +179,9 @@ const items = details
             thumbnail: i.thumbnail, // thumbnail | image
             minPlayers: i.minplayers.value,
             maxPlayers: i.maxplayers.value,
+            minPlayTime: i.minplaytime.value,
+            maxPlayTime: i.maxplaytime.value,
+            playTime: i.playingtime.value,
             bestPlayers_raw: best,
             bestPlayers_numeric: best.flatMap(b => {
                 if (b.endsWith('+')) {

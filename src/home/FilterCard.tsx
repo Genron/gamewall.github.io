@@ -3,7 +3,7 @@ import {Card, CardMedia} from "@rmwc/card";
 import {Badge, BadgeAnchor, CardPrimaryAction} from "rmwc";
 import {Typography} from "@rmwc/typography";
 import React from "react";
-import {BadgeStyles, getPlayerRecommendation} from "./CategoryCard";
+import {BadgeStyles, getPlayerRecommendation, getPlayTimeRecommendation} from "./CategoryCard";
 import {IsNew, IsPreordered} from "./SortingFactory";
 
 export function FilterCard({index, item, w}: { index: number; item: Item; w: number; }) {
@@ -100,7 +100,7 @@ function DetailedCard({index, item}: { index: number, item: Item }) {
             use="body1"
             tag="div"
             theme="textSecondaryOnBackground"
-            className={'max-row-2'}
+            className={'max-row-1'}
           >
             {item.name} ({item.year})
           </Typography>
@@ -109,14 +109,11 @@ function DetailedCard({index, item}: { index: number, item: Item }) {
             tag="div"
             theme="textSecondaryOnBackground"
           >
-            Spieler {getPlayerRecommendation(item)}
-          </Typography>
-          <Typography
-            use="subtitle2"
-            tag="div"
-            theme="textSecondaryOnBackground"
-          >
-            {item.weight}
+            <span style={{display: 'inline-block'}}>{"Spieler " + getPlayerRecommendation(item)}</span>
+            {', '}
+            <span style={{display: 'inline-block'}}>{getPlayTimeRecommendation(item)}</span>
+            {', '}
+            <span style={{display: 'inline-block'}}>{item.weight}</span>
           </Typography>
         </div>
       </CardPrimaryAction>
