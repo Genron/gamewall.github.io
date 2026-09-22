@@ -2,7 +2,7 @@
     {
         "id": 421006,
         "externalSrc": "https://boardgamegeek.com/boardgame/421006/",
-        "rating": 8.00043,
+        "rating": 8.00044,
         "name": "The Lord of the Rings: Duel for Middle-earth",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__original/img/Ts4M5eOW38r2oTvJmkx0uwNodv4=/0x0/filters:format(jpeg)/pic8378939.jpg",
@@ -308,14 +308,14 @@
             "wanttoplay": 0,
             "wanttobuy": 0,
             "wishlist": 0,
-            "preordered": 0,
-            "lastmodified": "2026-09-21 04:39:14"
+            "preordered": 1,
+            "lastmodified": "2026-09-22 05:24:18"
         }
     },
     {
         "id": 199792,
         "externalSrc": "https://boardgamegeek.com/boardgame/199792/",
-        "rating": 7.7987,
+        "rating": 7.79851,
         "name": "Everdell",
         "year": 2018,
         "backgroundImage": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__original/img/HQ1ti16wT9lqja5_h3gUfHUIcVI=/0x0/filters:format(png)/pic3918905.png",
@@ -329,7 +329,7 @@
             3
         ],
         "bestPlayers": "3",
-        "weight_raw": 2.8347,
+        "weight_raw": 2.8348,
         "weight": "Komplex",
         "caption": "",
         "tags": [
@@ -923,6 +923,11 @@
             },
             {
                 "type": "boardgameimplementation",
+                "id": 479726,
+                "value": "Gather, an Everdell Card Game"
+            },
+            {
+                "type": "boardgameimplementation",
                 "id": 375852,
                 "value": "Welcome to Everdell"
             },
@@ -1082,7 +1087,7 @@
     {
         "id": 366013,
         "externalSrc": "https://boardgamegeek.com/boardgame/366013/",
-        "rating": 7.79528,
+        "rating": 7.79526,
         "name": "Heat: Pedal to the Metal",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png",
@@ -1340,7 +1345,7 @@
     {
         "id": 365717,
         "externalSrc": "https://boardgamegeek.com/boardgame/365717/",
-        "rating": 7.79306,
+        "rating": 7.79317,
         "name": "Clank!: Catacombs",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/cCLn9Mvb7jRSaZzHeUXhoQ__original/img/NK4hsA9nc-kdI07hR0Nc23dL_bk=/0x0/filters:format(jpeg)/pic6937913.jpg",
@@ -1838,7 +1843,7 @@
     {
         "id": 240980,
         "externalSrc": "https://boardgamegeek.com/boardgame/240980/",
-        "rating": 7.72605,
+        "rating": 7.72587,
         "name": "Blood on the Clocktower",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__original/img/e7izEwSmnBPiErsIF6hlWbgybBE=/0x0/filters:format(jpeg)/pic7009391.jpg",
@@ -2158,7 +2163,7 @@
     {
         "id": 413246,
         "externalSrc": "https://boardgamegeek.com/boardgame/413246/",
-        "rating": 7.65281,
+        "rating": 7.65283,
         "name": "Bomb Busters",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__original/img/2uApg8IOYjNVSzbUIwJUa-Z8eL8=/0x0/filters:format(png)/pic8303080.png",
@@ -2386,7 +2391,7 @@
     {
         "id": 284083,
         "externalSrc": "https://boardgamegeek.com/boardgame/284083/",
-        "rating": 7.61069,
+        "rating": 7.61073,
         "name": "The Crew: The Quest for Planet Nine",
         "year": 2019,
         "backgroundImage": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__original/img/Q-ZkgnuBu9OTBr7J3qnqPjqamAE=/0x0/filters:format(jpeg)/pic5687013.jpg",
@@ -2688,7 +2693,7 @@
     {
         "id": 359871,
         "externalSrc": "https://boardgamegeek.com/boardgame/359871/",
-        "rating": 7.59287,
+        "rating": 7.5926,
         "name": "Arcs",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__original/img/43ianMZOks7UHlZILx0VBRntOmM=/0x0/filters:format(png)/pic8145530.png",
@@ -2703,7 +2708,7 @@
             4
         ],
         "bestPlayers": "3-4",
-        "weight_raw": 3.4482,
+        "weight_raw": 3.4464,
         "weight": "Komplex",
         "caption": "",
         "tags": [
@@ -2964,14 +2969,14 @@
             "wanttoplay": 0,
             "wanttobuy": 0,
             "wishlist": 0,
-            "preordered": 0,
-            "lastmodified": "2026-09-21 04:38:20"
+            "preordered": 1,
+            "lastmodified": "2026-09-22 05:23:31"
         }
     },
     {
         "id": 121921,
         "externalSrc": "https://boardgamegeek.com/boardgame/121921/",
-        "rating": 7.54081,
+        "rating": 7.54075,
         "name": "Robinson Crusoe: Adventures on the Cursed Island",
         "year": 2012,
         "backgroundImage": "https://cf.geekdo-images.com/zvHPgrNb9mgkHQk-BwVemA__original/img/OUdMMPwYXTd5JIBG9skImPqa8bg=/0x0/filters:format(jpeg)/pic6026697.jpg",
@@ -3804,7 +3809,7 @@
     {
         "id": 178900,
         "externalSrc": "https://boardgamegeek.com/boardgame/178900/",
-        "rating": 7.42669,
+        "rating": 7.42663,
         "name": "Codenames",
         "year": 2015,
         "backgroundImage": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__original/img/Id-jjIer_61ZbvI2_RVRCeBZFY4=/0x0/filters:format(jpeg)/pic8907965.jpg",
@@ -4473,7 +4478,7 @@
     {
         "id": 416851,
         "externalSrc": "https://boardgamegeek.com/boardgame/416851/",
-        "rating": 7.35735,
+        "rating": 7.35754,
         "name": "Castle Combo",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU=/0x0/filters:format(png)/pic8250341.png",
@@ -4487,7 +4492,7 @@
             2
         ],
         "bestPlayers": "2",
-        "weight_raw": 1.7343,
+        "weight_raw": 1.7332,
         "weight": "Mittel",
         "caption": "",
         "tags": [
@@ -4700,7 +4705,7 @@
     {
         "id": 192291,
         "externalSrc": "https://boardgamegeek.com/boardgame/192291/",
-        "rating": 7.21519,
+        "rating": 7.21508,
         "name": "Sushi Go Party!",
         "year": 2016,
         "backgroundImage": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__original/img/WQcFmlhYBMIp8f6gNNVhnnue1w4=/0x0/filters:format(jpeg)/pic5885689.jpg",
@@ -4944,7 +4949,7 @@
     {
         "id": 333255,
         "externalSrc": "https://boardgamegeek.com/boardgame/333255/",
-        "rating": 7.14584,
+        "rating": 7.14618,
         "name": "Keep the Heroes Out!",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__original/img/qtWs6Wg0a241k2D1TWWbesVwu-s=/0x0/filters:format(jpeg)/pic6985339.jpg",
@@ -5246,7 +5251,7 @@
     {
         "id": 160477,
         "externalSrc": "https://boardgamegeek.com/boardgame/160477/",
-        "rating": 7.13445,
+        "rating": 7.1342,
         "name": "Onitama",
         "year": 2014,
         "backgroundImage": "https://cf.geekdo-images.com/GJKuOCy5HGAYgVH_Rei5mA__original/img/oRsIxp72iv58128KFdqvjG6Gz64=/0x0/filters:format(jpeg)/pic7070194.jpg",
@@ -5523,7 +5528,7 @@
     {
         "id": 245655,
         "externalSrc": "https://boardgamegeek.com/boardgame/245655/",
-        "rating": 7.09169,
+        "rating": 7.09143,
         "name": "The King's Dilemma",
         "year": 2019,
         "backgroundImage": "https://cf.geekdo-images.com/FJlTdSMkK5hMNtCympJFmg__original/img/pr_jKPa74JjBBm30Mo9Uj9Jq1-w=/0x0/filters:format(jpeg)/pic5429837.jpg",
@@ -5760,7 +5765,7 @@
     {
         "id": 334986,
         "externalSrc": "https://boardgamegeek.com/boardgame/334986/",
-        "rating": 7.07251,
+        "rating": 7.07241,
         "name": "Daybreak",
         "year": 2023,
         "backgroundImage": "https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__original/img/6umYavtw4Iw41gTtBZhNS7LrKIA=/0x0/filters:format(png)/pic7068528.png",
@@ -6022,7 +6027,7 @@
     {
         "id": 345584,
         "externalSrc": "https://boardgamegeek.com/boardgame/345584/",
-        "rating": 7.06904,
+        "rating": 7.06878,
         "name": "Mindbug: First Contact",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/b8gl6w-BqUVgBURdyFcFZg__original/img/chGo_gyJr418yMPchcWhLoW5AjQ=/0x0/filters:format(png)/pic7646386.png",
@@ -6369,7 +6374,7 @@
     {
         "id": 356033,
         "externalSrc": "https://boardgamegeek.com/boardgame/356033/",
-        "rating": 6.98861,
+        "rating": 6.98852,
         "name": "Libertalia: Winds of Galecrest",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/6e-V_Xb2IsAsMNXU18Fi6A__original/img/gLDo-RR_9RvU_Hrs9DnHWy_TWpk=/0x0/filters:format(jpeg)/pic6669033.jpg",
@@ -6609,7 +6614,7 @@
     {
         "id": 307002,
         "externalSrc": "https://boardgamegeek.com/boardgame/307002/",
-        "rating": 6.96696,
+        "rating": 6.96709,
         "name": "Regicide",
         "year": 2020,
         "backgroundImage": "https://cf.geekdo-images.com/C9U2E51tkzLljewFEGQ74g__original/img/Q-a5lAydzhwNLLhy8n326tlxuYE=/0x0/filters:format(jpeg)/pic5837347.jpg",
@@ -6821,7 +6826,7 @@
     {
         "id": 406652,
         "externalSrc": "https://boardgamegeek.com/boardgame/406652/",
-        "rating": 6.95927,
+        "rating": 6.95949,
         "name": "Compile: Main 1",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/KMSUmBs9elKj4qBMxGVFgw__original/img/gE1a5OvsMQJt-LSDS7ktEoYzX1w=/0x0/filters:format(png)/pic8778267.png",
@@ -7058,7 +7063,7 @@
     {
         "id": 12942,
         "externalSrc": "https://boardgamegeek.com/boardgame/12942/",
-        "rating": 6.95424,
+        "rating": 6.95409,
         "name": "No Thanks!",
         "year": 2004,
         "backgroundImage": "https://cf.geekdo-images.com/JSAs8aMopjf8P9JXwTMV7w__original/img/pm0ioQ1vNabJExMgcXwB2oMIalY=/0x0/filters:format(png)/pic9005058.png",
@@ -7844,7 +7849,7 @@
     {
         "id": 6249,
         "externalSrc": "https://boardgamegeek.com/boardgame/6249/",
-        "rating": 6.90578,
+        "rating": 6.90583,
         "name": "Alhambra",
         "year": 2003,
         "backgroundImage": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__original/img/Oe2ZTGE2hUnyZQIEoIjM_zwYfcY=/0x0/filters:format(jpeg)/pic4893652.jpg",
@@ -8252,7 +8257,7 @@
     {
         "id": 28023,
         "externalSrc": "https://boardgamegeek.com/boardgame/28023/",
-        "rating": 6.87386,
+        "rating": 6.87375,
         "name": "Jamaica",
         "year": 2007,
         "backgroundImage": "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__original/img/aLqKSqw-RWyR4wyfFUywWMQXUTc=/0x0/filters:format(png)/pic6434838.png",
@@ -8470,7 +8475,7 @@
     {
         "id": 399941,
         "externalSrc": "https://boardgamegeek.com/boardgame/399941/",
-        "rating": 6.84337,
+        "rating": 6.84327,
         "name": "River of Gold",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__original/img/VNiDkGDA9mEdFmWPCoH7lUBnG8E=/0x0/filters:format(jpeg)/pic7697889.jpg",
@@ -8667,7 +8672,7 @@
     {
         "id": 131357,
         "externalSrc": "https://boardgamegeek.com/boardgame/131357/",
-        "rating": 6.83007,
+        "rating": 6.83006,
         "name": "Coup",
         "year": 2012,
         "backgroundImage": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__original/img/ayAAWBK1rAEumARNmROsOtvqW-4=/0x0/filters:format(jpeg)/pic2016054.jpg",
@@ -9099,7 +9104,7 @@
     {
         "id": 135779,
         "externalSrc": "https://boardgamegeek.com/boardgame/135779/",
-        "rating": 6.7939,
+        "rating": 6.79394,
         "name": "A Fake Artist Goes to New York",
         "year": 2011,
         "backgroundImage": "https://cf.geekdo-images.com/5Q5YHxJeVp6PAhfv5Ct0-g__original/img/yRNioltDOtjrTRXa0HHoTTCWNf8=/0x0/filters:format(png)/pic3678404.png",
@@ -9114,7 +9119,7 @@
             7
         ],
         "bestPlayers": "6-7",
-        "weight_raw": 1.0947,
+        "weight_raw": 1.0942,
         "weight": "Leicht",
         "caption": "",
         "tags": [
@@ -9232,7 +9237,7 @@
     {
         "id": 331265,
         "externalSrc": "https://boardgamegeek.com/boardgame/331265/",
-        "rating": 6.75034,
+        "rating": 6.75018,
         "name": "Port Royal: Big Box",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/T2czH3s3vbNV0pf1bZhhQQ__original/img/JjOQBblshAUuKKtYxIqQ3CKM4bM=/0x0/filters:format(jpeg)/pic6265475.jpg",
@@ -9485,7 +9490,7 @@
     {
         "id": 123540,
         "externalSrc": "https://boardgamegeek.com/boardgame/123540/",
-        "rating": 6.73651,
+        "rating": 6.73649,
         "name": "Tokaido",
         "year": 2012,
         "backgroundImage": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__original/img/NWuaZkfygEeQ7nvi0Ih7_FW9jO0=/0x0/filters:format(jpeg)/pic8758132.jpg",
@@ -9837,7 +9842,7 @@
     {
         "id": 372559,
         "externalSrc": "https://boardgamegeek.com/boardgame/372559/",
-        "rating": 6.72355,
+        "rating": 6.72385,
         "name": "Spots",
         "year": 2022,
         "backgroundImage": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__original/img/GklWmrbqMips7ref85Pa-X5eNQQ=/0x0/filters:format(png)/pic7592453.png",
@@ -10035,7 +10040,7 @@
     {
         "id": 15512,
         "externalSrc": "https://boardgamegeek.com/boardgame/15512/",
-        "rating": 6.71071,
+        "rating": 6.71076,
         "name": "Diamant",
         "year": 2005,
         "backgroundImage": "https://cf.geekdo-images.com/G7gR2mJRPosZmGahXFKFXA__original/img/mwD68OdF-9k-Jkd9dRY87Nt__qo=/0x0/filters:format(jpeg)/pic7924444.jpg",
@@ -10606,7 +10611,7 @@
     {
         "id": 169654,
         "externalSrc": "https://boardgamegeek.com/boardgame/169654/",
-        "rating": 6.68294,
+        "rating": 6.68281,
         "name": "Deep Sea Adventure",
         "year": 2014,
         "backgroundImage": "https://cf.geekdo-images.com/owyKXaa5SPB2HG9F_MueNQ__original/img/gOmpUB3hM7Ap9o-kDsV8ZVBVYXA=/0x0/filters:format(png)/pic3169827.png",
@@ -10778,7 +10783,7 @@
     {
         "id": 402283,
         "externalSrc": "https://boardgamegeek.com/boardgame/402283/",
-        "rating": 6.65391,
+        "rating": 6.65407,
         "name": "Courtisans",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/JK1HbIGtiVfsIbnw3Q543w__original/img/kPNCItrb8GwoIwV9R-vjczIkJR4=/0x0/filters:format(jpeg)/pic8004908.jpg",
@@ -10954,7 +10959,7 @@
     {
         "id": 381249,
         "externalSrc": "https://boardgamegeek.com/boardgame/381249/",
-        "rating": 6.64122,
+        "rating": 6.64104,
         "name": "Rebel Princess",
         "year": 2023,
         "backgroundImage": "https://cf.geekdo-images.com/HuWvVU2tcff-vu3EjPtk6Q__original/img/K2Fopgt-7pfYCu8jtlrcWJ92yeU=/0x0/filters:format(jpeg)/pic7605211.jpg",
@@ -11140,7 +11145,7 @@
     {
         "id": 206915,
         "externalSrc": "https://boardgamegeek.com/boardgame/206915/",
-        "rating": 6.55344,
+        "rating": 6.55388,
         "name": "Tempel des Schreckens",
         "year": 2016,
         "backgroundImage": "https://cf.geekdo-images.com/ClTSck2VjriYWdVDv4FKNQ__original/img/R9-cKEvUx2ED6DKwN_MqPwBmQYU=/0x0/filters:format(png)/pic3141267.png",
@@ -11502,7 +11507,7 @@
     {
         "id": 1115,
         "externalSrc": "https://boardgamegeek.com/boardgame/1115/",
-        "rating": 6.46801,
+        "rating": 6.46776,
         "name": "Poker",
         "year": 1810,
         "backgroundImage": "https://cf.geekdo-images.com/QhsvR9GY0LbTpj27fairWA__original/img/4ODyzAOOgoIJrUzLOjtzItR2uH0=/0x0/filters:format(jpeg)/pic186610.jpg",
@@ -11860,7 +11865,7 @@
     {
         "id": 25821,
         "externalSrc": "https://boardgamegeek.com/boardgame/25821/",
-        "rating": 6.41452,
+        "rating": 6.41427,
         "name": "The Werewolves of Miller's Hollow",
         "year": 2001,
         "backgroundImage": "https://cf.geekdo-images.com/rZ0tOafAt1oue_7NKqELsg__original/img/Mxx1Abak0zV1FhoDr5HOnMirFAM=/0x0/filters:format(jpeg)/pic7203269.jpg",
@@ -12121,7 +12126,7 @@
     {
         "id": 9220,
         "externalSrc": "https://boardgamegeek.com/boardgame/9220/",
-        "rating": 6.40926,
+        "rating": 6.40922,
         "name": "Saboteur",
         "year": 2004,
         "backgroundImage": "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__original/img/TgwkFfJF5IrhjwNm8OVwdn34sJE=/0x0/filters:format(jpeg)/pic8679622.jpg",
@@ -12967,7 +12972,7 @@
     {
         "id": 400498,
         "externalSrc": "https://boardgamegeek.com/boardgame/400498/",
-        "rating": 6.31406,
+        "rating": 6.31378,
         "name": "Light Speed: Arena",
         "year": 2025,
         "backgroundImage": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__original/img/WYNbP3hN-y7GW00bzsbWMDoDWVw=/0x0/filters:format(png)/pic8866023.png",
@@ -13235,7 +13240,7 @@
     {
         "id": 423517,
         "externalSrc": "https://boardgamegeek.com/boardgame/423517/",
-        "rating": 6.30196,
+        "rating": 6.30214,
         "name": "3 Chapters",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/es3F2drfUOIVnqsTds3BDQ__original/img/aagzL4ORPemw2xi3FL4575gKYhA=/0x0/filters:format(png)/pic8940639.png",
@@ -13442,7 +13447,7 @@
     {
         "id": 180020,
         "externalSrc": "https://boardgamegeek.com/boardgame/180020/",
-        "rating": 6.29475,
+        "rating": 6.29454,
         "name": "Virus!",
         "year": 2015,
         "backgroundImage": "https://cf.geekdo-images.com/7Xx4ipXV4lf0Q9mWwitf2w__original/img/reScLMXXNowNt1koQwV5IhYRUc0=/0x0/filters:format(jpeg)/pic6008974.jpg",
@@ -13693,7 +13698,7 @@
     {
         "id": 311322,
         "externalSrc": "https://boardgamegeek.com/boardgame/311322/",
-        "rating": 6.14724,
+        "rating": 6.14712,
         "name": "Herd Mentality",
         "year": 2020,
         "backgroundImage": "https://cf.geekdo-images.com/85hYrpSl9Aoh2TgMf4CiDA__original/img/QPcr2EfpZjJzvNGjfQZwRbs-kMo=/0x0/filters:format(png)/pic5509026.png",
@@ -13859,7 +13864,7 @@
     {
         "id": 40398,
         "externalSrc": "https://boardgamegeek.com/boardgame/40398/",
-        "rating": 6.09756,
+        "rating": 6.09784,
         "name": "Monopoly Deal Card Game",
         "year": 2008,
         "backgroundImage": "https://cf.geekdo-images.com/XACkCb3JL0uvF6xOn0lRSg__original/img/BBhxJBuYU2N7oTs1oxfuVsHJ47w=/0x0/filters:format(jpeg)/pic4595026.jpg",
@@ -14061,7 +14066,7 @@
     {
         "id": 105593,
         "externalSrc": "https://boardgamegeek.com/boardgame/105593/",
-        "rating": 6.09186,
+        "rating": 6.09148,
         "name": "Cheating Moth",
         "year": 2011,
         "backgroundImage": "https://cf.geekdo-images.com/7w7ht4bmAnu0j-_qgcYPiQ__original/img/C1hf_pbsGvD5HP-N0iHME_HSH1E=/0x0/filters:format(jpeg)/pic2220182.jpg",
@@ -14210,7 +14215,7 @@
     {
         "id": 343282,
         "externalSrc": "https://boardgamegeek.com/boardgame/343282/",
-        "rating": 5.90617,
+        "rating": 5.90565,
         "name": "Exploding Kittens: Recipes for Disaster",
         "year": 2021,
         "backgroundImage": "https://cf.geekdo-images.com/gbw-3lRou0Xa3hXhGmxLyw__original/img/WoPpM4Wc9MK-wgC8kNyMV-RrESg=/0x0/filters:format(jpeg)/pic6305890.jpg",
@@ -14348,7 +14353,7 @@
     {
         "id": 414107,
         "externalSrc": "https://boardgamegeek.com/boardgame/414107/",
-        "rating": 5.83434,
+        "rating": 5.83373,
         "name": "Ratjack",
         "year": 2024,
         "backgroundImage": "https://cf.geekdo-images.com/S2r-rQ7LD7vO1A0-jj6mGA__original/img/g8LrApR7w3V2jJDuHJP3i84dfPA=/0x0/filters:format(png)/pic8267854.png",
@@ -14499,7 +14504,7 @@
     {
         "id": 1927,
         "externalSrc": "https://boardgamegeek.com/boardgame/1927/",
-        "rating": 5.69187,
+        "rating": 5.69182,
         "name": "Munchkin",
         "year": 2001,
         "backgroundImage": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__original/img/FbqPPCilgZKND2xmhWJgkfjZiYE=/0x0/filters:format(jpeg)/pic1871016.jpg",
@@ -16151,7 +16156,7 @@
     {
         "id": 331685,
         "externalSrc": "https://boardgamegeek.com/boardgame/331685/",
-        "rating": 5.67465,
+        "rating": 5.67554,
         "name": "Hit the Silk!",
         "year": 2021,
         "backgroundImage": "https://cf.geekdo-images.com/uu3_la80Rx6TiuDtEpXO9A__original/img/FxCrJrezkX5E_oUWVS7J4GJi0Tg=/0x0/filters:format(jpeg)/pic6433684.jpg",
@@ -16415,7 +16420,7 @@
     {
         "id": 465286,
         "externalSrc": "https://boardgamegeek.com/boardgame/465286/",
-        "rating": 5.57374,
+        "rating": 5.57392,
         "name": "Trash Poker",
         "year": 2026,
         "backgroundImage": "https://cf.geekdo-images.com/ZQBBDjGY43KFR9Uf2iYgew__original/img/iMZexAk70m3OuSebmdHBphGRXck=/0x0/filters:format(png)/pic9428553.png",
@@ -16777,7 +16782,7 @@
     {
         "id": 2223,
         "externalSrc": "https://boardgamegeek.com/boardgame/2223/",
-        "rating": 5.35627,
+        "rating": 5.35617,
         "name": "UNO",
         "year": 1971,
         "backgroundImage": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__original/img/fRfoyWezpQsumExNKVxf1cwtJfg=/0x0/filters:format(jpeg)/pic8204165.jpg",
@@ -16793,7 +16798,7 @@
             6
         ],
         "bestPlayers": "4-6",
-        "weight_raw": 1.0991,
+        "weight_raw": 1.099,
         "weight": "Leicht",
         "caption": "",
         "tags": [
