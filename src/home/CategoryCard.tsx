@@ -68,6 +68,13 @@ export function getPlayerRecommendation(item: Item) {
   return `${item.minPlayers}-${item.maxPlayers} (${item.bestPlayers})`;
 }
 
+export function getPlayTimeRecommendation(item: Item) {
+  if (item.minPlayTime === item.maxPlayTime) {
+    return `${item.playTime}'`;
+  }
+  return `${item.minPlayTime}-${item.maxPlayTime}'`;
+}
+
 function DetailedCard({item}: { item: Item }) {
   return (
     <Card className={'category-card'} onClick={() => window.open(item.externalSrc, '_blank', 'noopener noreferrer')}>
@@ -92,8 +99,9 @@ function DetailedCard({item}: { item: Item }) {
               marginTop: '-1rem', display: 'flex', justifyContent: 'space-between'
             }}
           >
-            <span>Spieler {getPlayerRecommendation(item)}</span>
-            <span>{item.weight}</span>
+            <span>Spieler<br/>{getPlayerRecommendation(item)}</span>
+            <span>Dauer<br/>{getPlayTimeRecommendation(item)}</span>
+            <span><br/>{item.weight}</span>
           </Typography>
         </div>
       </CardPrimaryAction>

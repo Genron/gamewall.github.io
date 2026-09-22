@@ -739,7 +739,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 04:28:26"
-        }
+        },
+        "minPlayTime": 40,
+        "maxPlayTime": 80,
+        "playTime": 80
     },
     {
         "id": 366013,
@@ -997,7 +1000,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-09-10 02:30:18"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 60,
+        "playTime": 60
     },
     {
         "id": 240980,
@@ -1317,7 +1323,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-12-08 05:22:21"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 120,
+        "playTime": 120
     },
     {
         "id": 284083,
@@ -1609,7 +1618,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:43:12"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 20,
+        "playTime": 20
     },
     {
         "id": 413246,
@@ -1817,7 +1829,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:42:45"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 121921,
@@ -2645,7 +2660,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:43:38"
-        }
+        },
+        "minPlayTime": 60,
+        "maxPlayTime": 120,
+        "playTime": 120
     },
     {
         "id": 178900,
@@ -3309,7 +3327,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:50:14"
-        }
+        },
+        "minPlayTime": 15,
+        "maxPlayTime": 15,
+        "playTime": 15
     },
     {
         "id": 416851,
@@ -3531,7 +3552,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 04:29:37"
-        }
+        },
+        "minPlayTime": 10,
+        "maxPlayTime": 25,
+        "playTime": 25
     },
     {
         "id": 160477,
@@ -3793,7 +3817,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:50:02"
-        }
+        },
+        "minPlayTime": 15,
+        "maxPlayTime": 20,
+        "playTime": 20
     },
     {
         "id": 333255,
@@ -4090,7 +4117,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:42:29"
-        }
+        },
+        "minPlayTime": 40,
+        "maxPlayTime": 40,
+        "playTime": 40
     },
     {
         "id": 245655,
@@ -4322,7 +4352,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2026-01-19 14:45:37"
-        }
+        },
+        "minPlayTime": 45,
+        "maxPlayTime": 60,
+        "playTime": 60
     },
     {
         "id": 345584,
@@ -4649,7 +4682,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2026-02-24 00:18:58"
-        }
+        },
+        "minPlayTime": 15,
+        "maxPlayTime": 25,
+        "playTime": 25
     },
     {
         "id": 334986,
@@ -4901,7 +4937,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:42:11"
-        }
+        },
+        "minPlayTime": 60,
+        "maxPlayTime": 120,
+        "playTime": 120
     },
     {
         "id": 356033,
@@ -5136,7 +5175,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:49:49"
-        }
+        },
+        "minPlayTime": 45,
+        "maxPlayTime": 60,
+        "playTime": 60
     },
     {
         "id": 12942,
@@ -5444,7 +5486,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:50:38"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 20,
+        "playTime": 20
     },
     {
         "id": 158899,
@@ -5892,7 +5937,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:45:39"
-        }
+        },
+        "minPlayTime": 40,
+        "maxPlayTime": 40,
+        "playTime": 40
     },
     {
         "id": 307002,
@@ -6099,7 +6147,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:45:02"
-        }
+        },
+        "minPlayTime": 10,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 6249,
@@ -6502,7 +6553,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:43:51"
-        }
+        },
+        "minPlayTime": 45,
+        "maxPlayTime": 60,
+        "playTime": 60
     },
     {
         "id": 28023,
@@ -6720,7 +6774,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:47:42"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 60,
+        "playTime": 60
     },
     {
         "id": 406652,
@@ -6917,7 +6974,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-10-31 04:30:44"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 131357,
@@ -7344,7 +7404,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 04:29:10"
-        }
+        },
+        "minPlayTime": 15,
+        "maxPlayTime": 15,
+        "playTime": 15
     },
     {
         "id": 135779,
@@ -7477,7 +7540,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:51:37"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 20,
+        "playTime": 20
     },
     {
         "id": 399941,
@@ -7669,7 +7735,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2026-01-19 14:46:30"
-        }
+        },
+        "minPlayTime": 60,
+        "maxPlayTime": 90,
+        "playTime": 90
     },
     {
         "id": 123540,
@@ -8021,7 +8090,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:48:55"
-        }
+        },
+        "minPlayTime": 45,
+        "maxPlayTime": 45,
+        "playTime": 45
     },
     {
         "id": 331265,
@@ -8274,7 +8346,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:49:23"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 50,
+        "playTime": 50
     },
     {
         "id": 15512,
@@ -8593,7 +8668,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:49:36"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 40,
+        "playTime": 40
     },
     {
         "id": 241724,
@@ -8835,7 +8913,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:44:05"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 60,
+        "playTime": 60
     },
     {
         "id": 372559,
@@ -9032,7 +9113,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:50:26"
-        }
+        },
+        "minPlayTime": 25,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 169654,
@@ -9194,7 +9278,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:50:52"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 402283,
@@ -9360,7 +9447,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:45:55"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 381249,
@@ -9541,7 +9631,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:44:48"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 40,
+        "playTime": 40
     },
     {
         "id": 228855,
@@ -9768,7 +9861,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-12-12 12:21:09"
-        }
+        },
+        "minPlayTime": 45,
+        "maxPlayTime": 80,
+        "playTime": 80
     },
     {
         "id": 206915,
@@ -9903,7 +9999,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:49:08"
-        }
+        },
+        "minPlayTime": 15,
+        "maxPlayTime": 15,
+        "playTime": 15
     },
     {
         "id": 1115,
@@ -10255,7 +10354,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:41:55"
-        }
+        },
+        "minPlayTime": 60,
+        "maxPlayTime": 60,
+        "playTime": 60
     },
     {
         "id": 25821,
@@ -10512,7 +10614,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:48:29"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 9220,
@@ -10995,7 +11100,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-12-10 06:34:19"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 336755,
@@ -11333,7 +11441,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:46:35"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 180020,
@@ -11579,7 +11690,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:47:21"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 20,
+        "playTime": 20
     },
     {
         "id": 423517,
@@ -11786,7 +11900,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2026-01-11 01:00:30"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 311322,
@@ -11947,7 +12064,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 04:28:42"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 400498,
@@ -12165,7 +12285,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:52:25"
-        }
+        },
+        "minPlayTime": 5,
+        "maxPlayTime": 15,
+        "playTime": 15
     },
     {
         "id": 105593,
@@ -12314,7 +12437,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:48:41"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 40398,
@@ -12511,7 +12637,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2026-01-04 02:27:38"
-        }
+        },
+        "minPlayTime": 15,
+        "maxPlayTime": 15,
+        "playTime": 15
     },
     {
         "id": 343282,
@@ -12649,7 +12778,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:46:14"
-        }
+        },
+        "minPlayTime": 15,
+        "maxPlayTime": 15,
+        "playTime": 15
     },
     {
         "id": 414107,
@@ -12800,7 +12932,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:44:21"
-        }
+        },
+        "minPlayTime": 15,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 1927,
@@ -14442,7 +14577,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:46:51"
-        }
+        },
+        "minPlayTime": 60,
+        "maxPlayTime": 120,
+        "playTime": 120
     },
     {
         "id": 130592,
@@ -14564,7 +14702,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-12-08 05:50:57"
-        }
+        },
+        "minPlayTime": 40,
+        "maxPlayTime": 40,
+        "playTime": 40
     },
     {
         "id": 331685,
@@ -14706,7 +14847,10 @@
             "wishlist": 0,
             "preordered": 1,
             "lastmodified": "2026-02-11 13:53:43"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 45,
+        "playTime": 45
     },
     {
         "id": 382158,
@@ -14843,7 +14987,10 @@
             "wishlist": 0,
             "preordered": 1,
             "lastmodified": "2026-02-11 13:53:14"
-        }
+        },
+        "minPlayTime": 60,
+        "maxPlayTime": 90,
+        "playTime": 90
     },
     {
         "id": 360177,
@@ -14946,7 +15093,10 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:47:06"
-        }
+        },
+        "minPlayTime": 20,
+        "maxPlayTime": 30,
+        "playTime": 30
     },
     {
         "id": 2223,
@@ -15625,6 +15775,9 @@
             "wishlist": 0,
             "preordered": 0,
             "lastmodified": "2025-11-25 12:44:36"
-        }
+        },
+        "minPlayTime": 30,
+        "maxPlayTime": 30,
+        "playTime": 30
     }
 ]
