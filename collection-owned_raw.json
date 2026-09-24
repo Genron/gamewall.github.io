@@ -2,7 +2,7 @@
     "items": {
         "totalitems": 63,
         "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
-        "pubdate": "Tue, 22 Sep 2026 10:25:30 +0000",
+        "pubdate": "Thu, 24 Sep 2026 17:42:05 +0000",
         "item": [
             {
                 "objecttype": "thing",
@@ -99,8 +99,8 @@
                     "wanttoplay": 0,
                     "wanttobuy": 0,
                     "wishlist": 0,
-                    "preordered": 1,
-                    "lastmodified": "2026-09-22 05:23:31"
+                    "preordered": 0,
+                    "lastmodified": "2026-09-24 12:41:06"
                 },
                 "numplays": 0
             },
@@ -924,8 +924,8 @@
                     "wanttoplay": 0,
                     "wanttobuy": 0,
                     "wishlist": 0,
-                    "preordered": 1,
-                    "lastmodified": "2026-09-22 05:24:18"
+                    "preordered": 0,
+                    "lastmodified": "2026-09-24 12:40:20"
                 },
                 "numplays": 0
             },
