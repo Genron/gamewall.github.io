@@ -2,7 +2,7 @@
     "items": {
         "totalitems": 63,
         "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
-        "pubdate": "Thu, 24 Sep 2026 17:42:05 +0000",
+        "pubdate": "Thu, 19 Nov 2026 11:23:33 +0000",
         "item": [
             {
                 "objecttype": "thing",
@@ -63,7 +63,7 @@
                     "_": "Almighty",
                     "sortindex": 1
                 },
-                "yearpublished": 2027,
+                "yearpublished": 2026,
                 "image": "https://cf.geekdo-images.com/ZAQzUeNiRNmWJqA0uU3RCQ__original/img/xqKKoQxQjwuRPI33bZHxFnYH7rg=/0x0/filters:format(png)/pic9033470.png",
                 "thumbnail": "https://cf.geekdo-images.com/ZAQzUeNiRNmWJqA0uU3RCQ__small/img/mJgjXt6fWnltfPTL-iTiZdjbk9w=/fit-in/200x150/filters:strip_icc()/pic9033470.png",
                 "status": {
@@ -74,8 +74,8 @@
                     "wanttoplay": 0,
                     "wanttobuy": 0,
                     "wishlist": 0,
-                    "preordered": 1,
-                    "lastmodified": "2026-02-11 13:53:14"
+                    "preordered": 0,
+                    "lastmodified": "2026-11-19 05:20:54"
                 },
                 "numplays": 0
             },
@@ -89,8 +89,8 @@
                     "sortindex": 1
                 },
                 "yearpublished": 2024,
-                "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__original/img/43ianMZOks7UHlZILx0VBRntOmM=/0x0/filters:format(png)/pic8145530.png",
-                "thumbnail": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__small/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png",
+                "image": "https://cf.geekdo-images.com/bY5Bpy4fnoq1Nwj1C7dHbA__original/img/476qZ3wAHdl3_eIwaVi7BtPIseE=/0x0/filters:format(png)/pic9926454.png",
+                "thumbnail": "https://cf.geekdo-images.com/bY5Bpy4fnoq1Nwj1C7dHbA__small/img/kdet5soH_r7fScoWlaJOHP-KC2A=/fit-in/200x150/filters:strip_icc()/pic9926454.png",
                 "status": {
                     "own": 1,
                     "prevowned": 0,
@@ -539,8 +539,8 @@
                     "sortindex": 1
                 },
                 "yearpublished": 2021,
-                "image": "https://cf.geekdo-images.com/gbw-3lRou0Xa3hXhGmxLyw__original/img/WoPpM4Wc9MK-wgC8kNyMV-RrESg=/0x0/filters:format(jpeg)/pic6305890.jpg",
-                "thumbnail": "https://cf.geekdo-images.com/gbw-3lRou0Xa3hXhGmxLyw__small/img/z0hiwez7q9oXDx7YnOqh_TtTtAo=/fit-in/200x150/filters:strip_icc()/pic6305890.jpg",
+                "image": "https://cf.geekdo-images.com/lYZlmPP7QOfNMFTpGrzlyA__original/img/Jnhxt6gFn2Cmfy4nitWkF8ITX2k=/0x0/filters:format(jpeg)/pic6305895.jpg",
+                "thumbnail": "https://cf.geekdo-images.com/lYZlmPP7QOfNMFTpGrzlyA__small/img/Ai9twRYxP9PuiE5zrrprplJJCUM=/fit-in/200x150/filters:strip_icc()/pic6305895.jpg",
                 "status": {
                     "own": 1,
                     "prevowned": 0,
@@ -1364,8 +1364,8 @@
                     "sortindex": 1
                 },
                 "yearpublished": 2022,
-                "image": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__original/img/GklWmrbqMips7ref85Pa-X5eNQQ=/0x0/filters:format(png)/pic7592453.png",
-                "thumbnail": "https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__small/img/BgniZvPRJVenqn7XHd4TQtsSuwI=/fit-in/200x150/filters:strip_icc()/pic7592453.png",
+                "image": "https://cf.geekdo-images.com/_vpGz_tMPCU6Cw2DLTR0gA__original/img/ihTidF_iEJdhdz9MonqmpqT4udo=/0x0/filters:format(png)/pic9730092.png",
+                "thumbnail": "https://cf.geekdo-images.com/_vpGz_tMPCU6Cw2DLTR0gA__small/img/68cCtiiTykY7BcqNUVe1eq10sSA=/fit-in/200x150/filters:strip_icc()/pic9730092.png",
                 "status": {
                     "own": 1,
                     "prevowned": 0,
